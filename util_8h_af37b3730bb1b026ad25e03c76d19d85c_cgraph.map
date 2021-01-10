@@ -1,4 +1,0 @@
-<map id="thread_set_cpu" name="thread_set_cpu">
-<area shape="rect" id="node1" title="Choose a single core or cpu to run on, under linux systems, to avoid context changes." alt="" coords="5,5,116,32"/>
-<area shape="rect" id="node2" href="$util_8h.html#aeae5add86d0fc805a539c9ad739543f4" title=" " alt="" coords="164,5,207,32"/>
-</map>

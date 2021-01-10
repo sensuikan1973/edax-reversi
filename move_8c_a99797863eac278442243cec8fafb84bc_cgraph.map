@@ -1,4 +1,0 @@
-<map id="movelist_sort_cost" name="movelist_sort_cost">
-<area shape="rect" id="node1" title="Sort all moves except the first, based on move cost &amp; hash_table storage." alt="" coords="5,5,137,32"/>
-<area shape="rect" id="node2" href="$move_8c.html#ae76c2c177fe1aafe9d5be784f6a1f261" title="Return the next best move from the list." alt="" coords="185,5,372,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="obf_read" name="obf_read">
-<area shape="rect" id="node1" title="Read an OBF structure." alt="" coords="520,56,592,83"/>
-<area shape="rect" id="node2" href="$obftest_8h.html#a9008f6d96f8fa704655ae2ebabf15521" title="Select hard position from an OBF file." alt="" coords="388,5,459,32"/>
-<area shape="rect" id="node6" href="$obftest_8h.html#a00bea4b4b497832c12603234961a171a" title="Test an OBF file." alt="" coords="389,107,458,133"/>
-<area shape="rect" id="node7" href="$obftest_8h.html#a33831f086e7294629129a13973801b87" title="Build an OBF file from a Script file." alt="" coords="375,56,472,83"/>
-<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,56,327,83"/>
-<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,56,56,83"/>
-<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,56,181,83"/>
-</map>

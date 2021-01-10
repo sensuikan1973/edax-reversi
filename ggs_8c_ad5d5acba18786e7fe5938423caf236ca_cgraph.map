@@ -1,6 +1,0 @@
-<map id="ggs_admin" name="ggs_admin">
-<area shape="rect" id="node1" title="ggs_admin" alt="" coords="5,31,91,57"/>
-<area shape="rect" id="node2" href="$util_8c.html#a37223454580e3fd41f4bddb3c3970da5" title="Parse a word." alt="" coords="151,5,240,32"/>
-<area shape="rect" id="node4" href="$util_8c.html#ac3369230f66963a04a0e62b04685ae3c" title="Duplicate a string." alt="" coords="139,56,252,83"/>
-<area shape="rect" id="node3" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="300,5,435,32"/>
-</map>

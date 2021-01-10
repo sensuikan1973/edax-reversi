@@ -1,6 +1,0 @@
-<map id="board_is_pass" name="board_is_pass">
-<area shape="rect" id="node1" title="Check if current player should pass." alt="" coords="5,31,112,57"/>
-<area shape="rect" id="node2" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="160,31,243,57"/>
-<area shape="rect" id="node3" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="291,5,416,32"/>
-<area shape="rect" id="node4" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="464,31,503,57"/>
-</map>

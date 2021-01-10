@@ -1,5 +1,0 @@
-<map id="game_read" name="game_read">
-<area shape="rect" id="node1" title="Read a game from a binary file." alt="" coords="5,5,92,32"/>
-<area shape="rect" id="node2" href="$game_8c.html#a815d1396a9520784a331cebb5587e0b0" title="Create an empty game." alt="" coords="140,5,219,32"/>
-<area shape="rect" id="node3" href="$board_8c.html#a6c63848863d9887a6b400f4bc678f31d" title="Set a board to the starting position." alt="" coords="267,5,345,32"/>
-</map>

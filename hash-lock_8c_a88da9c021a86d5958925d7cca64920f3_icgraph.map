@@ -1,5 +1,0 @@
-<map id="data_upgrade" name="data_upgrade">
-<area shape="rect" id="node1" title="Upgrade an hash table data item." alt="" coords="284,5,384,32"/>
-<area shape="rect" id="node2" href="$hash-lock_8c.html#ad3bfb89616c2c2aeb786107809ce62d5" title="update the hash entry" alt="" coords="140,5,236,32"/>
-<area shape="rect" id="node3" href="$hash-lock_8c.html#ae70e5c17e3d2cf7fb49e085be7092843" title="Store an hashtable item." alt="" coords="5,5,92,32"/>
-</map>

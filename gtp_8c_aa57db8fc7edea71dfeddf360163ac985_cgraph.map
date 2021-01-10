@@ -1,7 +1,0 @@
-<map id="gtp_observer" name="gtp_observer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,103,57"/>
-<area shape="rect" id="node2" href="$search_8c.html#a67ebbff0df886828d1dd767a949c7a15" title="Print the current search result." alt="" coords="151,31,237,57"/>
-<area shape="rect" id="node3" href="$move_8c.html#a0ae53ce219676b29cf33f8e7586f75a9" title="Print a move sequence." alt="" coords="287,5,362,32"/>
-<area shape="rect" id="node5" href="$util_8c.html#a0379cb7b898e08489b0dcda99430ef96" title="Print time as &quot;D:HH:MM:SS.CC&quot;." alt="" coords="285,56,364,83"/>
-<area shape="rect" id="node4" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="412,5,499,32"/>
-</map>

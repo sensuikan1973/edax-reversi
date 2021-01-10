@@ -1,8 +1,0 @@
-<map id="wthorgame_get_board" name="wthorgame_get_board">
-<area shape="rect" id="node1" title="Get a position from a Wthor game." alt="" coords="508,47,659,73"/>
-<area shape="rect" id="node2" href="$base_8h.html#a76070505a4a15283da838da86d5e9fea" title="Test Eval with a wthor base." alt="" coords="375,21,460,48"/>
-<area shape="rect" id="node6" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="376,72,459,99"/>
-<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,21,327,48"/>
-<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,21,56,48"/>
-<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,21,181,48"/>
-</map>

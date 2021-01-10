@@ -1,6 +1,0 @@
-<map id="board_check_move" name="board_check_move">
-<area shape="rect" id="node1" title="Check if a move is legal." alt="" coords="5,31,140,57"/>
-<area shape="rect" id="node2" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="188,31,271,57"/>
-<area shape="rect" id="node3" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="319,5,444,32"/>
-<area shape="rect" id="node4" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="492,31,531,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="search_time_init" name="search_time_init">
-<area shape="rect" id="node1" title="Initialize the alloted time." alt="" coords="5,31,123,57"/>
-<area shape="rect" id="node2" href="$search_8c.html#abd4fe1079f4e08e92ebc3ebf3281654f" title="Count the number of tasks used in parallel search." alt="" coords="171,5,309,32"/>
-<area shape="rect" id="node3" href="$search_8c.html#aa17dda6648796a36ac6b8dcf827586a9" title="Compute the deepest level that can be solved given a limited time..." alt="" coords="185,56,295,83"/>
-</map>

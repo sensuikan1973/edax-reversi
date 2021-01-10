@@ -1,7 +1,0 @@
-<map id="eval_open" name="eval_open">
-<area shape="rect" id="node1" title="Load the evaluation function features&#39; weights." alt="" coords="5,81,87,108"/>
-<area shape="rect" id="node2" href="$bit_8c.html#ae08b3a10257506b596bc732fc269f05e" title="Mirror the unsigned int (little &lt;&#45;&gt; big endian)." alt="" coords="155,5,237,32"/>
-<area shape="rect" id="node3" href="$bit_8c.html#af0842bbb55e9e9f38d316c077864b131" title="Swap bytes of a short (little &lt;&#45;&gt; big endian)." alt="" coords="148,56,244,83"/>
-<area shape="rect" id="node4" href="$eval_8c.html#a473576e6f57c408faad24bb7212ad9d0" title="Opponent feature." alt="" coords="135,107,257,133"/>
-<area shape="rect" id="node5" href="$edax_8c.html#af986bd0575ec9b913dfab4b8422509ae" title="Print version &amp; copyright." alt="" coords="164,157,228,184"/>
-</map>

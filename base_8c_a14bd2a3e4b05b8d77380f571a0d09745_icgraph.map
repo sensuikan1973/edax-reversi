@@ -1,9 +1,0 @@
-<map id="wthor_players_save" name="wthor_players_save">
-<area shape="rect" id="node1" title="Load wthor players." alt="" coords="661,31,799,57"/>
-<area shape="rect" id="node2" href="$base_8h.html#a1fbbda49a33b35cf698c57ab686bb17b" title="Save a wthor base." alt="" coords="524,31,613,57"/>
-<area shape="rect" id="node3" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="383,5,468,32"/>
-<area shape="rect" id="node7" href="$base_8h.html#abbb5a125dea1fddca231c5babe6b516f" title="Change players to &quot;Edax (delorme)&quot; and tourney to &quot;Etudes&quot; in a wthor base." alt="" coords="375,56,476,83"/>
-<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,31,327,57"/>
-<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
-<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,31,181,57"/>
-</map>

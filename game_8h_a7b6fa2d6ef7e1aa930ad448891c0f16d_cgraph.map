@@ -1,8 +1,0 @@
-<map id="game_export_text" name="game_export_text">
-<area shape="rect" id="node1" title="Write a game to a text file." alt="" coords="5,81,129,108"/>
-<area shape="rect" id="node2" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="187,5,279,32"/>
-<area shape="rect" id="node3" href="$board_8c.html#a6c63848863d9887a6b400f4bc678f31d" title="Set a board to the starting position." alt="" coords="193,56,272,83"/>
-<area shape="rect" id="node4" href="$board_8c.html#a5f43645a89dd567f64bc91de6fed5b5a" title="convert the to a compact string." alt="" coords="177,107,288,133"/>
-<area shape="rect" id="node5" href="$game_8c.html#a834efdb458beb4c99f40438d92a0b182" title="Convert game to a text (ascii)." alt="" coords="183,157,283,184"/>
-<area shape="rect" id="node6" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="336,157,447,184"/>
-</map>

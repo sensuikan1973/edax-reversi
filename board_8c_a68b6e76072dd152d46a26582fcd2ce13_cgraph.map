@@ -1,5 +1,0 @@
-<map id="edge_stability_init" name="edge_stability_init">
-<area shape="rect" id="node1" title="Initialize the edge stability tables." alt="" coords="5,31,131,57"/>
-<area shape="rect" id="node2" href="$board_8c.html#a46324cf281f3068e207b8a2dddd5aef4" title="search stable edge patterns." alt="" coords="179,5,297,32"/>
-<area shape="rect" id="node3" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="345,31,384,57"/>
-</map>

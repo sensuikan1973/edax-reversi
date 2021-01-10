@@ -1,6 +1,0 @@
-<map id="engine_stop" name="engine_stop">
-<area shape="rect" id="node1" title="Stop searching." alt="" coords="5,43,97,69"/>
-<area shape="rect" id="node2" href="$cassio_8c.html#afe0305f2a8b426ca767c7b2f128c53af" title="Send a message on stdout." alt="" coords="155,5,249,32"/>
-<area shape="rect" id="node4" href="$search_8c.html#ad775910af78c46412b5ee4b8bc887b67" title="Stop the search." alt="" coords="145,80,259,107"/>
-<area shape="rect" id="node3" href="$util_8c.html#a24bf37cbb71f6a0ce700fc72741d6016" title="Print local time." alt="" coords="307,5,397,32"/>
-</map>

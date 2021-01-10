@@ -1,7 +1,0 @@
-<map id="wthor_save" name="wthor_save">
-<area shape="rect" id="node1" title="Save a wthor base." alt="" coords="5,81,95,108"/>
-<area shape="rect" id="node2" href="$util_8c.html#ae80bedfb302071967da7cecb36fece4b" title="Extract the directory of a file path." alt="" coords="165,5,258,32"/>
-<area shape="rect" id="node3" href="$base_8c.html#a6c85d29baeb23920712a581ee0b9203c" title="Set wthor header." alt="" coords="333,81,458,108"/>
-<area shape="rect" id="node4" href="$base_8c.html#a01ef802fbce41c9da8d796cfb29fbe59" title="Read wthor header." alt="" coords="328,144,463,171"/>
-<area shape="rect" id="node5" href="$base_8c.html#a14bd2a3e4b05b8d77380f571a0d09745" title="Load wthor players." alt="" coords="143,107,280,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="search_adjust_time" name="search_adjust_time">
-<area shape="rect" id="node1" title="Give more time." alt="" coords="5,5,140,32"/>
-<area shape="rect" id="node2" href="$search_8c.html#afcdfa9c4ac42ff535885efeb671ffe8d" title="Return the time spent by the search." alt="" coords="188,5,281,32"/>
-<area shape="rect" id="node3" href="$search_8c.html#a5710e38d5c67dd03d99307b442d00a63" title="Return the time spent by the search." alt="" coords="329,5,428,32"/>
-<area shape="rect" id="node4" href="$search_8c.html#a66fbe49d1b42845bef2a07d0219a525c" title="Return the number of nodes searched." alt="" coords="476,5,619,32"/>
-</map>
