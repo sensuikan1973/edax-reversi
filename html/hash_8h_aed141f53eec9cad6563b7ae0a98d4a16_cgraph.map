@@ -1,0 +1,5 @@
+<map id="hash_init" name="hash_init">
+<area shape="rect" id="node1" title="Initialise the hashtable." alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$util_8c.html#a910a46f8cadec6432fb3244fd3a95d43" title="Get the number of cpus or cores on the machine." alt="" coords="128,5,247,32"/>
+<area shape="rect" id="node3" href="$hash_8c.html#aab69792f6f434c8466eca07c469850f1" title="Clear the hashtable." alt="" coords="136,56,239,83"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="game_score" name="game_score">
+<area shape="rect" id="node1" title="Compute the final score of the game, for the initial player." alt="" coords="877,126,971,152"/>
+<area shape="rect" id="node2" href="$base_8h.html#ac75f6caa4fae084cd486be959f569310" title="Base analysis." alt="" coords="375,31,475,58"/>
+<area shape="rect" id="node6" href="$game_8h.html#a2be64aa20e0074f0c392e90df1894be3" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="707,126,828,152"/>
+<area shape="rect" id="node9" href="$game_8h.html#ad5b40a98857680b3b767f3ea8508e5bb" title="Write a game to a pgn file." alt="" coords="705,176,829,203"/>
+<area shape="rect" id="node10" href="$game_8h.html#a52a65e8068e097bb8ea5a7d70c744f54" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="710,227,825,254"/>
+<area shape="rect" id="node12" href="$game_8h.html#afa5bb40fe13817a04b439e2eeba0009e" title="convert a Game to a Whor game." alt="" coords="712,75,823,102"/>
+<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,139,327,166"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,114,56,140"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,139,181,166"/>
+<area shape="rect" id="node7" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="382,139,467,166"/>
+<area shape="rect" id="node8" href="$play_8h.html#aafceeb6413b921ef6a0e44f5fd585de7" title="Save a played game." alt="" coords="550,227,630,254"/>
+<area shape="rect" id="node11" href="$game_8h.html#a595f89cddd3a2a79aa60a575cf8e49f0" title=" " alt="" coords="529,278,651,304"/>
+<area shape="rect" id="node13" href="$base_8c.html#a927d0aa4ac1294345af68a8bfd224012" title="Convert to a wthor base." alt="" coords="537,24,643,51"/>
+<area shape="rect" id="node14" href="$game_8h.html#a23f87aac9f1513e6c3713641a9553e57" title="Write a game to a Wthor file." alt="" coords="523,75,657,102"/>
+</map>

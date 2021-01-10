@@ -1,0 +1,9 @@
+<map id="ggs_event_loop" name="ggs_event_loop">
+<area shape="rect" id="node1" title="ggs_event_loop" alt="" coords="776,31,889,57"/>
+<area shape="rect" id="node2" href="$ggs_8c.html#a7a460accb6b951350ae00d3e9d58938f" title="ggs_event_init" alt="" coords="621,31,728,57"/>
+<area shape="rect" id="node3" href="$ggs_8c.html#a4dd1384622f9adfff0fdd019ff3d8bb8" title="ui_login" alt="" coords="507,31,573,57"/>
+<area shape="rect" id="node4" href="$ui_8h.html#ac347f0443e7a359b831980f71c08ada1" title="ui_init_ggs" alt="" coords="375,31,459,57"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="249,31,327,57"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node7" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,31,201,57"/>
+</map>

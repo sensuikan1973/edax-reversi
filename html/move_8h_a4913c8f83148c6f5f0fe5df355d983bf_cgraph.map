@@ -1,0 +1,4 @@
+<map id="movelist_first" name="movelist_first">
+<area shape="rect" id="node1" title="Return the first move of the list." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$move_8c.html#a70f7e30cf2aa1dffdcde82ad10badab4" title="Return the next move from the list." alt="" coords="152,5,237,32"/>
+</map>

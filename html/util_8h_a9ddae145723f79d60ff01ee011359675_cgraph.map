@@ -1,0 +1,7 @@
+<map id="parse_command" name="parse_command">
+<area shape="rect" id="node1" title="Parse a command." alt="" coords="5,81,124,108"/>
+<area shape="rect" id="node2" href="$util_8c.html#a8648973bfd6c3001cd5ebe5268662f1e" title="Parse a line." alt="" coords="201,5,282,32"/>
+<area shape="rect" id="node3" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="359,81,493,108"/>
+<area shape="rect" id="node4" href="$util_8c.html#a37223454580e3fd41f4bddb3c3970da5" title="Parse a word." alt="" coords="197,107,286,133"/>
+<area shape="rect" id="node5" href="$util_8c.html#a63f0d8023994d5b47de94f80738870e8" title="Change all char of a string to lowercase." alt="" coords="172,157,311,184"/>
+</map>

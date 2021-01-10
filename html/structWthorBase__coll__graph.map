@@ -1,0 +1,5 @@
+<map id="WthorBase" name="WthorBase">
+<area shape="rect" id="node1" title=" " alt="" coords="70,95,157,121"/>
+<area shape="rect" id="node2" href="$structWthorHeader.html" title="Header for wthor files." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$structWthorGame.html" title=" " alt="" coords="128,5,219,32"/>
+</map>

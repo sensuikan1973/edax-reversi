@@ -1,0 +1,52 @@
+<map id="ui_ggs_update" name="ui_ggs_update">
+<area shape="rect" id="node1" title="ui_ggs_update" alt="" coords="5,832,112,858"/>
+<area shape="rect" id="node2" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="933,1186,1025,1213"/>
+<area shape="rect" id="node3" href="$board_8c.html#ac0093f2761e80a495d781b41e7b5a703" title="Set a board from a string description." alt="" coords="755,124,833,150"/>
+<area shape="rect" id="node8" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="541,350,652,377"/>
+<area shape="rect" id="node9" href="$play_8c.html#a556fbc788431e00c9f7b01722a78a2ff" title="Play a move." alt="" coords="341,1516,425,1542"/>
+<area shape="rect" id="node17" href="$ggs_8c.html#a55704d516945d0fc38a4aae02fca1bfe" title="ui_ggs_play" alt="" coords="160,376,251,402"/>
+<area shape="rect" id="node49" href="$ggs_8c.html#acd83ffbed6d799eebb5ba51884f7f376" title="ui_ggs_ponder" alt="" coords="329,1566,436,1593"/>
+<area shape="rect" id="node4" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="931,408,1027,434"/>
+<area shape="rect" id="node7" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="909,241,1049,268"/>
+<area shape="rect" id="node5" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="1097,382,1200,409"/>
+<area shape="rect" id="node6" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="1105,433,1192,460"/>
+<area shape="rect" id="node10" href="$board_8c.html#a0461002c2a4fd95a361b6e1ee8637a65" title="Check if a move is legal." alt="" coords="727,1693,861,1720"/>
+<area shape="rect" id="node12" href="$board_8c.html#a3b5748c109770fe228ea15b562c0f113" title="Compute a move." alt="" coords="735,1110,853,1137"/>
+<area shape="rect" id="node13" href="$play_8c.html#a565bcabc21b749bfaad647fd4a4225ea" title="Update the game." alt="" coords="551,1414,642,1441"/>
+<area shape="rect" id="node11" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="938,1661,1021,1688"/>
+<area shape="rect" id="node14" href="$board_8c.html#a2d24dea46d67d71b1d9fe9f515d8d675" title="Update a board." alt="" coords="744,578,844,605"/>
+<area shape="rect" id="node15" href="$play_8c.html#aa6c1c201217d9e3141a02512635d98c1" title="Update a forced line." alt="" coords="731,1313,857,1340"/>
+<area shape="rect" id="node16" href="$util_8h.html#a358b4c5eab4941b90bb9ef1676e5f7e5" title=" " alt="" coords="753,1212,835,1238"/>
+<area shape="rect" id="node18" href="$util_8c.html#aca38ff7870723c58be824ba5865abd03" title="Format a value with a unit." alt="" coords="324,173,441,200"/>
+<area shape="rect" id="node19" href="$ggs_8c.html#a946ad3d921468d2abac0b9a3a4bb3406" title="ggs_client_send" alt="" coords="325,224,441,250"/>
+<area shape="rect" id="node20" href="$move_8c.html#a4776e05a37b5a43f0e7d74d8703c66b8" title="Line to string." alt="" coords="333,426,432,453"/>
+<area shape="rect" id="node21" href="$play_8c.html#aaeeb0e4e30b701ddca46568101d4ce72" title="adjust time." alt="" coords="323,274,442,301"/>
+<area shape="rect" id="node22" href="$play_8c.html#aeba64a0b6660a04cff93da447da3f746" title="Start thinking." alt="" coords="349,857,416,884"/>
+<area shape="rect" id="node31" href="$play_8c.html#ad8fbdebca393fc37414e594b098650b3" title="Check if game is over." alt="" coords="727,1629,861,1656"/>
+<area shape="rect" id="node32" href="$play_8c.html#a4a4b7bf94f1ee79c788fbcca3ddc347f" title="Stop pondering." alt="" coords="527,198,667,225"/>
+<area shape="rect" id="node38" href="$search_8c.html#abd4fe1079f4e08e92ebc3ebf3281654f" title="Count the number of tasks used in parallel search." alt="" coords="910,597,1049,624"/>
+<area shape="rect" id="node45" href="$search_8c.html#a68cd7675b74d22fc78ce88467e02d6ab" title="Change the number of task." alt="" coords="299,72,467,98"/>
+<area shape="rect" id="node47" href="$search_8c.html#ae524c27134e183c0fb26c321edc3b687" title="Share search information." alt="" coords="333,325,433,352"/>
+<area shape="rect" id="node23" href="$book_8c.html#a5c4b33003cbd770b19d394d4f6dd6a4f" title="Get a variation from the book." alt="" coords="545,502,648,529"/>
+<area shape="rect" id="node24" href="$move_8c.html#a1781d0a89d5c0c8831bb7eb845d19976" title="Add a move to the sequence." alt="" coords="755,528,833,554"/>
+<area shape="rect" id="node25" href="$book_8c.html#a71ddeb4c807f9833f5e8507ba9dab350" title="Get a move at random from the opening book." alt="" coords="515,1212,679,1238"/>
+<area shape="rect" id="node26" href="$book_8c.html#a393a42eb1a3ce423cad7df4eb4ffaac4" title="Display a position from the book." alt="" coords="553,1262,641,1289"/>
+<area shape="rect" id="node27" href="$util_8h.html#a476050b74be66b76cf5d30c89a837798" title=" " alt="" coords="556,1313,637,1340"/>
+<area shape="rect" id="node28" href="$move_8c.html#a833b8b36407a601e79b24179cbebbef8" title="Initialize a sequence of moves." alt="" coords="563,1364,630,1390"/>
+<area shape="rect" id="node29" href="$move_8c.html#a0ae53ce219676b29cf33f8e7586f75a9" title="Print a move sequence." alt="" coords="559,553,634,580"/>
+<area shape="rect" id="node30" href="$play_8c.html#a0fac168d26c41a2a24f357011d546143" title="Play a forced move." alt="" coords="545,1060,648,1086"/>
+<area shape="rect" id="node35" href="$util_8c.html#a52efa84f4cfd49921787886d9543ab64" title="Join a thread." alt="" coords="751,364,837,390"/>
+<area shape="rect" id="node36" href="$root_8c.html#ae8b727693fc7a90e504bd8abec158c84" title="Search the bestmove of a given board." alt="" coords="553,958,640,985"/>
+<area shape="rect" id="node37" href="$search_8c.html#a0338bb851c866a94b8451004068fa394" title="Initialize the alloted time." alt="" coords="735,908,853,934"/>
+<area shape="rect" id="node39" href="$search_8c.html#a99ecde00b1e5da1b9366b69ec1971568" title="Set the board to analyze." alt="" coords="534,604,659,630"/>
+<area shape="rect" id="node40" href="$search_8c.html#aff1b83c3891eb0c777f3dfc74ce5fb25" title="set time to search." alt="" coords="518,654,675,681"/>
+<area shape="rect" id="node41" href="$search_8c.html#a06bb5a695032b0cc1d8e8ca51e231ad7" title="Set the search level." alt="" coords="537,705,657,732"/>
+<area shape="rect" id="node42" href="$search_8c.html#ad85c25af88314b0b35b544ed1721298b" title="set time to search." alt="" coords="518,806,675,833"/>
+<area shape="rect" id="node43" href="$search_8c.html#afcdfa9c4ac42ff535885efeb671ffe8d" title="Return the time spent by the search." alt="" coords="747,477,841,504"/>
+<area shape="rect" id="node44" href="$search_8c.html#a1e267482ae343ba46e8d1b8c9ae26cb8" title="Reset the alloted time." alt="" coords="532,452,661,478"/>
+<area shape="rect" id="node33" href="$util_8c.html#ae20ec7bae5f5bc33f169d416601e2eea" title="sleep for t ms." alt="" coords="769,174,819,201"/>
+<area shape="rect" id="node34" href="$search_8c.html#ad775910af78c46412b5ee4b8bc887b67" title="Stop the search." alt="" coords="737,249,851,276"/>
+<area shape="rect" id="node46" href="$ybwc_8c.html#a95a724079314f7b0fa62a0d83ad74541" title="Resize the stack of tasks." alt="" coords="533,72,660,98"/>
+<area shape="rect" id="node48" href="$hash-lock-free_8c.html#afa74d76fb461e3d5b627f57d51c95622" title="Copy an hastable to another one." alt="" coords="555,249,639,276"/>
+<area shape="rect" id="node50" href="$play_8c.html#a391455b9715193a13afe7d863734893f" title="Ponder." alt="" coords="551,1668,642,1694"/>
+</map>

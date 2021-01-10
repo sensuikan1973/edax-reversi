@@ -1,0 +1,8 @@
+<map id="ui_event_exist" name="ui_event_exist">
+<area shape="rect" id="node1" title="ui_event_exist" alt="" coords="449,56,555,83"/>
+<area shape="rect" id="node2" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="299,31,396,57"/>
+<area shape="rect" id="node5" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="293,81,401,108"/>
+<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node4" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="136,31,213,57"/>
+<area shape="rect" id="node6" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="104,81,245,108"/>
+</map>

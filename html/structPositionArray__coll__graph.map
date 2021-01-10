@@ -1,0 +1,6 @@
+<map id="PositionArray" name="PositionArray">
+<area shape="rect" id="node1" title="An array with positions." alt="" coords="21,199,120,225"/>
+<area shape="rect" id="node2" href="$structPosition.html" title="A position stored in the book." alt="" coords="36,109,105,136"/>
+<area shape="rect" id="node3" href="$structBoard.html" title=" " alt="" coords="5,5,61,32"/>
+<area shape="rect" id="node4" href="$structLink.html" title="a move (with its score) linking to another Position." alt="" coords="86,5,133,32"/>
+</map>

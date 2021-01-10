@@ -1,0 +1,10 @@
+<map id="hash_exclude_move" name="hash_exclude_move">
+<area shape="rect" id="node1" title="Erase an hash table entry." alt="" coords="680,31,820,57"/>
+<area shape="rect" id="node2" href="$obftest_8c.html#a6ed0f135c4cf4021e18eb1a965a72bfa" title="Build an OBF structure." alt="" coords="539,5,613,32"/>
+<area shape="rect" id="node7" href="$play_8c.html#ab220e1e3acf69015cd2e2b32abbdbaae" title="Seek for the best alternative move." alt="" coords="520,56,632,83"/>
+<area shape="rect" id="node3" href="$obftest_8h.html#a33831f086e7294629129a13973801b87" title="Build an OBF file from a Script file." alt="" coords="375,5,472,32"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,31,327,57"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,31,181,57"/>
+<area shape="rect" id="node8" href="$play_8h.html#a656b8ae7ab719cd9b497f00033cbecb7" title="Analyze a played game." alt="" coords="376,56,471,83"/>
+</map>

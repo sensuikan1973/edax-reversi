@@ -1,0 +1,11 @@
+<map id="count_game" name="count_game">
+<area shape="rect" id="node1" title="Move generator performance test function." alt="" coords="5,107,99,133"/>
+<area shape="rect" id="node2" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="197,5,271,32"/>
+<area shape="rect" id="node4" href="$board_8c.html#aa02d38e320edf6b9d695e2b1eed6c85f" title="Compute a board resulting of a move played on a previous board." alt="" coords="191,56,277,83"/>
+<area shape="rect" id="node5" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="193,107,275,133"/>
+<area shape="rect" id="node8" href="$perft_8c.html#a357057782741d7cd4bdd39adba687e85" title="Accumulate statistics: add local data to global ones." alt="" coords="147,157,321,184"/>
+<area shape="rect" id="node9" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="191,208,277,235"/>
+<area shape="rect" id="node3" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="405,5,459,32"/>
+<area shape="rect" id="node6" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="369,157,495,184"/>
+<area shape="rect" id="node7" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="543,157,581,184"/>
+</map>

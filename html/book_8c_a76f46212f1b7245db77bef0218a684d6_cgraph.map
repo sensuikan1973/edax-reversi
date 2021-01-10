@@ -1,0 +1,7 @@
+<map id="book_remove" name="book_remove">
+<area shape="rect" id="node1" title="Remove a position from the book." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a0e6cff6e714bcb714e2b9b2d7b9fbec6" title="Compute a hash code." alt="" coords="155,5,304,32"/>
+<area shape="rect" id="node3" href="$book_8c.html#aac0b9534e708b9b5c2d89b3a44ea5474" title="Remove a position from an array." alt="" coords="153,56,305,83"/>
+<area shape="rect" id="node4" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="355,31,447,57"/>
+<area shape="rect" id="node5" href="$book_8c.html#afe76ed1891952cff94868af23806d294" title="Free resources used by a position." alt="" coords="353,81,449,108"/>
+</map>

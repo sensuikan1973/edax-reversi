@@ -1,0 +1,5 @@
+<map id="wthor_players_save" name="wthor_players_save">
+<area shape="rect" id="node1" title="Load wthor players." alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$base_8c.html#a6c85d29baeb23920712a581ee0b9203c" title="Set wthor header." alt="" coords="195,5,321,32"/>
+<area shape="rect" id="node3" href="$base_8c.html#a01ef802fbce41c9da8d796cfb29fbe59" title="Read wthor header." alt="" coords="191,56,325,83"/>
+</map>

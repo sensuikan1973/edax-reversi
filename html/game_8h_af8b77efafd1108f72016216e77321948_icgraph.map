@@ -1,0 +1,15 @@
+<map id="move_from_wthor" name="move_from_wthor">
+<area shape="rect" id="node1" title="Coordinates conversion from wthor to edax." alt="" coords="1071,81,1197,108"/>
+<area shape="rect" id="node2" href="$game_8h.html#a63eb7f037b177a3bfe94130634fb445d" title="convert a Wthor game to a Game." alt="" coords="912,56,1023,83"/>
+<area shape="rect" id="node12" href="$base_8c.html#aba6e536d7bdd74d06cd2113ba6c56f02" title="Get a position from a Wthor game." alt="" coords="529,56,680,83"/>
+<area shape="rect" id="node3" href="$game_8h.html#a3c76bada0b4919d2ef713a8257e0db19" title="Read a game from a Wthor file." alt="" coords="728,56,864,83"/>
+<area shape="rect" id="node10" href="$base_8c.html#a8e5fad7957b25e222378c9704bef3593" title="print a wthor game." alt="" coords="733,5,859,32"/>
+<area shape="rect" id="node4" href="$base_8h.html#a3e183ddd8d478a9ca8c0db54a5fea86b" title="Load a game database." alt="" coords="564,132,645,159"/>
+<area shape="rect" id="node5" href="$base_8h.html#af4d757c895b3da3210a3af34d6c9f3c0" title="Base Compare." alt="" coords="375,208,481,235"/>
+<area shape="rect" id="node6" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,81,327,108"/>
+<area shape="rect" id="node9" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="385,107,471,133"/>
+<area shape="rect" id="node7" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,69,56,96"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,69,181,96"/>
+<area shape="rect" id="node11" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="387,5,469,32"/>
+<area shape="rect" id="node13" href="$base_8h.html#a76070505a4a15283da838da86d5e9fea" title="Test Eval with a wthor base." alt="" coords="385,56,471,83"/>
+</map>

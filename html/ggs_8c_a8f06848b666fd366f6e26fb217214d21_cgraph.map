@@ -1,0 +1,11 @@
+<map id="ggs_match_off" name="ggs_match_off">
+<area shape="rect" id="node1" title="ggs_match_off" alt="" coords="5,128,112,155"/>
+<area shape="rect" id="node2" href="$ggs_8c.html#a2fd026583915c73831fb9401717464f3" title="ggs_player_set" alt="" coords="165,27,275,54"/>
+<area shape="rect" id="node6" href="$util_8c.html#a37223454580e3fd41f4bddb3c3970da5" title="Parse a word." alt="" coords="347,78,436,104"/>
+<area shape="rect" id="node7" href="$util_8c.html#ac3369230f66963a04a0e62b04685ae3c" title="Duplicate a string." alt="" coords="335,128,448,155"/>
+<area shape="rect" id="node8" href="$opening_8c.html#ab59857a4d72ed1a5664e86b46a2cb341" title=" " alt="" coords="191,179,249,206"/>
+<area shape="rect" id="node9" href="$util_8c.html#a243880ebe2e0b96b3223023c706d1ba5" title="Skip word." alt="" coords="160,230,280,256"/>
+<area shape="rect" id="node3" href="$ggs_8c.html#ac637c7bb4b515a0368d814c2e10b9342" title="ggs_parse_double" alt="" coords="328,27,455,54"/>
+<area shape="rect" id="node5" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="633,27,768,54"/>
+<area shape="rect" id="node4" href="$util_8c.html#a6afb4032b94c4505472fe147fa9a7d37" title="Parse a real number (as a double floating point)." alt="" coords="503,27,585,54"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="search_free" name="search_free">
+<area shape="rect" id="node1" title="Free the search allocated ressource." alt="" coords="660,68,751,95"/>
+<area shape="rect" id="node2" href="$cassio_8h.html#ab75dc0796a3d275780921aff151629dd" title="free resources allocated" alt="" coords="523,68,612,95"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,93,56,120"/>
+<area shape="rect" id="node7" href="$play_8h.html#a4d445b3632a3e5c55f29e8d90a0be057" title="Free resources." alt="" coords="392,220,467,247"/>
+<area shape="rect" id="node3" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="384,68,475,95"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="234,93,331,120"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,169,181,196"/>
+<area shape="rect" id="node8" href="$ui_8h.html#a8583c87bc194d63fcd8b757f8303dd28" title="free resources used by edax protocol." alt="" coords="235,347,330,373"/>
+<area shape="rect" id="node9" href="$ui_8h.html#a204889eb5bd05ad4a50bcb819ef86371" title="ui_free_ggs" alt="" coords="238,144,327,171"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a89e845815ff425c0e09f50f89597d5bb" title="free resources used by edax protocol" alt="" coords="239,195,326,221"/>
+<area shape="rect" id="node11" href="$ui_8h.html#aeafc8edfd01468341d610d9002a226f4" title="free resources used by edax protocol" alt="" coords="229,245,336,272"/>
+<area shape="rect" id="node12" href="$xboard_8c.html#aabdd9589bd0cd25ad790891b6663b3c5" title="free resources used by xboard protocol." alt="" coords="229,296,336,323"/>
+</map>

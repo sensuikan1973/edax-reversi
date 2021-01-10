@@ -1,0 +1,22 @@
+<map id="parse_game" name="parse_game">
+<area shape="rect" id="node1" title="Parse a sequence of moves." alt="" coords="5,132,99,159"/>
+<area shape="rect" id="node2" href="$board_8c.html#a6c63848863d9887a6b400f4bc678f31d" title="Set a board to the starting position." alt="" coords="157,56,236,83"/>
+<area shape="rect" id="node3" href="$board_8c.html#a2d24dea46d67d71b1d9fe9f515d8d675" title="Update a board." alt="" coords="147,107,247,133"/>
+<area shape="rect" id="node14" href="$move_8c.html#a1781d0a89d5c0c8831bb7eb845d19976" title="Add a move to the sequence." alt="" coords="158,157,235,184"/>
+<area shape="rect" id="node15" href="$util_8c.html#a884a11a33617c84b09855af421acc30d" title="Parse a move." alt="" coords="487,208,581,235"/>
+<area shape="rect" id="node4" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="317,107,413,133"/>
+<area shape="rect" id="node13" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="295,56,435,83"/>
+<area shape="rect" id="node5" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="483,107,585,133"/>
+<area shape="rect" id="node6" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="491,56,577,83"/>
+<area shape="rect" id="node7" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="826,5,901,32"/>
+<area shape="rect" id="node9" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="657,56,748,83"/>
+<area shape="rect" id="node10" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="820,107,907,133"/>
+<area shape="rect" id="node8" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="990,5,1045,32"/>
+<area shape="rect" id="node12" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="1128,132,1167,159"/>
+<area shape="rect" id="node11" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="955,157,1080,184"/>
+<area shape="rect" id="node16" href="$board_8c.html#acad11415527107f161c9f2a3b909dc2b" title="Check if a square is occupied." alt="" coords="637,309,768,336"/>
+<area shape="rect" id="node17" href="$board_8c.html#a7bd9c47885415e0ae2aed4fb2f8cb241" title="Check if current player should pass." alt="" coords="649,157,756,184"/>
+<area shape="rect" id="node19" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="635,208,770,235"/>
+<area shape="rect" id="node20" href="$util_8c.html#a5648be0e41416bac513e53441d3cfd36" title="Convert the two first chars of a string into a coordinate." alt="" coords="633,259,772,285"/>
+<area shape="rect" id="node18" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="822,157,905,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="move_next_best" name="move_next_best">
+<area shape="rect" id="node1" title="Return the next best move from the list." alt="" coords="920,31,1037,57"/>
+<area shape="rect" id="node2" href="$move_8h.html#a8a379ca35afc6d972bb8252364c90f25" title="Return the best move of the list." alt="" coords="769,31,872,57"/>
+<area shape="rect" id="node3" href="$book_8c.html#a65253e739b9201531bad8dc071d24d11" title="Extract book lines to a game base." alt="" coords="589,5,707,32"/>
+<area shape="rect" id="node8" href="$play_8c.html#a0a53dfd153477f6332c030733e3a2d56" title="Seek for the best alternative move from the opening book." alt="" coords="575,56,721,83"/>
+<area shape="rect" id="node4" href="$book_8h.html#af00002ac230ead928a6bab34f5513cbf" title="Extract book draws to a game base." alt="" coords="375,5,527,32"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,31,327,57"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node7" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,31,181,57"/>
+<area shape="rect" id="node9" href="$play_8h.html#a43b8c6597e0a8d8aa73a39b3e281d464" title="Analyze a played game." alt="" coords="385,56,516,83"/>
+</map>

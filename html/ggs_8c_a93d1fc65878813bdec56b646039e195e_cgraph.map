@@ -1,0 +1,5 @@
+<map id="ggs_parse_move" name="ggs_parse_move">
+<area shape="rect" id="node1" title="ggs_parse_move" alt="" coords="5,31,127,57"/>
+<area shape="rect" id="node2" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="177,5,311,32"/>
+<area shape="rect" id="node3" href="$util_8c.html#a5648be0e41416bac513e53441d3cfd36" title="Convert the two first chars of a string into a coordinate." alt="" coords="175,56,313,83"/>
+</map>

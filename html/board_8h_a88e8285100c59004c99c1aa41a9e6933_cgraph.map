@@ -1,0 +1,7 @@
+<map id="get_edge_stability" name="get_edge_stability">
+<area shape="rect" id="node1" title="Estimate the stability of edges." alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="201,5,276,32"/>
+<area shape="rect" id="node4" href="$board_8c.html#a2d71c0e083142ec8316c0df0b2e83e42" title="Get stable edge." alt="" coords="180,56,297,83"/>
+<area shape="rect" id="node5" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="353,81,392,108"/>
+<area shape="rect" id="node3" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="345,5,400,32"/>
+</map>

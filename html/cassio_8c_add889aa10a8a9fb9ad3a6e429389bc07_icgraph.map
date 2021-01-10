@@ -1,0 +1,13 @@
+<map id="engine_observer" name="engine_observer">
+<area shape="rect" id="node1" title="Call back function use by search to print its results." alt="" coords="925,56,1043,83"/>
+<area shape="rect" id="node2" href="$cassio_8c.html#a342856ac4315f73ed0e434ee48b0eb71" title="Finalize search." alt="" coords="753,56,852,83"/>
+<area shape="rect" id="node9" href="$cassio_8c.html#a11a5cdab7fa3b7498c05a4e9c24301ba" title="Create engine search." alt="" coords="728,107,877,133"/>
+<area shape="rect" id="node11" href="$cassio_8c.html#a9d4678777a6a7d2828934b2c8f0dc182" title="Check if a search has already been done here." alt="" coords="757,5,849,32"/>
+<area shape="rect" id="node3" href="$cassio_8h.html#aeaf9e2a47f743c88f7a39ce52cf1cd6d" title="Endgame search." alt="" coords="513,56,680,83"/>
+<area shape="rect" id="node8" href="$cassio_8h.html#a018fe57eba634b34c2a2b3b18b30914f" title="Midgame search." alt="" coords="513,5,680,32"/>
+<area shape="rect" id="node4" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="375,56,465,83"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,81,56,108"/>
+<area shape="rect" id="node6" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,81,327,108"/>
+<area shape="rect" id="node7" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,81,181,108"/>
+<area shape="rect" id="node10" href="$cassio_8h.html#ab072fb80ef54455dae0b96a71d5ee845" title="Create a new Othello engine." alt="" coords="555,107,639,133"/>
+</map>

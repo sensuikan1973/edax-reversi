@@ -1,0 +1,8 @@
+<map id="obf_search" name="obf_search">
+<area shape="rect" id="node1" title="Analyze an OBF structure." alt="" coords="505,43,592,69"/>
+<area shape="rect" id="node2" href="$obftest_8h.html#acb5f3a86d3aebc67fe4b786348537b08" title="Test edax speed by running for at least 1 minutes on problems deeper and deeper." alt="" coords="375,17,457,44"/>
+<area shape="rect" id="node6" href="$obftest_8h.html#a00bea4b4b497832c12603234961a171a" title="Test an OBF file." alt="" coords="381,68,451,95"/>
+<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,17,56,44"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,43,327,69"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,43,181,69"/>
+</map>

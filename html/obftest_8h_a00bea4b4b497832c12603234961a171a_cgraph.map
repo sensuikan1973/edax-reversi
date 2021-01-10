@@ -1,0 +1,52 @@
+<map id="obf_test" name="obf_test">
+<area shape="rect" id="node1" title="Test an OBF file." alt="" coords="5,613,75,640"/>
+<area shape="rect" id="node2" href="$obftest_8c.html#a2f3559f1e796101342c8da113e24f252" title="Free an OBF structure." alt="" coords="159,132,229,159"/>
+<area shape="rect" id="node3" href="$obftest_8c.html#ad0e1ab232d12c1548efa3445e9fc7051" title="Read an OBF structure." alt="" coords="158,233,230,260"/>
+<area shape="rect" id="node4" href="$obftest_8c.html#a1045289ff8432fa7af781dca57c68d4c" title="Write an OBF structure." alt="" coords="355,5,429,32"/>
+<area shape="rect" id="node23" href="$obftest_8c.html#ab9783a5ca8dc9d2b69ed9ae61945bbfb" title="Analyze an OBF structure." alt="" coords="151,613,237,640"/>
+<area shape="rect" id="node26" href="$util_8c.html#a0379cb7b898e08489b0dcda99430ef96" title="Print time as &quot;D:HH:MM:SS.CC&quot;." alt="" coords="554,613,633,640"/>
+<area shape="rect" id="node36" href="$search_8c.html#a66fbe49d1b42845bef2a07d0219a525c" title="Return the number of nodes searched." alt="" coords="1053,1247,1196,1273"/>
+<area shape="rect" id="node38" href="$search_8c.html#afcdfa9c4ac42ff535885efeb671ffe8d" title="Return the time spent by the search." alt="" coords="741,1221,834,1248"/>
+<area shape="rect" id="node49" href="$search_8c.html#af9e93aeefcb80dd5aa756a4027d2e880" title="default observer." alt="" coords="135,487,253,513"/>
+<area shape="rect" id="node50" href="$search_8c.html#a94697d3ea3de662450dea6a304f53e5b" title="set observer." alt="" coords="123,1475,265,1501"/>
+<area shape="rect" id="node7" href="$util_8c.html#aaec4d07ae982caba230496fd8e8dd664" title="Parse a board." alt="" coords="345,360,439,387"/>
+<area shape="rect" id="node14" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="526,157,661,184"/>
+<area shape="rect" id="node15" href="$util_8c.html#a33a54dd66085e86c51a096cf739a1bc3" title="Find a char." alt="" coords="351,107,433,133"/>
+<area shape="rect" id="node16" href="$util_8c.html#a0fad57b1fd6851c6cde5258a897b7a61" title="Parse an integer." alt="" coords="355,157,429,184"/>
+<area shape="rect" id="node17" href="$util_8c.html#a884a11a33617c84b09855af421acc30d" title="Parse a move." alt="" coords="345,208,439,235"/>
+<area shape="rect" id="node21" href="$util_8c.html#ac3369230f66963a04a0e62b04685ae3c" title="Duplicate a string." alt="" coords="335,259,449,285"/>
+<area shape="rect" id="node22" href="$util_8c.html#a69d6b32355eb8f18ae34c14eadfe7e9e" title="Read a line." alt="" coords="335,309,449,336"/>
+<area shape="rect" id="node5" href="$board_8c.html#a5f43645a89dd567f64bc91de6fed5b5a" title="convert the to a compact string." alt="" coords="538,5,649,32"/>
+<area shape="rect" id="node6" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="744,461,831,488"/>
+<area shape="rect" id="node8" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="545,360,641,387"/>
+<area shape="rect" id="node13" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="523,411,663,437"/>
+<area shape="rect" id="node9" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="744,664,831,691"/>
+<area shape="rect" id="node10" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="1087,715,1162,741"/>
+<area shape="rect" id="node11" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="911,613,1001,640"/>
+<area shape="rect" id="node12" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="1081,613,1168,640"/>
+<area shape="rect" id="node18" href="$board_8c.html#acad11415527107f161c9f2a3b909dc2b" title="Check if a square is occupied." alt="" coords="528,259,659,285"/>
+<area shape="rect" id="node19" href="$board_8c.html#a7bd9c47885415e0ae2aed4fb2f8cb241" title="Check if current player should pass." alt="" coords="540,309,647,336"/>
+<area shape="rect" id="node20" href="$util_8c.html#a5648be0e41416bac513e53441d3cfd36" title="Convert the two first chars of a string into a coordinate." alt="" coords="524,208,663,235"/>
+<area shape="rect" id="node24" href="$search_8c.html#a67ebbff0df886828d1dd767a949c7a15" title="Print the current search result." alt="" coords="349,411,435,437"/>
+<area shape="rect" id="node27" href="$search_8c.html#a7b93f77633c01068248bd9072013981a" title="Clean&#45;up some search data." alt="" coords="335,765,449,792"/>
+<area shape="rect" id="node29" href="$root_8c.html#ae8b727693fc7a90e504bd8abec158c84" title="Search the bestmove of a given board." alt="" coords="349,1019,435,1045"/>
+<area shape="rect" id="node43" href="$search_8c.html#a99ecde00b1e5da1b9366b69ec1971568" title="Set the board to analyze." alt="" coords="531,563,656,589"/>
+<area shape="rect" id="node46" href="$search_8c.html#aff1b83c3891eb0c777f3dfc74ce5fb25" title="set time to search." alt="" coords="313,512,471,539"/>
+<area shape="rect" id="node47" href="$search_8c.html#a06bb5a695032b0cc1d8e8ca51e231ad7" title="Set the search level." alt="" coords="332,563,452,589"/>
+<area shape="rect" id="node48" href="$search_8c.html#ad85c25af88314b0b35b544ed1721298b" title="set time to search." alt="" coords="313,715,471,741"/>
+<area shape="rect" id="node25" href="$move_8c.html#a0ae53ce219676b29cf33f8e7586f75a9" title="Print a move sequence." alt="" coords="556,461,631,488"/>
+<area shape="rect" id="node28" href="$hash-lock-free_8c.html#aab69792f6f434c8466eca07c469850f1" title="Clear the hashtable." alt="" coords="542,715,645,741"/>
+<area shape="rect" id="node30" href="$search_8c.html#a7859966133ce35e30a9ffd76093ca1c7" title="Compute the pv_extension." alt="" coords="726,968,849,995"/>
+<area shape="rect" id="node31" href="$board_8c.html#a60e2b7416c26d30fd43e091c954d43b8" title="Estimate the stability." alt="" coords="911,841,1001,868"/>
+<area shape="rect" id="node32" href="$hash-lock-free_8c.html#a8e816e06f47bd2f37528bef5ae64cf8d" title="Clear the hashtable." alt="" coords="551,1019,636,1045"/>
+<area shape="rect" id="node33" href="$root_8c.html#a0e77250a21e5f5d70917a5356c22f5f3" title="Iterative deepening." alt="" coords="526,1120,661,1147"/>
+<area shape="rect" id="node34" href="$move_8c.html#a13dc373d7c20c99db5dfbc1b70e20d15" title="Check if the list is empty." alt="" coords="722,1019,853,1045"/>
+<area shape="rect" id="node35" href="$root_8c.html#abd96ac683822561d0ca3e2981a6585da" title="bound root scores according to stable squares" alt="" coords="736,1120,839,1147"/>
+<area shape="rect" id="node37" href="$midgame_8c.html#a35172421197c3d988a7ea86009a777c9" title="evaluate a midgame position with the evaluation function." alt="" coords="734,1171,841,1197"/>
+<area shape="rect" id="node39" href="$search_8c.html#a5710e38d5c67dd03d99307b442d00a63" title="Return the time spent by the search." alt="" coords="907,1221,1005,1248"/>
+<area shape="rect" id="node40" href="$search_8c.html#a0338bb851c866a94b8451004068fa394" title="Initialize the alloted time." alt="" coords="535,765,652,792"/>
+<area shape="rect" id="node41" href="$stats_8c.html#af15b5cd7664fb5e595189ba085486f45" title="Print statistics." alt="" coords="540,816,647,843"/>
+<area shape="rect" id="node42" href="$stats_8c.html#a47fa8a262b1bbac35e09be17c9edda25" title="Cumulate node counts from the last search." alt="" coords="519,867,668,893"/>
+<area shape="rect" id="node44" href="$search_8c.html#a507955218cafd96b85d29981f3ea6f8d" title="Get a list of legal moves." alt="" coords="716,563,859,589"/>
+<area shape="rect" id="node45" href="$search_8c.html#ad93ea95428d09b19c1491ee9378ad2b3" title="Set up various structure once the board has been set." alt="" coords="737,613,837,640"/>
+</map>

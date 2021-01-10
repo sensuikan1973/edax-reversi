@@ -1,0 +1,4 @@
+<map id="xboard_move" name="xboard_move">
+<area shape="rect" id="node1" title="Send a move to xboard/winboard GUI." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="152,5,239,32"/>
+</map>

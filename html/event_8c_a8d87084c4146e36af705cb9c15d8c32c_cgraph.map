@@ -1,0 +1,5 @@
+<map id="event_wait_enter" name="event_wait_enter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$event_8c.html#aec5bca279cb9c3b541be99b6b0e491dc" title="Peek the first message from the list." alt="" coords="175,5,324,32"/>
+<area shape="rect" id="node3" href="$event_8c.html#a578420a784d4b0ab9838a749d82342b8" title="Check if there is a message." alt="" coords="372,5,460,32"/>
+</map>

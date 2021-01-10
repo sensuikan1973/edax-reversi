@@ -1,0 +1,6 @@
+<map id="shape_unique" name="shape_unique">
+<area shape="rect" id="node1" title="unique shape." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$bit_8c.html#a7826d84dcc6e19830bf93448eee22f4c" title="Mirror the unsigned long long (exchange the line 1 &#45; 8, 2 &#45; 7, 3 &#45; 6 &amp; 4 &#45; 5)." alt="" coords="156,5,273,32"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a62b47100450786b2738045b2f8aeebb3" title="Transpose the unsigned long long (symetry % A1&#45;H8 diagonal)." alt="" coords="175,56,254,83"/>
+<area shape="rect" id="node4" href="$bit_8c.html#a896c459f1b772f5f4da4e72a0953330b" title="Mirror the unsigned long long (exchange the lines A &#45; H, B &#45; G, C &#45; F &amp; D &#45; E.)." alt="" coords="163,107,267,133"/>
+</map>

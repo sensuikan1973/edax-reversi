@@ -1,0 +1,21 @@
+<map id="play_is_game_over" name="play_is_game_over">
+<area shape="rect" id="node1" title="Check if game is over." alt="" coords="1240,487,1373,514"/>
+<area shape="rect" id="node2" href="$play_8h.html#a3a130d5b6e9e6e157741f85ff1fd2516" title="Start thinking." alt="" coords="1072,107,1139,134"/>
+<area shape="rect" id="node3" href="$ggs_8c.html#a55704d516945d0fc38a4aae02fca1bfe" title="ui_ggs_play" alt="" coords="713,107,803,134"/>
+<area shape="rect" id="node8" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,259,201,286"/>
+<area shape="rect" id="node13" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="704,512,812,539"/>
+<area shape="rect" id="node14" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="513,563,655,590"/>
+<area shape="rect" id="node15" href="$play_8h.html#a8604efa4b0929b557718c0196a1aa8ee" title="Start thinking." alt="" coords="1069,310,1142,336"/>
+<area shape="rect" id="node16" href="$play_8h.html#a64a2b74613000115b67bd6a5b3bc89ce" title="Ponder." alt="" coords="1060,411,1151,438"/>
+<area shape="rect" id="node18" href="$xboard_8c.html#a213bcf9938dc33b50c60576920dbecda" title="Analyze." alt="" coords="703,664,813,691"/>
+<area shape="rect" id="node19" href="$xboard_8c.html#a14d8dd2a07b408d8cde575639502fd62" title="Check if the game is over." alt="" coords="1019,487,1192,514"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="376,6,464,32"/>
+<area shape="rect" id="node11" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="861,56,971,83"/>
+<area shape="rect" id="node12" href="$xboard_8c.html#ac3cbe43d38c75f78ef60f463f91bf3fe" title=" " alt="" coords="875,462,957,488"/>
+<area shape="rect" id="node4" href="$ggs_8c.html#afc8b9c7d5dd5c68bdabac6790ff83aff" title="ui_ggs_join" alt="" coords="541,132,627,159"/>
+<area shape="rect" id="node9" href="$ggs_8c.html#add208abcf5430b768477f3ea02a2b139" title="ui_ggs_update" alt="" coords="531,183,637,210"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="375,158,465,184"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="249,208,327,235"/>
+<area shape="rect" id="node7" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,234,56,260"/>
+<area shape="rect" id="node17" href="$ggs_8c.html#acd83ffbed6d799eebb5ba51884f7f376" title="ui_ggs_ponder" alt="" coords="863,208,969,235"/>
+</map>

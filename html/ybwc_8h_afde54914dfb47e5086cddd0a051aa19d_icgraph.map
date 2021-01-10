@@ -1,0 +1,52 @@
+<map id="node_next_move" name="node_next_move">
+<area shape="rect" id="node1" title="Get the next move of the move list." alt="" coords="2276,460,2396,487"/>
+<area shape="rect" id="node2" href="$search_8h.html#a09bb4c8e0c3c29d7dcd0d9cbde6cc04f" title="Evaluate a midgame position with a Null Window Search algorithm." alt="" coords="2115,548,2228,575"/>
+<area shape="rect" id="node3" href="$search_8h.html#a4d89c7d50823378b15e74842454bfd3e" title="Evaluate a position with a deep Principal Variation Search algorithm." alt="" coords="1957,460,2066,487"/>
+<area shape="rect" id="node5" href="$search_8h.html#a4efd4c8ca441672d0493722b7d01f046" title="Principal Variation Search algorithm at the root of the tree." alt="" coords="1509,384,1588,411"/>
+<area shape="rect" id="node41" href="$ybwc_8h.html#aaa4fc1461e78cd5569318f9e19399e50" title="A parallel search within a Task structure." alt="" coords="1815,587,1908,613"/>
+<area shape="rect" id="node50" href="$midgame_8c.html#a232fed82bb28cdcc18d59d1cfecab0f1" title="Probcut." alt="" coords="1956,561,2067,588"/>
+<area shape="rect" id="node4" href="$root_8c.html#ab2e5830644a88819b823d90fd9878d4d" title="Reroute the PVS between midgame,endgame or terminal PVS." alt="" coords="1636,409,1767,436"/>
+<area shape="rect" id="node6" href="$search_8h.html#a8b35bf59fb6131a7d172632ebd50fc94" title="Aspiration window." alt="" coords="1337,233,1461,260"/>
+<area shape="rect" id="node7" href="$cassio_8h.html#aeaf9e2a47f743c88f7a39ce52cf1cd6d" title="Endgame search." alt="" coords="940,208,1107,235"/>
+<area shape="rect" id="node12" href="$cassio_8h.html#a018fe57eba634b34c2a2b3b18b30914f" title="Midgame search." alt="" coords="940,157,1107,184"/>
+<area shape="rect" id="node13" href="$search_8h.html#ad066393bfde0bb6e1cfd34eb79b1dff8" title="Iterative deepening." alt="" coords="1155,208,1289,235"/>
+<area shape="rect" id="node8" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="789,43,880,69"/>
+<area shape="rect" id="node9" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,195,56,221"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="235,372,333,399"/>
+<area shape="rect" id="node11" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,372,181,399"/>
+<area shape="rect" id="node14" href="$search_8h.html#a4399533d31feb4133a5b924808151ee5" title="Search the bestmove of a given board." alt="" coords="980,372,1067,399"/>
+<area shape="rect" id="node15" href="$game_8h.html#aedbbbe8625d17f774328aa70a74dd4fb" title="Analyze an endgame." alt="" coords="783,245,887,272"/>
+<area shape="rect" id="node18" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="429,195,512,221"/>
+<area shape="rect" id="node19" href="$game_8h.html#ae8a39608ec9411b9266ea659e06547a9" title="Terminate an unfinished game." alt="" coords="777,524,892,551"/>
+<area shape="rect" id="node21" href="$obftest_8c.html#a6ed0f135c4cf4021e18eb1a965a72bfa" title="Build an OBF structure." alt="" coords="797,296,872,323"/>
+<area shape="rect" id="node23" href="$obftest_8c.html#ab9783a5ca8dc9d2b69ed9ae61945bbfb" title="Analyze an OBF structure." alt="" coords="623,43,709,69"/>
+<area shape="rect" id="node26" href="$play_8c.html#ab220e1e3acf69015cd2e2b32abbdbaae" title="Seek for the best alternative move." alt="" coords="779,397,891,424"/>
+<area shape="rect" id="node28" href="$play_8h.html#a3a130d5b6e9e6e157741f85ff1fd2516" title="Start thinking." alt="" coords="437,701,504,728"/>
+<area shape="rect" id="node33" href="$play_8h.html#a8604efa4b0929b557718c0196a1aa8ee" title="Start thinking." alt="" coords="434,549,507,576"/>
+<area shape="rect" id="node34" href="$play_8h.html#ab6e159382d8fd7de27ad545bfe249586" title="do ponderation." alt="" coords="608,651,724,677"/>
+<area shape="rect" id="node37" href="$book_8c.html#ad3b2686173649c214c8349e5e3da0aca" title="Evaluate a position." alt="" coords="778,448,891,475"/>
+<area shape="rect" id="node40" href="$base_8h.html#a76070505a4a15283da838da86d5e9fea" title="Test Eval with a wthor base." alt="" coords="792,347,877,373"/>
+<area shape="rect" id="node16" href="$base_8h.html#ac75f6caa4fae084cd486be959f569310" title="Base analysis." alt="" coords="616,245,716,272"/>
+<area shape="rect" id="node17" href="$base_8c.html#ae5fd96b2c5fc0853715832158d172eb0" title="Verify that a PV does not contain errors." alt="" coords="627,195,705,221"/>
+<area shape="rect" id="node20" href="$base_8h.html#a527ab0f5357576fdb7824d4b0689708d" title="Base analysis." alt="" coords="611,549,721,576"/>
+<area shape="rect" id="node22" href="$obftest_8h.html#a33831f086e7294629129a13973801b87" title="Build an OBF file from a Script file." alt="" coords="617,296,715,323"/>
+<area shape="rect" id="node24" href="$obftest_8h.html#acb5f3a86d3aebc67fe4b786348537b08" title="Test edax speed by running for at least 1 minutes on problems deeper and deeper." alt="" coords="429,93,512,120"/>
+<area shape="rect" id="node25" href="$obftest_8h.html#a00bea4b4b497832c12603234961a171a" title="Test an OBF file." alt="" coords="436,43,505,69"/>
+<area shape="rect" id="node27" href="$play_8h.html#a656b8ae7ab719cd9b497f00033cbecb7" title="Analyze a played game." alt="" coords="619,397,713,424"/>
+<area shape="rect" id="node29" href="$ggs_8c.html#a55704d516945d0fc38a4aae02fca1bfe" title="ui_ggs_play" alt="" coords="239,727,329,753"/>
+<area shape="rect" id="node30" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="240,651,328,677"/>
+<area shape="rect" id="node31" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="229,549,339,576"/>
+<area shape="rect" id="node32" href="$xboard_8c.html#ac3cbe43d38c75f78ef60f463f91bf3fe" title=" " alt="" coords="243,600,325,627"/>
+<area shape="rect" id="node35" href="$play_8h.html#a64a2b74613000115b67bd6a5b3bc89ce" title="Ponder." alt="" coords="425,600,516,627"/>
+<area shape="rect" id="node36" href="$xboard_8c.html#a213bcf9938dc33b50c60576920dbecda" title="Analyze." alt="" coords="415,651,526,677"/>
+<area shape="rect" id="node38" href="$book_8h.html#a6a4e135fcf7e0cab7c956d889827424e" title="Add a position." alt="" coords="607,499,725,525"/>
+<area shape="rect" id="node39" href="$book_8h.html#a7acb38fa1835d85ce760e7b628e474e9" title="Correct wrong solved score in the book." alt="" coords="399,448,542,475"/>
+<area shape="rect" id="node42" href="$ybwc_8h.html#aba10515dc550a8ff296d7135444af345" title="Wait for slaves termination." alt="" coords="1638,485,1765,512"/>
+<area shape="rect" id="node43" href="$ybwc_8h.html#a8eb6cca47c59cffd35893c018812bd37" title="The main loop runned by a task." alt="" coords="1509,719,1588,745"/>
+<area shape="rect" id="node44" href="$ybwc_8h.html#a420f8adfca45ac7324695e2420f96cb9" title="Initialize the stack of tasks." alt="" coords="779,752,890,779"/>
+<area shape="rect" id="node45" href="$search_8h.html#a2b18088322bfc6306203b3f53501fcbc" title="Init the main search." alt="" coords="623,828,709,855"/>
+<area shape="rect" id="node48" href="$ybwc_8h.html#a893cd1dd8a88791df3b91a21da8223d1" title="Resize the stack of tasks." alt="" coords="603,752,729,779"/>
+<area shape="rect" id="node46" href="$cassio_8c.html#a11a5cdab7fa3b7498c05a4e9c24301ba" title="Create engine search." alt="" coords="396,803,545,829"/>
+<area shape="rect" id="node47" href="$play_8h.html#aeb15856fd77ed28b6459c8f15e02463b" title="Initialization." alt="" coords="436,853,505,880"/>
+<area shape="rect" id="node49" href="$search_8h.html#aa4d903248e68ee9e5c3abedb1e8b3ba9" title="Change the number of task." alt="" coords="387,752,555,779"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="search_setup" name="search_setup">
+<area shape="rect" id="node1" title="Set up various structure once the board has been set." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$eval_8c.html#ac0a65ec1475760424179051a43328b42" title="Set up evaluation features from a board." alt="" coords="153,5,224,32"/>
+<area shape="rect" id="node3" href="$board_8c.html#a6c2fad499875a4e9d775d9f23ede8aac" title="Get square color." alt="" coords="272,5,432,32"/>
+</map>

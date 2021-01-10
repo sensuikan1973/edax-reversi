@@ -1,0 +1,9 @@
+<map id="game_to_wthor" name="game_to_wthor">
+<area shape="rect" id="node1" title="convert a Game to a Whor game." alt="" coords="691,56,801,83"/>
+<area shape="rect" id="node2" href="$base_8c.html#a927d0aa4ac1294345af68a8bfd224012" title="Convert to a wthor base." alt="" coords="522,31,629,57"/>
+<area shape="rect" id="node7" href="$game_8h.html#a23f87aac9f1513e6c3713641a9553e57" title="Write a game to a Wthor file." alt="" coords="508,81,643,108"/>
+<area shape="rect" id="node3" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="375,31,460,57"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,31,327,57"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,31,181,57"/>
+</map>

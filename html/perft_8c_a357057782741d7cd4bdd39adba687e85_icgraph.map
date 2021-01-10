@@ -1,0 +1,11 @@
+<map id="game_statistics_cumulate" name="game_statistics_cumulate">
+<area shape="rect" id="node1" title="Accumulate statistics: add local data to global ones." alt="" coords="768,72,943,99"/>
+<area shape="rect" id="node2" href="$perft_8c.html#af5e8b9b385ea97f1c30654db2a347a30" title="Move generator performance test function." alt="" coords="594,21,687,48"/>
+<area shape="rect" id="node7" href="$perft_8c.html#a7def9bbbbbd65f8951726a9626e459b5" title="Count games recursively." alt="" coords="575,72,706,99"/>
+<area shape="rect" id="node9" href="$perft_8c.html#a7a530c0959e88966291040639ba1e5ad" title="Count games recursively." alt="" coords="561,123,720,149"/>
+<area shape="rect" id="node3" href="$perft_8c.html#af3b82e904787bb6c730537567f2a2809" title="Move generator performance test." alt="" coords="394,21,494,48"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,21,327,48"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,21,56,48"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,21,181,48"/>
+<area shape="rect" id="node8" href="$perft_8c.html#a2de31ec56cd869ac4082790288cfbf56" title="Count games." alt="" coords="375,72,513,99"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="board_init" name="board_init">
+<area shape="rect" id="node1" title="Set a board to the starting position." alt="" coords="1136,479,1215,506"/>
+<area shape="rect" id="node2" href="$bench_8c.html#a4e316049e6f4d7d75fc34cf94fe8a293" title=" " alt="" coords="959,440,1067,467"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="232,491,329,518"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,555,56,582"/>
+<area shape="rect" id="node7" href="$board_8h.html#a0476974179ac286d2a849334d7eb67bd" title="Get a random board by playing random moves." alt="" coords="969,60,1056,87"/>
+<area shape="rect" id="node9" href="$book_8h.html#a8dbe38af46f4a34ace1824becb099597" title="Add positions from a game." alt="" coords="954,111,1071,138"/>
+<area shape="rect" id="node11" href="$book_8c.html#a8996ed1153616ffa18e6819b88e106c9" title="Check positions from a game." alt="" coords="947,162,1078,188"/>
+<area shape="rect" id="node13" href="$book_8h.html#af00002ac230ead928a6bab34f5513cbf" title="Extract book draws to a game base." alt="" coords="380,415,532,442"/>
+<area shape="rect" id="node14" href="$book_8h.html#a4b05926ea6422b342691dbcc8fa1f22d" title="Create a new opening book." alt="" coords="607,212,689,239"/>
+<area shape="rect" id="node22" href="$book_8c.html#a15fb375522cfce3cca97b01d84fab40d" title="Find the initial position in the book." alt="" coords="609,263,687,290"/>
+<area shape="rect" id="node25" href="$book_8c.html#a65253e739b9201531bad8dc071d24d11" title="Extract book lines to a game base." alt="" coords="589,364,707,391"/>
+<area shape="rect" id="node26" href="$game_8h.html#ad5b40a98857680b3b767f3ea8508e5bb" title="Write a game to a pgn file." alt="" coords="765,567,889,594"/>
+<area shape="rect" id="node29" href="$game_8h.html#a7b6fa2d6ef7e1aa930ad448891c0f16d" title="Write a game to a text file." alt="" coords="765,668,889,695"/>
+<area shape="rect" id="node33" href="$game_8h.html#a874590bbd4d2aa4c6fd334eb05919b27" title="Create an empty game." alt="" coords="973,922,1052,948"/>
+<area shape="rect" id="node40" href="$game_8h.html#abf08a34b1e3139c4c94728a17e7694e9" title="Fill a game with some random moves." alt="" coords="783,1276,870,1303"/>
+<area shape="rect" id="node45" href="$game_8c.html#a8a601511577ecf968fd54ff76fa2fa87" title="Convert a text (ascii) game to a Game." alt="" coords="777,1226,877,1252"/>
+<area shape="rect" id="node47" href="$util_8c.html#afb84a77df082fe4e220b565ce9c4aec8" title="Parse a sequence of moves." alt="" coords="966,1295,1059,1322"/>
+<area shape="rect" id="node49" href="$play_8h.html#aeb15856fd77ed28b6459c8f15e02463b" title="Initialization." alt="" coords="421,820,491,847"/>
+<area shape="rect" id="node50" href="$base_8c.html#aba6e536d7bdd74d06cd2113ba6c56f02" title="Get a position from a Wthor game." alt="" coords="937,1428,1088,1455"/>
+<area shape="rect" id="node3" href="$edax_8c.html#a17c52ed0f7cf117ab83d29f1d6df3c50" title="perform various performance tests." alt="" coords="427,466,485,492"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,618,181,644"/>
+<area shape="rect" id="node8" href="$obftest_8h.html#acb5f3a86d3aebc67fe4b786348537b08" title="Test edax speed by running for at least 1 minutes on problems deeper and deeper." alt="" coords="415,60,497,87"/>
+<area shape="rect" id="node10" href="$book_8h.html#a9e06c2785f11e6efa58cc0af754f856b" title="Add positions from a game database." alt="" coords="399,111,513,138"/>
+<area shape="rect" id="node12" href="$book_8h.html#a1ece654156c4071320d82f27fdd70a94" title="Check positions from a game database." alt="" coords="393,162,519,188"/>
+<area shape="rect" id="node15" href="$book_8h.html#a582fa5995e27b3267f8d8add56e36a19" title="Import an opening book." alt="" coords="409,263,503,290"/>
+<area shape="rect" id="node16" href="$book_8h.html#a0197414d278eed9019ea533ea436cb9e" title="Load the opening book." alt="" coords="415,719,497,746"/>
+<area shape="rect" id="node17" href="$ui_8h.html#ae9c1af9b7277c030f6e50fd264eb4a37" title="initialize edax protocol." alt="" coords="235,795,326,822"/>
+<area shape="rect" id="node18" href="$ui_8h.html#ac347f0443e7a359b831980f71c08ada1" title="ui_init_ggs" alt="" coords="239,592,323,619"/>
+<area shape="rect" id="node19" href="$ui_8h.html#a076dba1e794eac72700dfe018bd16bca" title="initialize edax protocol" alt="" coords="240,643,321,670"/>
+<area shape="rect" id="node20" href="$ui_8h.html#aecb2e2489b7543b81ab71d2bcac18c14" title="initialize edax protocol" alt="" coords="229,694,332,720"/>
+<area shape="rect" id="node21" href="$xboard_8c.html#a8981c5b2a461a5306bee6148f13c5a27" title="initialize xboard protocol." alt="" coords="230,744,331,771"/>
+<area shape="rect" id="node23" href="$book_8h.html#a0c32808b4028605df38426202602c1b2" title="Negamax a book." alt="" coords="401,364,511,391"/>
+<area shape="rect" id="node24" href="$book_8h.html#ac0bb45b9a2e2e552a3ce134a75e07feb" title="Prune a book." alt="" coords="411,314,501,340"/>
+<area shape="rect" id="node27" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="605,567,691,594"/>
+<area shape="rect" id="node28" href="$play_8h.html#aafceeb6413b921ef6a0e44f5fd585de7" title="Save a played game." alt="" coords="608,618,688,644"/>
+<area shape="rect" id="node30" href="$base_8h.html#ac75f6caa4fae084cd486be959f569310" title="Base analysis." alt="" coords="406,668,506,695"/>
+<area shape="rect" id="node31" href="$game_8h.html#aedbbbe8625d17f774328aa70a74dd4fb" title="Analyze an endgame." alt="" coords="596,719,700,746"/>
+<area shape="rect" id="node32" href="$base_8c.html#a8e5fad7957b25e222378c9704bef3593" title="print a wthor game." alt="" coords="585,770,711,796"/>
+<area shape="rect" id="node34" href="$game_8h.html#a9fd657834f667f1ef0f04e62afde9cf9" title="Read a game from the Generic Game Format (ggf) file." alt="" coords="765,1074,888,1100"/>
+<area shape="rect" id="node35" href="$game_8h.html#a1cd2f02d7123d351ea968df4773731f0" title="Read a game from the &quot;allinf.oko&quot; file." alt="" coords="585,998,711,1024"/>
+<area shape="rect" id="node36" href="$game_8h.html#abbbfe90e8a76976fc90442b1adf3e643" title="Read a game from a pgn file." alt="" coords="764,1124,889,1151"/>
+<area shape="rect" id="node37" href="$game_8h.html#a2e1c8a0755760643a2bcb6bbc3f46715" title="Read a game from a sgf file." alt="" coords="765,719,888,746"/>
+<area shape="rect" id="node38" href="$game_8h.html#a6ce266f5142bf6df5cd02bc9cdc5b4ee" title="Read a game from a text file." alt="" coords="585,1200,711,1227"/>
+<area shape="rect" id="node39" href="$game_8h.html#a3c76bada0b4919d2ef713a8257e0db19" title="Read a game from a Wthor file." alt="" coords="580,820,716,847"/>
+<area shape="rect" id="node41" href="$game_8h.html#a52825a9566c5896141af7e8da1aba17b" title="Read a game from a binary file." alt="" coords="783,871,870,898"/>
+<area shape="rect" id="node42" href="$game_8h.html#a2b5b074c1e003283a0854598f36a164b" title="Build a game from an initial position and a move sequence." alt="" coords="777,466,876,492"/>
+<area shape="rect" id="node43" href="$game_8c.html#acf981645bd9330c81a4101884b7403b1" title="convert an allinf.oko game to a Game." alt="" coords="777,1023,877,1050"/>
+<area shape="rect" id="node44" href="$game_8h.html#a7b1ed7becba834ec6ab2aecf00417b3a" title="Parse a ggf game from a string." alt="" coords="787,922,866,948"/>
+<area shape="rect" id="node46" href="$game_8h.html#a63eb7f037b177a3bfe94130634fb445d" title="convert a Wthor game to a Game." alt="" coords="771,770,882,796"/>
+<area shape="rect" id="node48" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="411,770,501,796"/>
+</map>

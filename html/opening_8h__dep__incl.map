@@ -1,0 +1,8 @@
+<map id="opening.h" name="opening.h">
+<area shape="rect" id="node1" title=" " alt="" coords="133,5,211,32"/>
+<area shape="rect" id="node2" href="$edax_8c.html" title="Edax protocol." alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node4" href="$opening_8c.html" title=" " alt="" coords="88,80,165,107"/>
+<area shape="rect" id="node5" href="$play_8c.html" title=" " alt="" coords="190,80,245,107"/>
+<area shape="rect" id="node6" href="$xboard_8c.html" title="xboard protocol." alt="" coords="269,80,339,107"/>
+<area shape="rect" id="node3" href="$all_8c.html" title="Gather all other files to facilitate compiler inter&#45;procedural optimization." alt="" coords="149,155,195,181"/>
+</map>

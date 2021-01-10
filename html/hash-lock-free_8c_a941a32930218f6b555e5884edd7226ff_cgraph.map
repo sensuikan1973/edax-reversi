@@ -1,0 +1,7 @@
+<map id="hash_feed" name="hash_feed">
+<area shape="rect" id="node1" title="Feed hash table (from Cassio)." alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node2" href="$hash-lock-free_8c.html#a9cc25488a8f4eda9c9cdc74995d032a0" title="Reset an hash entry from new data values." alt="" coords="147,5,233,32"/>
+<area shape="rect" id="node4" href="$hash-lock-free_8c.html#a7170bea334bf042d48f00ed473bd6a48" title="Set a new hash table item." alt="" coords="153,56,227,83"/>
+<area shape="rect" id="node5" href="$hash-lock-free_8c.html#aa41c220979591f6be05f9c30fae53261" title="make a level from date, cost, depth &amp; selectivity." alt="" coords="136,107,244,133"/>
+<area shape="rect" id="node3" href="$hash-lock-free_8c.html#aeafd0b4e6665b357afcff5dd30723c15" title="Transform hash data into a 64 bits key." alt="" coords="292,31,369,57"/>
+</map>

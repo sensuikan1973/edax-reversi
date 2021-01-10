@@ -1,0 +1,9 @@
+<map id="wthor_load" name="wthor_load">
+<area shape="rect" id="node1" title="Load a wthor base." alt="" coords="5,107,91,133"/>
+<area shape="rect" id="node2" href="$util_8c.html#ae80bedfb302071967da7cecb36fece4b" title="Extract the directory of a file path." alt="" coords="174,5,267,32"/>
+<area shape="rect" id="node3" href="$base_8c.html#aec96f83bf10c4b1c5feeb7ff72a9e1d0" title="Read wthor header." alt="" coords="351,157,483,184"/>
+<area shape="rect" id="node4" href="$base_8c.html#a776b78ba60f8428ffc27801dfeefb099" title="Initialize a Wthor base." alt="" coords="181,107,260,133"/>
+<area shape="rect" id="node5" href="$base_8c.html#a8455f4a29eeef31454c5a3e24ce01e3b" title="Load wthor players." alt="" coords="154,208,287,235"/>
+<area shape="rect" id="node7" href="$base_8c.html#a92e995609def4ac2616b89a4853e64b1" title="Load wthor tournaments." alt="" coords="139,157,303,184"/>
+<area shape="rect" id="node6" href="$base_8c.html#a65620c8e6b37342b7ddff12682b0229d" title="Init wthor players." alt="" coords="353,208,480,235"/>
+</map>

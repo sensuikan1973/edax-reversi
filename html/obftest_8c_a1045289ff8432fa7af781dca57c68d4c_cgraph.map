@@ -1,0 +1,5 @@
+<map id="obf_write" name="obf_write">
+<area shape="rect" id="node1" title="Write an OBF structure." alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a5f43645a89dd567f64bc91de6fed5b5a" title="convert the to a compact string." alt="" coords="128,5,239,32"/>
+<area shape="rect" id="node3" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="140,56,227,83"/>
+</map>

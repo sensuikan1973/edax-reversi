@@ -1,0 +1,5 @@
+<map id="board_from_FEN" name="board_from_FEN">
+<area shape="rect" id="node1" title="Set a board from a string description." alt="" coords="5,31,125,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="173,5,313,32"/>
+<area shape="rect" id="node3" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="176,56,311,83"/>
+</map>

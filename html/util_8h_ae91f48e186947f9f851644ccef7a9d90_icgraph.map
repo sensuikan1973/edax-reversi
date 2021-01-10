@@ -1,0 +1,23 @@
+<map id="parse_real" name="parse_real">
+<area shape="rect" id="node1" title="Parse a real number (as a double floating point)." alt="" coords="1071,259,1153,285"/>
+<area shape="rect" id="node2" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="408,259,499,285"/>
+<area shape="rect" id="node6" href="$ggs_8c.html#ac637c7bb4b515a0368d814c2e10b9342" title="ggs_parse_double" alt="" coords="744,107,871,133"/>
+<area shape="rect" id="node12" href="$options_8h.html#ac27d0f304908320371c1a23e8fe7c5b3" title="Read an option." alt="" coords="405,436,501,463"/>
+<area shape="rect" id="node15" href="$util_8c.html#a24730bd89ce6b15019f0c59c8be64cb5" title="parse time as &quot;D:HH:MM:SS.C&quot;." alt="" coords="927,512,1014,539"/>
+<area shape="rect" id="node16" href="$util_8h.html#aebc7773429e5af3ab827168e62ffb7a0" title="Read time as &quot;D:HH:MM:SS.C&quot;." alt="" coords="919,309,1023,336"/>
+<area shape="rect" id="node21" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="927,157,1015,184"/>
+<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,360,56,387"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="255,360,352,387"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="117,309,194,336"/>
+<area shape="rect" id="node7" href="$ggs_8c.html#a63f1ce1416d9a7c378bdb930b7586505" title="ggs_board" alt="" coords="412,107,495,133"/>
+<area shape="rect" id="node9" href="$ggs_8c.html#a2fd026583915c73831fb9401717464f3" title="ggs_player_set" alt="" coords="571,56,680,83"/>
+<area shape="rect" id="node8" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="258,81,349,108"/>
+<area shape="rect" id="node10" href="$ggs_8c.html#a8f06848b666fd366f6e26fb217214d21" title="ggs_match_off" alt="" coords="400,5,507,32"/>
+<area shape="rect" id="node11" href="$ggs_8c.html#a111a36cc555c8894c0abb1fa06babe31" title="ggs_match_on" alt="" coords="400,56,507,83"/>
+<area shape="rect" id="node13" href="$options_8c.html#a4ed43b013f2dae7fdf45172f563ca067" title="parse an option from a string" alt="" coords="255,461,351,488"/>
+<area shape="rect" id="node14" href="$options_8h.html#a29667af543c9daf7238f2769105f7fc8" title="parse options from a file" alt="" coords="104,411,207,437"/>
+<area shape="rect" id="node17" href="$ggs_8c.html#a6b2f2f03bb067952199d314fbd88f17d" title="ggs_parse_move" alt="" coords="750,271,865,297"/>
+<area shape="rect" id="node19" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="753,335,861,361"/>
+<area shape="rect" id="node18" href="$ggs_8c.html#a7494470ebe53d867ce2dcd438fa5b583" title="ggs_parse_clock" alt="" coords="565,259,685,285"/>
+<area shape="rect" id="node20" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="555,360,696,387"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="node_split" name="node_split">
+<area shape="rect" id="node1" title="Node split." alt="" coords="5,81,87,108"/>
+<area shape="rect" id="node2" href="$util_8h.html#a810a91328534783b77f0e95327f37270" title=" " alt="" coords="175,5,265,32"/>
+<area shape="rect" id="node3" href="$ybwc_8c.html#af882b1bf581c1a2afc29dd8624478421" title="Seek for &amp; use an helper node." alt="" coords="179,107,261,133"/>
+<area shape="rect" id="node4" href="$search_8c.html#a7af3e3571b317c44cd1f669ec2eb4be8" title="Clone a search for parallel search." alt="" coords="353,56,452,83"/>
+<area shape="rect" id="node11" href="$ybwc_8c.html#a8d11f7bb4a76bc871550c8be50abdaf8" title="Return, if available, an idle task." alt="" coords="135,157,305,184"/>
+<area shape="rect" id="node8" href="$ybwc_8c.html#a638ff15b10d60e8dde5b78cf7d32f4cb" title="Initialize a task." alt="" coords="367,107,438,133"/>
+<area shape="rect" id="node5" href="$search_8c.html#ad93ea95428d09b19c1491ee9378ad2b3" title="Set up various structure once the board has been set." alt="" coords="518,56,618,83"/>
+<area shape="rect" id="node6" href="$eval_8c.html#ac0a65ec1475760424179051a43328b42" title="Set up evaluation features from a board." alt="" coords="684,56,755,83"/>
+<area shape="rect" id="node7" href="$board_8c.html#a6c2fad499875a4e9d775d9f23ede8aac" title="Get square color." alt="" coords="803,56,963,83"/>
+<area shape="rect" id="node9" href="$ybwc_8c.html#a45b9a17df0c2e4680a301bf4a854b3f6" title="Create a search structure for a task." alt="" coords="500,107,636,133"/>
+<area shape="rect" id="node10" href="$eval_8c.html#a8eef3217a4129901069390c85e6ff12a" title="Initialize a new evaluation function." alt="" coords="684,107,755,133"/>
+</map>

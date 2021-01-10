@@ -1,0 +1,34 @@
+<map id="position_search" name="position_search">
+<area shape="rect" id="node1" title="Evaluate a position." alt="" coords="968,335,1081,361"/>
+<area shape="rect" id="node2" href="$book_8h.html#a6a4e135fcf7e0cab7c956d889827424e" title="Add a position." alt="" coords="790,208,907,235"/>
+<area shape="rect" id="node23" href="$book_8h.html#a7acb38fa1835d85ce760e7b628e474e9" title="Correct wrong solved score in the book." alt="" coords="777,309,920,336"/>
+<area shape="rect" id="node24" href="$book_8h.html#a5f4c510ca4b8e9ad2a3ddb507496ca29" title="Deepen a book." alt="" coords="799,360,898,387"/>
+<area shape="rect" id="node25" href="$book_8h.html#aac36429d5b9514a42d861be1bdac14e8" title="Link a book." alt="" coords="632,563,709,589"/>
+<area shape="rect" id="node26" href="$book_8c.html#a3d3386302ce5a1f050ca860bcf8c2ce6" title="Expand a position." alt="" coords="791,411,906,437"/>
+<area shape="rect" id="node31" href="$book_8c.html#a2ed2c1217479c4fbf492246c22b28199" title="Fix a position." alt="" coords="805,107,892,133"/>
+<area shape="rect" id="node3" href="$book_8c.html#abdce4d74200559a64a4a498f952cfe96" title="Fill the opening book." alt="" coords="634,107,707,133"/>
+<area shape="rect" id="node8" href="$book_8h.html#a8dbe38af46f4a34ace1824becb099597" title="Add positions from a game." alt="" coords="612,157,729,184"/>
+<area shape="rect" id="node10" href="$book_8h.html#a4b05926ea6422b342691dbcc8fa1f22d" title="Create a new opening book." alt="" coords="630,208,711,235"/>
+<area shape="rect" id="node18" href="$play_8h.html#a92db9689e8b1479801da85c81de03729" title="store the game into the opening book" alt="" coords="467,613,548,640"/>
+<area shape="rect" id="node4" href="$book_8h.html#ac816637fe5ee5e425a715aa956814c95" title="Fill a book." alt="" coords="473,107,542,133"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="299,259,397,285"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,208,56,235"/>
+<area shape="rect" id="node7" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="136,208,213,235"/>
+<area shape="rect" id="node9" href="$book_8h.html#a9e06c2785f11e6efa58cc0af754f856b" title="Add positions from a game database." alt="" coords="451,157,564,184"/>
+<area shape="rect" id="node11" href="$book_8h.html#a582fa5995e27b3267f8d8add56e36a19" title="Import an opening book." alt="" coords="461,259,554,285"/>
+<area shape="rect" id="node12" href="$book_8h.html#a0197414d278eed9019ea533ea436cb9e" title="Load the opening book." alt="" coords="467,5,548,32"/>
+<area shape="rect" id="node13" href="$ui_8h.html#ae9c1af9b7277c030f6e50fd264eb4a37" title="initialize edax protocol." alt="" coords="303,5,393,32"/>
+<area shape="rect" id="node14" href="$ui_8h.html#ac347f0443e7a359b831980f71c08ada1" title="ui_init_ggs" alt="" coords="306,208,390,235"/>
+<area shape="rect" id="node15" href="$ui_8h.html#a076dba1e794eac72700dfe018bd16bca" title="initialize edax protocol" alt="" coords="307,56,389,83"/>
+<area shape="rect" id="node16" href="$ui_8h.html#aecb2e2489b7543b81ab71d2bcac18c14" title="initialize edax protocol" alt="" coords="297,107,399,133"/>
+<area shape="rect" id="node17" href="$xboard_8c.html#a8981c5b2a461a5306bee6148f13c5a27" title="initialize xboard protocol." alt="" coords="297,157,399,184"/>
+<area shape="rect" id="node19" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="303,335,393,361"/>
+<area shape="rect" id="node20" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="293,436,403,463"/>
+<area shape="rect" id="node21" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="294,588,402,615"/>
+<area shape="rect" id="node22" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="104,588,245,615"/>
+<area shape="rect" id="node27" href="$book_8c.html#a1cfcc1d0080958387f00fbc3fe9daf65" title="Expand a book." alt="" coords="621,411,720,437"/>
+<area shape="rect" id="node28" href="$book_8h.html#a5974b203826a2e7802c0975576475b81" title="Deviate a book." alt="" coords="458,411,557,437"/>
+<area shape="rect" id="node29" href="$book_8h.html#ad47bdbb636c01271bc48a09a255a4cd8" title="Enhance a book." alt="" coords="454,461,561,488"/>
+<area shape="rect" id="node30" href="$book_8h.html#a87d157671cb1b0e80eb674a129877e96" title="Play." alt="" coords="467,512,547,539"/>
+<area shape="rect" id="node32" href="$book_8h.html#a7c0e8e9299adfbf03b9f00ed170c4ae4" title="Fix a book." alt="" coords="636,56,705,83"/>
+</map>

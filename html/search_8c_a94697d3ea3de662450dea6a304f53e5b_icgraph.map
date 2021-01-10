@@ -1,0 +1,16 @@
+<map id="search_set_observer" name="search_set_observer">
+<area shape="rect" id="node1" title="set observer." alt="" coords="865,208,1008,235"/>
+<area shape="rect" id="node2" href="$cassio_8c.html#a11a5cdab7fa3b7498c05a4e9c24301ba" title="Create engine search." alt="" coords="668,5,817,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="231,157,329,184"/>
+<area shape="rect" id="node8" href="$obftest_8h.html#acb5f3a86d3aebc67fe4b786348537b08" title="Test edax speed by running for at least 1 minutes on problems deeper and deeper." alt="" coords="383,56,465,83"/>
+<area shape="rect" id="node9" href="$obftest_8h.html#a00bea4b4b497832c12603234961a171a" title="Test an OBF file." alt="" coords="389,107,459,133"/>
+<area shape="rect" id="node10" href="$obftest_8h.html#a33831f086e7294629129a13973801b87" title="Build an OBF file from a Script file." alt="" coords="694,157,791,184"/>
+<area shape="rect" id="node11" href="$ui_8h.html#ae9c1af9b7277c030f6e50fd264eb4a37" title="initialize edax protocol." alt="" coords="235,259,325,285"/>
+<area shape="rect" id="node12" href="$ui_8h.html#a076dba1e794eac72700dfe018bd16bca" title="initialize edax protocol" alt="" coords="528,309,609,336"/>
+<area shape="rect" id="node13" href="$ui_8h.html#aecb2e2489b7543b81ab71d2bcac18c14" title="initialize edax protocol" alt="" coords="517,360,620,387"/>
+<area shape="rect" id="node14" href="$xboard_8c.html#a8981c5b2a461a5306bee6148f13c5a27" title="initialize xboard protocol." alt="" coords="229,411,331,437"/>
+<area shape="rect" id="node3" href="$cassio_8h.html#ab072fb80ef54455dae0b96a71d5ee845" title="Create a new Othello engine." alt="" coords="527,5,611,32"/>
+<area shape="rect" id="node4" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="379,5,469,32"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,132,56,159"/>
+<area shape="rect" id="node7" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,259,181,285"/>
+</map>

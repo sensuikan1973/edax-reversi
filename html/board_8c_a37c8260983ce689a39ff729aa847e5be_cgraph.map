@@ -1,0 +1,9 @@
+<map id="get_potential_mobility" name="get_potential_mobility">
+<area shape="rect" id="node1" title="Get potential mobility." alt="" coords="5,93,152,120"/>
+<area shape="rect" id="node2" href="$bit_8c.html#aefcb882fe9c50f3876d40068eb20bf75" title="count the number of discs, counting the corners twice." alt="" coords="204,24,339,51"/>
+<area shape="rect" id="node5" href="$board_8c.html#a29f2adaf9baa74addd3c7e1dee5781fe" title="Get potential moves." alt="" coords="200,93,343,120"/>
+<area shape="rect" id="node7" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="581,123,620,149"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="421,5,495,32"/>
+<area shape="rect" id="node4" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="573,5,628,32"/>
+<area shape="rect" id="node6" href="$board_8c.html#a85aff64302481a6f1aed3322f41a4ca2" title="Get some potential moves." alt="" coords="391,57,525,98"/>
+</map>

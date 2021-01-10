@@ -1,0 +1,52 @@
+<map id="board_is_game_over" name="board_is_game_over">
+<area shape="rect" id="node1" title="Check if the game is over." alt="" coords="1284,588,1427,615"/>
+<area shape="rect" id="node2" href="$book_8h.html#a8f3e1532b52a619e016bb134391cc69a" title="Get a variation from the book." alt="" coords="745,56,848,83"/>
+<area shape="rect" id="node13" href="$book_8h.html#a87d157671cb1b0e80eb674a129877e96" title="Play." alt="" coords="1133,208,1213,235"/>
+<area shape="rect" id="node14" href="$eval__builder_8c.html#a79387d3fa0bede6d227365162dd08ef4" title=" " alt="" coords="1111,846,1236,887"/>
+<area shape="rect" id="node23" href="$game_8h.html#a59f7db0d1c3317ea4c1c1d801f1544a1" title="Compute the final score of the game, for the initial player." alt="" coords="1127,335,1220,361"/>
+<area shape="rect" id="node34" href="$root_8c.html#a6ac3c5f991e5a6a40a27d0a9e425aaca" title="Guess a move." alt="" coords="1125,1029,1221,1056"/>
+<area shape="rect" id="node44" href="$search_8h.html#ae97296f9f9a8b075a3ec14dc841bd872" title="Check if PV is ok." alt="" coords="591,1168,665,1195"/>
+<area shape="rect" id="node45" href="$book_8c.html#ae9ee489a468274fd83808c53da0418c9" title="Deviate a position." alt="" coords="1115,512,1231,539"/>
+<area shape="rect" id="node47" href="$book_8c.html#ae7bdabeabfe76594a8c99bcdb98dedff" title="Enhance a position." alt="" coords="1112,563,1235,589"/>
+<area shape="rect" id="node49" href="$base_8h.html#a76070505a4a15283da838da86d5e9fea" title="Test Eval with a wthor base." alt="" coords="585,461,671,488"/>
+<area shape="rect" id="node50" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="587,512,669,539"/>
+<area shape="rect" id="node3" href="$play_8h.html#a3a130d5b6e9e6e157741f85ff1fd2516" title="Start thinking." alt="" coords="595,56,661,83"/>
+<area shape="rect" id="node12" href="$play_8h.html#a8604efa4b0929b557718c0196a1aa8ee" title="Start thinking." alt="" coords="591,107,665,133"/>
+<area shape="rect" id="node4" href="$ggs_8c.html#a55704d516945d0fc38a4aae02fca1bfe" title="ui_ggs_play" alt="" coords="419,5,510,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="416,259,513,285"/>
+<area shape="rect" id="node9" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="421,56,509,83"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="410,157,519,184"/>
+<area shape="rect" id="node11" href="$xboard_8c.html#ac3cbe43d38c75f78ef60f463f91bf3fe" title=" " alt="" coords="424,107,505,133"/>
+<area shape="rect" id="node5" href="$ggs_8c.html#afc8b9c7d5dd5c68bdabac6790ff83aff" title="ui_ggs_join" alt="" coords="244,5,331,32"/>
+<area shape="rect" id="node7" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="63,284,114,311"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="249,233,326,260"/>
+<area shape="rect" id="node15" href="$eval__builder_8c.html#a40ea914a5bd5aad6f7525b22935927a2" title=" " alt="" coords="925,715,1050,741"/>
+<area shape="rect" id="node17" href="$eval__builder_8c.html#a5520d2a68d1a52cd8d53058e0e83c7b2" title=" " alt="" coords="928,765,1047,792"/>
+<area shape="rect" id="node18" href="$eval__builder_8c.html#aa88f285ca2e28cf0ad595d06735b7b36" title=" " alt="" coords="919,817,1055,858"/>
+<area shape="rect" id="node19" href="$eval__builder_8c.html#a744e07a37df9d202ef37ec5cacbba3f2" title=" " alt="" coords="927,883,1047,909"/>
+<area shape="rect" id="node20" href="$eval__builder_8c.html#a889ee93dfe419005c76c172ff1145714" title=" " alt="" coords="913,934,1061,975"/>
+<area shape="rect" id="node21" href="$eval__builder_8c.html#a1fcf737dfac30b60d8a859f434e8bfdd" title=" " alt="" coords="919,1000,1055,1027"/>
+<area shape="rect" id="node22" href="$eval__builder_8c.html#a4fd5f207beead7bfe380bbd9e5a13a3c" title=" " alt="" coords="912,1051,1063,1093"/>
+<area shape="rect" id="node16" href="$eval__builder_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="771,883,822,909"/>
+<area shape="rect" id="node24" href="$base_8h.html#ac75f6caa4fae084cd486be959f569310" title="Base analysis." alt="" coords="747,157,847,184"/>
+<area shape="rect" id="node25" href="$game_8h.html#a2be64aa20e0074f0c392e90df1894be3" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="927,259,1048,285"/>
+<area shape="rect" id="node28" href="$game_8h.html#ad5b40a98857680b3b767f3ea8508e5bb" title="Write a game to a pgn file." alt="" coords="925,309,1049,336"/>
+<area shape="rect" id="node29" href="$game_8h.html#a52a65e8068e097bb8ea5a7d70c744f54" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="930,360,1045,387"/>
+<area shape="rect" id="node31" href="$game_8h.html#afa5bb40fe13817a04b439e2eeba0009e" title="convert a Game to a Whor game." alt="" coords="932,411,1043,437"/>
+<area shape="rect" id="node26" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="585,259,671,285"/>
+<area shape="rect" id="node27" href="$play_8h.html#aafceeb6413b921ef6a0e44f5fd585de7" title="Save a played game." alt="" coords="757,309,837,336"/>
+<area shape="rect" id="node30" href="$game_8h.html#a595f89cddd3a2a79aa60a575cf8e49f0" title=" " alt="" coords="736,360,857,387"/>
+<area shape="rect" id="node32" href="$base_8c.html#a927d0aa4ac1294345af68a8bfd224012" title="Convert to a wthor base." alt="" coords="743,411,850,437"/>
+<area shape="rect" id="node33" href="$game_8h.html#a23f87aac9f1513e6c3713641a9553e57" title="Write a game to a Wthor file." alt="" coords="729,461,864,488"/>
+<area shape="rect" id="node35" href="$search_8h.html#a28c804ee4efbddf56a6207d369bb986c" title="Record best move." alt="" coords="923,1117,1052,1144"/>
+<area shape="rect" id="node36" href="$search_8h.html#a8b35bf59fb6131a7d172632ebd50fc94" title="Aspiration window." alt="" coords="403,1117,527,1144"/>
+<area shape="rect" id="node39" href="$search_8h.html#ad066393bfde0bb6e1cfd34eb79b1dff8" title="Iterative deepening." alt="" coords="220,1155,355,1181"/>
+<area shape="rect" id="node40" href="$ybwc_8h.html#a039d815475c3a24fb19277ffe5ac4811" title="Update a node." alt="" coords="749,1117,845,1144"/>
+<area shape="rect" id="node41" href="$search_8h.html#a4efd4c8ca441672d0493722b7d01f046" title="Principal Variation Search algorithm at the root of the tree." alt="" coords="589,1117,667,1144"/>
+<area shape="rect" id="node42" href="$cassio_8c.html#a9d4678777a6a7d2828934b2c8f0dc182" title="Check if a search has already been done here." alt="" coords="241,1256,333,1283"/>
+<area shape="rect" id="node43" href="$ybwc_8h.html#aaa4fc1461e78cd5569318f9e19399e50" title="A parallel search within a Task structure." alt="" coords="750,1332,843,1359"/>
+<area shape="rect" id="node37" href="$cassio_8h.html#aeaf9e2a47f743c88f7a39ce52cf1cd6d" title="Endgame search." alt="" coords="5,1155,172,1181"/>
+<area shape="rect" id="node38" href="$cassio_8h.html#a018fe57eba634b34c2a2b3b18b30914f" title="Midgame search." alt="" coords="5,1205,172,1232"/>
+<area shape="rect" id="node46" href="$book_8h.html#a5974b203826a2e7802c0975576475b81" title="Deviate a book." alt="" coords="579,360,677,387"/>
+<area shape="rect" id="node48" href="$book_8h.html#ad47bdbb636c01271bc48a09a255a4cd8" title="Enhance a book." alt="" coords="575,411,681,437"/>
+</map>

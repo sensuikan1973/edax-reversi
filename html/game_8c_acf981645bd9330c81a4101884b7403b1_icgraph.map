@@ -1,0 +1,4 @@
+<map id="oko_to_game" name="oko_to_game">
+<area shape="rect" id="node1" title="convert an allinf.oko game to a Game." alt="" coords="179,5,279,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#a1cd2f02d7123d351ea968df4773731f0" title="Read a game from the &quot;allinf.oko&quot; file." alt="" coords="5,5,131,32"/>
+</map>

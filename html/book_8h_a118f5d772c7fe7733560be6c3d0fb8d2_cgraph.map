@@ -1,0 +1,7 @@
+<map id="book_init" name="book_init">
+<area shape="rect" id="node1" title="Initialize the opening book." alt="" coords="5,81,80,108"/>
+<area shape="rect" id="node2" href="$book_8c.html#afe22572623333b9e82494984e238f444" title="Set book date." alt="" coords="138,5,245,32"/>
+<area shape="rect" id="node3" href="$book_8c.html#aa5a350959843604c7f41f513caf4d205" title="Initialize the array." alt="" coords="128,56,255,83"/>
+<area shape="rect" id="node4" href="$util_8c.html#ac844263eac6d959af4f2c9ca1a916e58" title="Pseudo&#45;random number seed." alt="" coords="141,107,241,133"/>
+<area shape="rect" id="node5" href="$util_8h.html#a358b4c5eab4941b90bb9ef1676e5f7e5" title=" " alt="" coords="151,157,232,184"/>
+</map>

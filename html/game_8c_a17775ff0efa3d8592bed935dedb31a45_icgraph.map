@@ -1,0 +1,9 @@
+<map id="game_analyze" name="game_analyze">
+<area shape="rect" id="node1" title="Analyze an endgame." alt="" coords="649,47,753,73"/>
+<area shape="rect" id="node2" href="$base_8h.html#ac75f6caa4fae084cd486be959f569310" title="Base analysis." alt="" coords="375,21,475,48"/>
+<area shape="rect" id="node6" href="$base_8c.html#ae5fd96b2c5fc0853715832158d172eb0" title="Verify that a PV does not contain errors." alt="" coords="523,72,601,99"/>
+<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,21,327,48"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,21,56,48"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,21,181,48"/>
+<area shape="rect" id="node7" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="383,72,466,99"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="get_weighted_mobility" name="get_weighted_mobility">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,156,108"/>
+<area shape="rect" id="node2" href="$bit_8c.html#aefcb882fe9c50f3876d40068eb20bf75" title="count the number of discs, counting the corners twice." alt="" coords="204,19,339,45"/>
+<area shape="rect" id="node5" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="228,81,315,108"/>
+<area shape="rect" id="node7" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="568,107,607,133"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="412,5,487,32"/>
+<area shape="rect" id="node4" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="560,5,615,32"/>
+<area shape="rect" id="node6" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="387,56,512,83"/>
+</map>

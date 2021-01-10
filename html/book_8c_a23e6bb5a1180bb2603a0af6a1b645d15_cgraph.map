@@ -1,0 +1,5 @@
+<map id="position_export" name="position_export">
+<area shape="rect" id="node1" title="write a position." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a5f43645a89dd567f64bc91de6fed5b5a" title="convert the to a compact string." alt="" coords="163,5,273,32"/>
+<area shape="rect" id="node3" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="163,56,273,83"/>
+</map>
