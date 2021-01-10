@@ -1,0 +1,38 @@
+<map id="play_save" name="play_save">
+<area shape="rect" id="node1" title="Save a played game." alt="" coords="5,624,85,651"/>
+<area shape="rect" id="node2" href="$game_8c.html#ac5a505d94e95db33f679c406ef9d1c31" title="Write a game to an eps file." alt="" coords="320,92,444,119"/>
+<area shape="rect" id="node21" href="$game_8c.html#a08ef7a32b9063eefedfa040ab7e95ea2" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="142,421,263,448"/>
+<area shape="rect" id="node25" href="$game_8c.html#acf88b6a57b6b9305fce116cb0df32138" title="Write a game to a pgn file." alt="" coords="141,624,265,651"/>
+<area shape="rect" id="node29" href="$game_8c.html#a6954b51a75bf7fd52a2cfbdd9ff9f96e" title=" " alt="" coords="320,41,444,68"/>
+<area shape="rect" id="node30" href="$game_8c.html#a62b6bc0719281a1beb368799478f8332" title="Write a game to a text file." alt="" coords="141,751,265,777"/>
+<area shape="rect" id="node33" href="$game_8c.html#a815d1396a9520784a331cebb5587e0b0" title="Create an empty game." alt="" coords="163,675,242,701"/>
+<area shape="rect" id="node34" href="$game_8c.html#a41649055df8b13ab4e9fc89d16c436c3" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="145,371,260,397"/>
+<area shape="rect" id="node35" href="$game_8c.html#acac8b0d348897c4e3891e944e1f0a6d3" title="Write a game to a binary file." alt="" coords="158,801,247,828"/>
+<area shape="rect" id="node36" href="$util_8c.html#a63f0d8023994d5b47de94f80738870e8" title="Change all char of a string to lowercase." alt="" coords="133,852,272,879"/>
+<area shape="rect" id="node3" href="$board_8c.html#a6c2fad499875a4e9d775d9f23ede8aac" title="Get square color." alt="" coords="492,41,652,68"/>
+<area shape="rect" id="node4" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="724,269,807,296"/>
+<area shape="rect" id="node7" href="$game_8c.html#a2b48a650adb24509ed0d0e2267ecfd21" title="update a board." alt="" coords="503,396,641,423"/>
+<area shape="rect" id="node20" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="517,573,627,600"/>
+<area shape="rect" id="node5" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="1491,320,1616,347"/>
+<area shape="rect" id="node6" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="1664,345,1703,372"/>
+<area shape="rect" id="node8" href="$board_8c.html#a3b5748c109770fe228ea15b562c0f113" title="Compute a move." alt="" coords="706,421,825,448"/>
+<area shape="rect" id="node9" href="$board_8c.html#acad11415527107f161c9f2a3b909dc2b" title="Check if a square is occupied." alt="" coords="700,371,831,397"/>
+<area shape="rect" id="node10" href="$board_8c.html#ac353cc1821e12d2aeba8eefe5cf92b46" title="Passing move." alt="" coords="721,472,810,499"/>
+<area shape="rect" id="node19" href="$board_8c.html#a2d24dea46d67d71b1d9fe9f515d8d675" title="Update a board." alt="" coords="715,320,815,347"/>
+<area shape="rect" id="node11" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="901,421,997,448"/>
+<area shape="rect" id="node18" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="879,472,1019,499"/>
+<area shape="rect" id="node12" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="1067,472,1169,499"/>
+<area shape="rect" id="node13" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="1075,421,1161,448"/>
+<area shape="rect" id="node14" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="1362,472,1437,499"/>
+<area shape="rect" id="node16" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="1217,421,1308,448"/>
+<area shape="rect" id="node17" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="1356,371,1443,397"/>
+<area shape="rect" id="node15" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="1526,472,1581,499"/>
+<area shape="rect" id="node22" href="$game_8c.html#af03df99b0209fcc5eb87c9571876206f" title="Compute the final score of the game, for the initial player." alt="" coords="335,396,429,423"/>
+<area shape="rect" id="node23" href="$board_8c.html#a121c1b2912c0f5d559fe85c8ab70f061" title="Check if the game is over." alt="" coords="501,345,643,372"/>
+<area shape="rect" id="node24" href="$game_8c.html#a20e8d7c89c4744e264deab4405312abd" title="update a player." alt="" coords="501,447,643,473"/>
+<area shape="rect" id="node26" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="336,751,428,777"/>
+<area shape="rect" id="node27" href="$board_8c.html#a6c63848863d9887a6b400f4bc678f31d" title="Set a board to the starting position." alt="" coords="343,801,421,828"/>
+<area shape="rect" id="node28" href="$board_8c.html#a976e17bf43bc565711a288e180688033" title="print to FEN description." alt="" coords="329,599,435,625"/>
+<area shape="rect" id="node31" href="$board_8c.html#a5f43645a89dd567f64bc91de6fed5b5a" title="convert the to a compact string." alt="" coords="327,903,437,929"/>
+<area shape="rect" id="node32" href="$game_8c.html#a834efdb458beb4c99f40438d92a0b182" title="Convert game to a text (ascii)." alt="" coords="332,852,432,879"/>
+</map>

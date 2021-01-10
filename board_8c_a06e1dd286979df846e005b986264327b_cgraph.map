@@ -1,0 +1,4 @@
+<map id="board_print_FEN" name="board_print_FEN">
+<area shape="rect" id="node1" title="print using FEN description." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$board_8c.html#a976e17bf43bc565711a288e180688033" title="print to FEN description." alt="" coords="172,5,277,32"/>
+</map>

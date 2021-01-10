@@ -1,0 +1,8 @@
+<map id="options_parse" name="options_parse">
+<area shape="rect" id="node1" title="parse options from a file" alt="" coords="519,47,621,74"/>
+<area shape="rect" id="node2" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,22,56,48"/>
+<area shape="rect" id="node3" href="$options_8h.html#ac27d0f304908320371c1a23e8fe7c5b3" title="Read an option." alt="" coords="375,47,471,74"/>
+<area shape="rect" id="node4" href="$options_8c.html#a4ed43b013f2dae7fdf45172f563ca067" title="parse an option from a string" alt="" coords="230,98,326,124"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,47,327,74"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,98,181,124"/>
+</map>

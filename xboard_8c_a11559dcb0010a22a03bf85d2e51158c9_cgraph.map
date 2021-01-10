@@ -1,0 +1,5 @@
+<map id="xboard_observer" name="xboard_observer">
+<area shape="rect" id="node1" title="Search oberver." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$move_8c.html#a0ae53ce219676b29cf33f8e7586f75a9" title="Print a move sequence." alt="" coords="171,5,245,32"/>
+<area shape="rect" id="node3" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="293,5,380,32"/>
+</map>

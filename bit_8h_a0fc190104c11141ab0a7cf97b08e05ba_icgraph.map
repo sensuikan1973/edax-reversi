@@ -1,0 +1,52 @@
+<map id="horizontal_mirror" name="horizontal_mirror">
+<area shape="rect" id="node1" title="Mirror the unsigned long long (exchange the line 1 &#45; 8, 2 &#45; 7, 3 &#45; 6 &amp; 4 &#45; 5)." alt="" coords="1383,499,1500,525"/>
+<area shape="rect" id="node2" href="$board_8h.html#a1bc20f2b8aa35a44bd8bad36c4b49392" title="symetric board" alt="" coords="1228,524,1335,551"/>
+<area shape="rect" id="node49" href="$perft_8c.html#a3d95b352f91770d4eeb0330f57716103" title="unique shape." alt="" coords="1230,195,1333,221"/>
+<area shape="rect" id="node3" href="$board_8h.html#a0a3183aaecb154b0230e111f5ac3e19f" title="unique board" alt="" coords="1061,524,1160,551"/>
+<area shape="rect" id="node35" href="$play_8h.html#aec2239ebce72ba0283896136e643897a" title="Play a forced move." alt="" coords="851,1523,954,1549"/>
+<area shape="rect" id="node43" href="$play_8h.html#a24b8d4cea053c07d0100699b32a75bcb" title="Get the symetry of the actual position." alt="" coords="189,85,287,112"/>
+<area shape="rect" id="node44" href="$book_8c.html#a66fb9c00f652c4cb754bee6878794976" title="Get moves from a position." alt="" coords="1041,1320,1180,1347"/>
+<area shape="rect" id="node4" href="$perft_8c.html#ab89d904b22937c99cb208063ab0e80b1" title=" " alt="" coords="833,549,972,576"/>
+<area shape="rect" id="node9" href="$perft_8c.html#a5b192fc464ce0ce293410aae2c75a9c7" title="Append a shape to the hash table." alt="" coords="833,600,972,627"/>
+<area shape="rect" id="node10" href="$book_8c.html#a0618aa17a7aef4ce9704705ab3f4a8fa" title="Find a position in the book." alt="" coords="858,904,947,931"/>
+<area shape="rect" id="node22" href="$play_8c.html#a0a53dfd153477f6332c030733e3a2d56" title="Seek for the best alternative move from the opening book." alt="" coords="389,1181,536,1208"/>
+<area shape="rect" id="node29" href="$perft_8c.html#adb6b55f288772c9a74db02105ee8c6c3" title="Seek for a position in the hash table." alt="" coords="849,955,956,981"/>
+<area shape="rect" id="node30" href="$perft_8c.html#a17abbd1909dc68176002cc819df8dc1d" title="Store a game position." alt="" coords="843,144,962,171"/>
+<area shape="rect" id="node31" href="$move_8c.html#a5c446e3414594b950b7d1a6e219aa960" title="Append a position to the hash table." alt="" coords="837,195,968,221"/>
+<area shape="rect" id="node32" href="$opening_8c.html#a29fe489da5c01afa117dbc8b836f3e19" title="Check if a board has got an engilsh opening name." alt="" coords="373,144,552,171"/>
+<area shape="rect" id="node33" href="$opening_8c.html#a72ee5109eda4126f1540dab97af838c0" title="Check if a board has got a french opening name." alt="" coords="151,365,325,392"/>
+<area shape="rect" id="node34" href="$play_8c.html#ab220e1e3acf69015cd2e2b32abbdbaae" title="Seek for the best alternative move." alt="" coords="847,245,959,272"/>
+<area shape="rect" id="node36" href="$play_8h.html#add75b2ebe8b104974fb5ed04f98486ed" title="Initialize a forced line." alt="" coords="185,484,291,511"/>
+<area shape="rect" id="node37" href="$play_8h.html#aec23895487c5482042e453fab44a947f" title="Restore a forced line." alt="" coords="839,347,967,373"/>
+<area shape="rect" id="node38" href="$play_8h.html#a6cef97b0254c3bdb993384a556e7d9d1" title="Update a forced line." alt="" coords="839,448,966,475"/>
+<area shape="rect" id="node39" href="$book_8c.html#a2ed2c1217479c4fbf492246c22b28199" title="Fix a position." alt="" coords="859,499,946,525"/>
+<area shape="rect" id="node40" href="$book_8c.html#a72ebb0fd09a7722748b1a0c46f42312e" title="Check if position is ok or need fixing." alt="" coords="629,1435,735,1461"/>
+<area shape="rect" id="node41" href="$book_8c.html#aa759e4da25983478739275f1a0506a64" title="Make position unique, regarding symetries." alt="" coords="847,752,959,779"/>
+<area shape="rect" id="node42" href="$perft_8c.html#aca3a6e88970a37dc6480e7159e325cd0" title="Append a position to the hash table." alt="" coords="831,651,975,677"/>
+<area shape="rect" id="node5" href="$perft_8c.html#a2d4fe896c978bd809fa8952616362382" title="Recursively count positions." alt="" coords="629,499,735,525"/>
+<area shape="rect" id="node6" href="$perft_8c.html#aa337f17617f5e241b81068c5b1d53ceb" title="Recursively count positions." alt="" coords="615,549,749,576"/>
+<area shape="rect" id="node7" href="$perft_8c.html#ac407862f89888ec121363c7dd9a391ee" title="Recursively count shapes." alt="" coords="634,448,730,475"/>
+<area shape="rect" id="node8" href="$perft_8c.html#a5dce5b6d1c1a8586cce0ce9e16e6b833" title="Recursively count shapes." alt="" coords="621,397,743,424"/>
+<area shape="rect" id="node11" href="$book_8c.html#a9c0c6a1b902182109525eb3e10db7cad" title="Feed hash from a position." alt="" coords="621,1181,743,1208"/>
+<area shape="rect" id="node12" href="$book_8c.html#abdce4d74200559a64a4a498f952cfe96" title="Fill the opening book." alt="" coords="426,816,499,843"/>
+<area shape="rect" id="node13" href="$book_8h.html#a6a4e135fcf7e0cab7c956d889827424e" title="Add a position." alt="" coords="623,803,741,829"/>
+<area shape="rect" id="node14" href="$book_8h.html#a5974b203826a2e7802c0975576475b81" title="Deviate a book." alt="" coords="413,651,512,677"/>
+<area shape="rect" id="node16" href="$book_8h.html#ad47bdbb636c01271bc48a09a255a4cd8" title="Enhance a book." alt="" coords="409,740,516,767"/>
+<area shape="rect" id="node17" href="$book_8h.html#a727f8f2c5bf903108053e4b0b0e74517" title="Get game statistics from a position." alt="" coords="607,1029,757,1056"/>
+<area shape="rect" id="node18" href="$book_8h.html#a6a968adf898555a031a56b2a2bcbab98" title="Display a position from the book." alt="" coords="419,1080,507,1107"/>
+<area shape="rect" id="node20" href="$book_8h.html#a8f3e1532b52a619e016bb134391cc69a" title="Get a variation from the book." alt="" coords="631,1384,733,1411"/>
+<area shape="rect" id="node21" href="$book_8h.html#adb53da91dcaa3de36627fea2b212f5b1" title="Get a list of moves from the book." alt="" coords="621,1131,743,1157"/>
+<area shape="rect" id="node23" href="$book_8h.html#aede5396d07c3b73cf1e5b94453e37993" title="Get a move at random from the opening book." alt="" coords="600,1333,764,1360"/>
+<area shape="rect" id="node24" href="$book_8h.html#aa49aec3f409a88eb06c0ffbd0c187a3a" title="Merge two opening books." alt="" coords="191,847,285,873"/>
+<area shape="rect" id="node25" href="$book_8c.html#a15fb375522cfce3cca97b01d84fab40d" title="Find the initial position in the book." alt="" coords="643,955,721,981"/>
+<area shape="rect" id="node26" href="$book_8h.html#ad245e5090ec0d5856e5014e79143767c" title="Prune a book." alt="" coords="632,1283,732,1309"/>
+<area shape="rect" id="node27" href="$book_8c.html#ae9ee489a468274fd83808c53da0418c9" title="Deviate a position." alt="" coords="624,600,740,627"/>
+<area shape="rect" id="node28" href="$book_8c.html#ae7bdabeabfe76594a8c99bcdb98dedff" title="Enhance a position." alt="" coords="621,752,743,779"/>
+<area shape="rect" id="node15" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="5,740,103,767"/>
+<area shape="rect" id="node19" href="$play_8h.html#a3a130d5b6e9e6e157741f85ff1fd2516" title="Start thinking." alt="" coords="205,1333,271,1360"/>
+<area shape="rect" id="node45" href="$book_8h.html#a6fa1f12d0955c6384dbb85f9f6b6c5ad" title="print a set of position." alt="" coords="161,1485,315,1512"/>
+<area shape="rect" id="node46" href="$book_8c.html#a51c109a522403edef219cc3a08b26b3e" title="Chose a move at random from the position." alt="" coords="812,1371,993,1397"/>
+<area shape="rect" id="node47" href="$book_8c.html#a804457298fe82d9bbfb92588288aa406" title="print a position in a compact but readable format." alt="" coords="853,1320,952,1347"/>
+<area shape="rect" id="node48" href="$book_8c.html#a8de8f64b2388b45281acc8b4d5cd03ce" title="print a position in a readable format." alt="" coords="629,1485,735,1512"/>
+<area shape="rect" id="node50" href="$perft_8c.html#aa9ccb76452b0e66397a5945782126ba8" title="Append a shape to the hash table." alt="" coords="835,93,970,120"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hash_force" name="hash_force">
+<area shape="rect" id="node1" title="Store an hashtable item." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$hash_8c.html#af3e790e4518a5f06c52eb137a22f5bf9" title="Initialize a new hash table item." alt="" coords="153,5,235,32"/>
+<area shape="rect" id="node4" href="$hash_8c.html#a3624b7e5aa3733acc01c41c5ba9bad50" title="replace the hash entry." alt="" coords="145,56,243,83"/>
+<area shape="rect" id="node5" href="$hash_8c.html#aa41c220979591f6be05f9c30fae53261" title="make a level from date, cost, depth &amp; selectivity." alt="" coords="140,107,248,133"/>
+<area shape="rect" id="node3" href="$hash_8c.html#a2b54fb82510eda54054d5b44a706f566" title="Set an hash table data item." alt="" coords="296,31,375,57"/>
+</map>

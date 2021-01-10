@@ -1,0 +1,19 @@
+<map id="seek_highest_mobility" name="seek_highest_mobility">
+<area shape="rect" id="node1" title="Move estimate games." alt="" coords="5,208,156,235"/>
+<area shape="rect" id="node2" href="$board_8c.html#a35de0f1560f069cd442105c319df2c15" title="Check if the game is over." alt="" coords="352,5,499,32"/>
+<area shape="rect" id="node5" href="$util_8h.html#a476050b74be66b76cf5d30c89a837798" title=" " alt="" coords="213,233,295,260"/>
+<area shape="rect" id="node6" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="547,132,637,159"/>
+<area shape="rect" id="node10" href="$util_8c.html#ac844263eac6d959af4f2c9ca1a916e58" title="Pseudo&#45;random number seed." alt="" coords="204,284,304,311"/>
+<area shape="rect" id="node11" href="$util_8h.html#a358b4c5eab4941b90bb9ef1676e5f7e5" title=" " alt="" coords="213,335,295,361"/>
+<area shape="rect" id="node12" href="$perft_8c.html#ae7b1869bd17da35bc80e06b77687f8af" title="Estimate move counts from a single game." alt="" coords="207,183,301,209"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="691,56,766,83"/>
+<area shape="rect" id="node4" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="855,56,910,83"/>
+<area shape="rect" id="node7" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="685,183,772,209"/>
+<area shape="rect" id="node9" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="993,208,1032,235"/>
+<area shape="rect" id="node8" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="820,233,945,260"/>
+<area shape="rect" id="node13" href="$board_8c.html#aa02d38e320edf6b9d695e2b1eed6c85f" title="Compute a board resulting of a move played on a previous board." alt="" coords="383,335,468,361"/>
+<area shape="rect" id="node14" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="382,157,469,184"/>
+<area shape="rect" id="node15" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="687,284,770,311"/>
+<area shape="rect" id="node16" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="382,385,469,412"/>
+<area shape="rect" id="node17" href="$util_8c.html#a9787f9579ffe8e42bf7e4e8e179723ab" title="Pseudo&#45;random number generator." alt="" coords="380,436,471,463"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="book_init" name="book_init">
+<area shape="rect" id="node1" title="Initialize the opening book." alt="" coords="651,31,725,57"/>
+<area shape="rect" id="node2" href="$book_8h.html#a582fa5995e27b3267f8d8add56e36a19" title="Import an opening book." alt="" coords="380,5,473,32"/>
+<area shape="rect" id="node6" href="$book_8h.html#a4b05926ea6422b342691dbcc8fa1f22d" title="Create a new opening book." alt="" coords="521,56,603,83"/>
+<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="232,5,329,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,107,56,133"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,107,181,133"/>
+<area shape="rect" id="node7" href="$book_8h.html#a0197414d278eed9019ea533ea436cb9e" title="Load the opening book." alt="" coords="386,107,467,133"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ae9c1af9b7277c030f6e50fd264eb4a37" title="initialize edax protocol." alt="" coords="235,259,326,285"/>
+<area shape="rect" id="node9" href="$ui_8h.html#ac347f0443e7a359b831980f71c08ada1" title="ui_init_ggs" alt="" coords="239,56,323,83"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a076dba1e794eac72700dfe018bd16bca" title="initialize edax protocol" alt="" coords="240,107,321,133"/>
+<area shape="rect" id="node11" href="$ui_8h.html#aecb2e2489b7543b81ab71d2bcac18c14" title="initialize edax protocol" alt="" coords="229,157,332,184"/>
+<area shape="rect" id="node12" href="$xboard_8c.html#a8981c5b2a461a5306bee6148f13c5a27" title="initialize xboard protocol." alt="" coords="230,208,331,235"/>
+</map>

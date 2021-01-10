@@ -1,0 +1,6 @@
+<map id="book_stats" name="book_stats">
+<area shape="rect" id="node1" title="print book statistics." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node2" href="$board_8c.html#a35de0f1560f069cd442105c319df2c15" title="Check if the game is over." alt="" coords="140,5,287,32"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="335,5,409,32"/>
+<area shape="rect" id="node4" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="457,5,512,32"/>
+</map>

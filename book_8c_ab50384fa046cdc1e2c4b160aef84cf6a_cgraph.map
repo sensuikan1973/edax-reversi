@@ -1,0 +1,41 @@
+<map id="book_prune" name="book_prune">
+<area shape="rect" id="node1" title="Prune a book." alt="" coords="5,183,95,209"/>
+<area shape="rect" id="node2" href="$book_8c.html#a300b451491cd9140c2f9e69c33345100" title="Set all positions as undone." alt="" coords="174,5,262,32"/>
+<area shape="rect" id="node3" href="$book_8c.html#a76f46212f1b7245db77bef0218a684d6" title="Remove a position from the book." alt="" coords="365,56,465,83"/>
+<area shape="rect" id="node8" href="$book_8c.html#a15fb375522cfce3cca97b01d84fab40d" title="Find the initial position in the book." alt="" coords="179,107,257,133"/>
+<area shape="rect" id="node27" href="$book_8c.html#a08ce2cc5efe2f2afd5556168775528b3" title="print a message on stdout." alt="" coords="387,309,442,336"/>
+<area shape="rect" id="node28" href="$book_8c.html#a0f9f396689401dd6b9b1e3cc8cc26ab1" title="Negamax a position." alt="" coords="155,208,281,235"/>
+<area shape="rect" id="node31" href="$book_8c.html#a804457298fe82d9bbfb92588288aa406" title="print a position in a compact but readable format." alt="" coords="169,385,267,412"/>
+<area shape="rect" id="node38" href="$book_8c.html#a7e9f0294a921db58731bfe94cd5e4579" title="Prune a position." alt="" coords="165,259,271,285"/>
+<area shape="rect" id="node39" href="$book_8c.html#a0c59fcff017f462d3cabbd2289876a02" title="Remove bad links after book pruning." alt="" coords="143,157,293,184"/>
+<area shape="rect" id="node4" href="$board_8c.html#a0e6cff6e714bcb714e2b9b2d7b9fbec6" title="Compute a hash code." alt="" coords="537,56,687,83"/>
+<area shape="rect" id="node5" href="$book_8c.html#aac0b9534e708b9b5c2d89b3a44ea5474" title="Remove a position from an array." alt="" coords="536,5,688,32"/>
+<area shape="rect" id="node6" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="745,107,837,133"/>
+<area shape="rect" id="node7" href="$book_8c.html#afe76ed1891952cff94868af23806d294" title="Free resources used by a position." alt="" coords="743,5,839,32"/>
+<area shape="rect" id="node9" href="$board_8c.html#a6c63848863d9887a6b400f4bc678f31d" title="Set a board to the starting position." alt="" coords="375,107,454,133"/>
+<area shape="rect" id="node10" href="$book_8c.html#a0618aa17a7aef4ce9704705ab3f4a8fa" title="Find a position in the book." alt="" coords="370,157,459,184"/>
+<area shape="rect" id="node11" href="$board_8c.html#a66911c3a003f5fb27a87503b5bb04f6d" title="unique board" alt="" coords="563,208,661,235"/>
+<area shape="rect" id="node26" href="$book_8c.html#a4b85ae156ceeffb8dfc802ccd4e96804" title="Find a position in the array." alt="" coords="541,107,683,133"/>
+<area shape="rect" id="node12" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="905,157,1001,184"/>
+<area shape="rect" id="node21" href="$board_8c.html#a491a2e6d66c4c479a913292594db7b01" title="Compare two board." alt="" coords="736,208,847,235"/>
+<area shape="rect" id="node22" href="$board_8c.html#aefe9a86ea799322c9c9da6255ebb9d29" title="symetric board" alt="" coords="738,335,845,361"/>
+<area shape="rect" id="node13" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="1060,107,1163,133"/>
+<area shape="rect" id="node14" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="1068,157,1155,184"/>
+<area shape="rect" id="node15" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="1355,208,1430,235"/>
+<area shape="rect" id="node17" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="1211,157,1301,184"/>
+<area shape="rect" id="node18" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="1349,107,1436,133"/>
+<area shape="rect" id="node16" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="1519,208,1574,235"/>
+<area shape="rect" id="node20" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="1657,107,1696,133"/>
+<area shape="rect" id="node19" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="1484,107,1609,133"/>
+<area shape="rect" id="node23" href="$bit_8c.html#a7826d84dcc6e19830bf93448eee22f4c" title="Mirror the unsigned long long (exchange the line 1 &#45; 8, 2 &#45; 7, 3 &#45; 6 &amp; 4 &#45; 5)." alt="" coords="895,360,1012,387"/>
+<area shape="rect" id="node24" href="$bit_8c.html#a62b47100450786b2738045b2f8aeebb3" title="Transpose the unsigned long long (symetry % A1&#45;H8 diagonal)." alt="" coords="914,411,993,437"/>
+<area shape="rect" id="node25" href="$bit_8c.html#a896c459f1b772f5f4da4e72a0953330b" title="Mirror the unsigned long long (exchange the lines A &#45; H, B &#45; G, C &#45; F &amp; D &#45; E.)." alt="" coords="901,309,1005,336"/>
+<area shape="rect" id="node29" href="$board_8c.html#a35de0f1560f069cd442105c319df2c15" title="Check if the game is over." alt="" coords="341,259,488,285"/>
+<area shape="rect" id="node30" href="$board_8c.html#aa02d38e320edf6b9d695e2b1eed6c85f" title="Compute a board resulting of a move played on a previous board." alt="" coords="372,208,457,235"/>
+<area shape="rect" id="node32" href="$board_8c.html#a5f43645a89dd567f64bc91de6fed5b5a" title="convert the to a compact string." alt="" coords="359,411,470,437"/>
+<area shape="rect" id="node33" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="359,512,470,539"/>
+<area shape="rect" id="node34" href="$book_8c.html#a66fb9c00f652c4cb754bee6878794976" title="Get moves from a position." alt="" coords="345,360,484,387"/>
+<area shape="rect" id="node37" href="$move_8c.html#ad86f112611fc92f36388568fa14bde8f" title="Get a symetric square coordinate." alt="" coords="579,461,645,488"/>
+<area shape="rect" id="node35" href="$board_8c.html#a3b5748c109770fe228ea15b562c0f113" title="Compute a move." alt="" coords="553,411,671,437"/>
+<area shape="rect" id="node36" href="$move_8c.html#a38bfc9e186591a76e2b3c673075effd3" title="Sort all moves." alt="" coords="562,309,662,336"/>
+</map>

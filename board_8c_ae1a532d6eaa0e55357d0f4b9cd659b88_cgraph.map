@@ -1,0 +1,5 @@
+<map id="can_move" name="can_move">
+<area shape="rect" id="node1" title="Check if a player can move." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="136,5,261,32"/>
+<area shape="rect" id="node3" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="309,31,348,57"/>
+</map>

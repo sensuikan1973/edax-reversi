@@ -1,0 +1,6 @@
+<map id="search_guess" name="search_guess">
+<area shape="rect" id="node1" title="Guess the bestmove of a given board." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a0e6cff6e714bcb714e2b9b2d7b9fbec6" title="Compute a hash code." alt="" coords="156,5,305,32"/>
+<area shape="rect" id="node3" href="$hash-lock-free_8c.html#a6f54ce833279fec9ac110dcce45565ad" title="Find an hash table entry according to the evaluated board hash codes." alt="" coords="193,56,268,83"/>
+<area shape="rect" id="node4" href="$hash-lock-free_8c.html#aeafd0b4e6665b357afcff5dd30723c15" title="Transform hash data into a 64 bits key." alt="" coords="353,56,431,83"/>
+</map>

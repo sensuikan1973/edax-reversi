@@ -1,0 +1,4 @@
+<map id="engine_send" name="engine_send">
+<area shape="rect" id="node1" title="Send a message on stdout." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$util_8c.html#a24bf37cbb71f6a0ce700fc72741d6016" title="Print local time." alt="" coords="148,5,239,32"/>
+</map>

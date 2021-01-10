@@ -1,0 +1,8 @@
+<map id="data_new" name="data_new">
+<area shape="rect" id="node1" title="Set an hash table data item." alt="" coords="287,56,365,83"/>
+<area shape="rect" id="node2" href="$hash_8c.html#af3e790e4518a5f06c52eb137a22f5bf9" title="Initialize a new hash table item." alt="" coords="149,56,230,83"/>
+<area shape="rect" id="node5" href="$hash_8c.html#a3624b7e5aa3733acc01c41c5ba9bad50" title="replace the hash entry." alt="" coords="140,5,239,32"/>
+<area shape="rect" id="node6" href="$hash_8c.html#a29ceff7440ead82bbae189ff032adb8c" title="update the hash entry" alt="" coords="141,107,237,133"/>
+<area shape="rect" id="node3" href="$hash_8h.html#a6ab5df471dae00b946bbc1daa51a8562" title="Store an hashtable item." alt="" coords="5,31,92,57"/>
+<area shape="rect" id="node4" href="$hash_8h.html#a5721fb942b2ebcf9ec9731b6d4b611b7" title="Store an hashtable item." alt="" coords="5,93,92,120"/>
+</map>

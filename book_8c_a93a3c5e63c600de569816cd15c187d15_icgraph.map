@@ -1,0 +1,26 @@
+<map id="position_write" name="position_write">
+<area shape="rect" id="node1" title="Write a position." alt="" coords="940,363,1043,390"/>
+<area shape="rect" id="node2" href="$book_8h.html#a2d0f7eee7901c1161ef4a21746c9598d" title="Save an opening book." alt="" coords="807,363,892,390"/>
+<area shape="rect" id="node3" href="$book_8h.html#a9e06c2785f11e6efa58cc0af754f856b" title="Add positions from a game database." alt="" coords="465,59,579,86"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="299,326,397,353"/>
+<area shape="rect" id="node7" href="$book_8h.html#a8dbe38af46f4a34ace1824becb099597" title="Add positions from a game." alt="" coords="641,59,759,86"/>
+<area shape="rect" id="node8" href="$book_8h.html#a7acb38fa1835d85ce760e7b628e474e9" title="Correct wrong solved score in the book." alt="" coords="451,123,593,150"/>
+<area shape="rect" id="node9" href="$book_8h.html#a5f4c510ca4b8e9ad2a3ddb507496ca29" title="Deepen a book." alt="" coords="651,161,749,187"/>
+<area shape="rect" id="node10" href="$book_8h.html#a5974b203826a2e7802c0975576475b81" title="Deviate a book." alt="" coords="473,262,571,289"/>
+<area shape="rect" id="node11" href="$book_8h.html#ad47bdbb636c01271bc48a09a255a4cd8" title="Enhance a book." alt="" coords="469,313,575,339"/>
+<area shape="rect" id="node12" href="$book_8c.html#a1cfcc1d0080958387f00fbc3fe9daf65" title="Expand a book." alt="" coords="651,262,749,289"/>
+<area shape="rect" id="node13" href="$book_8h.html#a87d157671cb1b0e80eb674a129877e96" title="Play." alt="" coords="482,363,562,390"/>
+<area shape="rect" id="node14" href="$book_8h.html#ac816637fe5ee5e425a715aa956814c95" title="Fill a book." alt="" coords="665,414,735,441"/>
+<area shape="rect" id="node15" href="$play_8h.html#a92db9689e8b1479801da85c81de03729" title="store the game into the opening book" alt="" coords="481,465,563,491"/>
+<area shape="rect" id="node16" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="303,515,393,542"/>
+<area shape="rect" id="node20" href="$ui_8h.html#a8583c87bc194d63fcd8b757f8303dd28" title="free resources used by edax protocol." alt="" coords="301,566,395,593"/>
+<area shape="rect" id="node21" href="$ui_8h.html#a204889eb5bd05ad4a50bcb819ef86371" title="ui_free_ggs" alt="" coords="655,617,745,643"/>
+<area shape="rect" id="node22" href="$ui_8h.html#a89e845815ff425c0e09f50f89597d5bb" title="free resources used by edax protocol" alt="" coords="657,667,743,694"/>
+<area shape="rect" id="node23" href="$ui_8h.html#aeafc8edfd01468341d610d9002a226f4" title="free resources used by edax protocol" alt="" coords="295,718,401,745"/>
+<area shape="rect" id="node24" href="$xboard_8c.html#aabdd9589bd0cd25ad790891b6663b3c5" title="free resources used by xboard protocol." alt="" coords="469,769,575,795"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,515,56,542"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="136,515,213,542"/>
+<area shape="rect" id="node17" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="293,465,403,491"/>
+<area shape="rect" id="node18" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="294,414,402,441"/>
+<area shape="rect" id="node19" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="104,414,245,441"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="xboard_setup" name="xboard_setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$board_8c.html#a976e17bf43bc565711a288e180688033" title="print to FEN description." alt="" coords="152,5,257,32"/>
+<area shape="rect" id="node3" href="$xboard_8c.html#a2e7102c5e911ea60b9c9f9f1ae90cff2" title="Send a command to xboard/winboard GUI." alt="" coords="157,56,252,83"/>
+</map>

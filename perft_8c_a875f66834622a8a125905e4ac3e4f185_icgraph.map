@@ -1,0 +1,8 @@
+<map id="boardcache_init" name="boardcache_init">
+<area shape="rect" id="node1" title="Initialisation of the hash table." alt="" coords="536,43,649,70"/>
+<area shape="rect" id="node2" href="$perft_8c.html#aeac89a000192cd6a852b3ef75b798d72" title="Count positions." alt="" coords="375,18,488,44"/>
+<area shape="rect" id="node6" href="$perft_8c.html#ae1a42ac91b05bd8cbc864f4c1d9c7596" title="Count shapes." alt="" coords="380,68,483,95"/>
+<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,18,56,44"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,43,327,70"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,43,181,70"/>
+</map>

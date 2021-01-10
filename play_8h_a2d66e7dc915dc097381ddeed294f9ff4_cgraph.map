@@ -1,0 +1,6 @@
+<map id="play_new" name="play_new">
+<area shape="rect" id="node1" title="Start a new game." alt="" coords="5,31,81,57"/>
+<area shape="rect" id="node2" href="$util_8h.html#a358b4c5eab4941b90bb9ef1676e5f7e5" title=" " alt="" coords="145,5,227,32"/>
+<area shape="rect" id="node3" href="$search_8c.html#a7b93f77633c01068248bd9072013981a" title="Clean&#45;up some search data." alt="" coords="129,56,243,83"/>
+<area shape="rect" id="node4" href="$hash-lock-free_8c.html#aab69792f6f434c8466eca07c469850f1" title="Clear the hashtable." alt="" coords="291,56,393,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="play.h" name="play.h">
+<area shape="rect" id="node1" title="Edax play control &#45; header file." alt="" coords="168,5,223,32"/>
+<area shape="rect" id="node2" href="$edax_8c.html" title="Edax protocol." alt="" coords="54,155,113,181"/>
+<area shape="rect" id="node4" href="$gtp_8c.html" title=" " alt="" coords="137,155,187,181"/>
+<area shape="rect" id="node5" href="$nboard_8c.html" title=" " alt="" coords="212,155,283,181"/>
+<area shape="rect" id="node6" href="$play_8c.html" title=" " alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node7" href="$ui_8h.html" title="User interface header." alt="" coords="295,80,338,107"/>
+<area shape="rect" id="node11" href="$xboard_8c.html" title="xboard protocol." alt="" coords="536,155,607,181"/>
+<area shape="rect" id="node3" href="$all_8c.html" title="Gather all other files to facilitate compiler inter&#45;procedural optimization." alt="" coords="265,229,310,256"/>
+<area shape="rect" id="node8" href="$ggs_8c.html" title=" " alt="" coords="374,155,427,181"/>
+<area shape="rect" id="node9" href="$main_8c.html" title="Main file." alt="" coords="452,155,512,181"/>
+<area shape="rect" id="node10" href="$ui_8c.html" title="User interface." alt="" coords="307,155,350,181"/>
+</map>

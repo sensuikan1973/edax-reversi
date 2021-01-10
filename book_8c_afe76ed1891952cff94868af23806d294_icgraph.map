@@ -1,0 +1,19 @@
+<map id="position_free" name="position_free">
+<area shape="rect" id="node1" title="Free resources used by a position." alt="" coords="879,335,975,361"/>
+<area shape="rect" id="node2" href="$book_8c.html#a179fc8c7f78f2e653840c1d297ccac32" title="Free resources used by a position array." alt="" coords="689,220,820,247"/>
+<area shape="rect" id="node12" href="$book_8c.html#aac0b9534e708b9b5c2d89b3a44ea5474" title="Remove a position from an array." alt="" coords="679,335,831,361"/>
+<area shape="rect" id="node16" href="$book_8c.html#a2ed2c1217479c4fbf492246c22b28199" title="Fix a position." alt="" coords="711,385,798,412"/>
+<area shape="rect" id="node3" href="$book_8h.html#a4b444bead61b5e0d000e860428b0a36e" title="Free resources used by the opening book." alt="" coords="552,157,631,184"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a8583c87bc194d63fcd8b757f8303dd28" title="free resources used by edax protocol." alt="" coords="403,5,498,32"/>
+<area shape="rect" id="node7" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,233,201,260"/>
+<area shape="rect" id="node8" href="$ui_8h.html#a204889eb5bd05ad4a50bcb819ef86371" title="ui_free_ggs" alt="" coords="406,56,495,83"/>
+<area shape="rect" id="node9" href="$ui_8h.html#a89e845815ff425c0e09f50f89597d5bb" title="free resources used by edax protocol" alt="" coords="407,107,494,133"/>
+<area shape="rect" id="node10" href="$ui_8h.html#aeafc8edfd01468341d610d9002a226f4" title="free resources used by edax protocol" alt="" coords="397,157,504,184"/>
+<area shape="rect" id="node11" href="$xboard_8c.html#aabdd9589bd0cd25ad790891b6663b3c5" title="free resources used by xboard protocol." alt="" coords="397,208,504,235"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,157,56,184"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="261,157,338,184"/>
+<area shape="rect" id="node13" href="$book_8c.html#a76f46212f1b7245db77bef0218a684d6" title="Remove a position from the book." alt="" coords="401,335,501,361"/>
+<area shape="rect" id="node14" href="$book_8h.html#ac0bb45b9a2e2e552a3ce134a75e07feb" title="Prune a book." alt="" coords="255,284,344,311"/>
+<area shape="rect" id="node15" href="$book_8h.html#ad245e5090ec0d5856e5014e79143767c" title="Prune a book." alt="" coords="249,335,349,361"/>
+<area shape="rect" id="node17" href="$book_8h.html#a7c0e8e9299adfbf03b9f00ed170c4ae4" title="Fix a book." alt="" coords="557,385,626,412"/>
+</map>

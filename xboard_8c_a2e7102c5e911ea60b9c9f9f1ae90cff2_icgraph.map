@@ -1,0 +1,11 @@
+<map id="xboard_send" name="xboard_send">
+<area shape="rect" id="node1" title="Send a command to xboard/winboard GUI." alt="" coords="963,33,1057,59"/>
+<area shape="rect" id="node2" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="439,58,547,85"/>
+<area shape="rect" id="node6" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="249,33,391,59"/>
+<area shape="rect" id="node7" href="$xboard_8c.html#a14d8dd2a07b408d8cde575639502fd62" title="Check if the game is over." alt="" coords="741,109,915,135"/>
+<area shape="rect" id="node9" href="$xboard_8c.html#a0bad3fc3086a5dd2dc87a4865f7aa576" title=" " alt="" coords="595,58,693,85"/>
+<area shape="rect" id="node3" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="281,83,359,110"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,58,56,85"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,83,201,110"/>
+<area shape="rect" id="node8" href="$xboard_8c.html#ac3cbe43d38c75f78ef60f463f91bf3fe" title=" " alt="" coords="603,109,685,135"/>
+</map>

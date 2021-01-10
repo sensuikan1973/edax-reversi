@@ -1,0 +1,6 @@
+<map id="ggs_event_peek" name="ggs_event_peek">
+<area shape="rect" id="node1" title="ggs_event_peek" alt="" coords="5,31,123,57"/>
+<area shape="rect" id="node2" href="$ggs_8c.html#a811f461c63c66d4a7d8ed0f8c6d783ff" title="ggs_parse_text" alt="" coords="171,31,281,57"/>
+<area shape="rect" id="node3" href="$ggs_8c.html#a8c8c99029bfc21472694e581f531938b" title="ggs_parse_line" alt="" coords="329,5,439,32"/>
+<area shape="rect" id="node4" href="$ggs_8c.html#aeb45e78b194e3ebe84ffcd6bad75d2ce" title="text_add_line" alt="" coords="335,56,433,83"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="play_force_update" name="play_force_update">
+<area shape="rect" id="node1" title="Update a forced line." alt="" coords="1011,392,1137,419"/>
+<area shape="rect" id="node2" href="$play_8h.html#a663dc80e69ca4fc2e12cbb0b6d66da15" title="Redo a move." alt="" coords="879,417,956,444"/>
+<area shape="rect" id="node6" href="$play_8h.html#a534eefe441a2f9aeb8e82b58fe5a0fc7" title="Update the game." alt="" coords="872,316,963,343"/>
+<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="425,291,522,317"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,281,56,308"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,249,181,276"/>
+<area shape="rect" id="node7" href="$play_8h.html#aa143113beb4e002f34cf71790abfb408" title="Play a move sequence." alt="" coords="740,392,824,419"/>
+<area shape="rect" id="node8" href="$play_8h.html#a3a130d5b6e9e6e157741f85ff1fd2516" title="Start thinking." alt="" coords="749,253,815,280"/>
+<area shape="rect" id="node18" href="$play_8h.html#a832fa91041c7b956a83307417104c5b7" title="Play a move." alt="" coords="740,316,824,343"/>
+<area shape="rect" id="node20" href="$play_8h.html#ada246a5c71002816e98feecb3ca24a33" title="Play a user move." alt="" coords="576,56,692,83"/>
+<area shape="rect" id="node9" href="$ggs_8c.html#a55704d516945d0fc38a4aae02fca1bfe" title="ui_ggs_play" alt="" coords="589,512,679,539"/>
+<area shape="rect" id="node13" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="429,187,517,213"/>
+<area shape="rect" id="node14" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="419,107,528,133"/>
+<area shape="rect" id="node15" href="$xboard_8c.html#ac3cbe43d38c75f78ef60f463f91bf3fe" title=" " alt="" coords="593,5,675,32"/>
+<area shape="rect" id="node10" href="$ggs_8c.html#afc8b9c7d5dd5c68bdabac6790ff83aff" title="ui_ggs_join" alt="" coords="430,401,517,428"/>
+<area shape="rect" id="node12" href="$ggs_8c.html#add208abcf5430b768477f3ea02a2b139" title="ui_ggs_update" alt="" coords="420,512,527,539"/>
+<area shape="rect" id="node11" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="255,401,345,428"/>
+<area shape="rect" id="node16" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="419,5,527,32"/>
+<area shape="rect" id="node17" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="229,56,371,83"/>
+<area shape="rect" id="node19" href="$play_8h.html#a6097adc493315bacbbf73eb6f74fe55e" title="Load a saved game." alt="" coords="596,309,672,336"/>
+</map>

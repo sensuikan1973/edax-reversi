@@ -1,0 +1,52 @@
+<map id="get_moves" name="get_moves">
+<area shape="rect" id="node1" title="Get legal moves." alt="" coords="925,767,1012,794"/>
+<area shape="rect" id="node2" href="$board_8h.html#a675a09ed2f3c4d7160a418dcaf610919" title="Print out the board." alt="" coords="564,612,651,639"/>
+<area shape="rect" id="node24" href="$perft_8c.html#ae7b1869bd17da35bc80e06b77687f8af" title="Estimate move counts from a single game." alt="" coords="371,855,466,882"/>
+<area shape="rect" id="node29" href="$board_8h.html#a0476974179ac286d2a849334d7eb67bd" title="Get a random board by playing random moves." alt="" coords="759,571,845,598"/>
+<area shape="rect" id="node30" href="$perft_8c.html#af5e8b9b385ea97f1c30654db2a347a30" title="Move generator performance test function." alt="" coords="755,379,849,406"/>
+<area shape="rect" id="node31" href="$perft_8c.html#a2d4fe896c978bd809fa8952616362382" title="Recursively count positions." alt="" coords="554,742,661,768"/>
+<area shape="rect" id="node32" href="$perft_8c.html#ac407862f89888ec121363c7dd9a391ee" title="Recursively count shapes." alt="" coords="559,95,655,122"/>
+<area shape="rect" id="node33" href="$perft_8c.html#a47a6187e74d99b2a53f3ef9dd44da4b9" title="Estimate move counts from a single game." alt="" coords="747,172,857,199"/>
+<area shape="rect" id="node34" href="$game_8h.html#abf08a34b1e3139c4c94728a17e7694e9" title="Fill a game with some random moves." alt="" coords="759,691,845,718"/>
+<area shape="rect" id="node35" href="$board_8h.html#af45135d9042a25d1431c844e902cda98" title="Count legal moves." alt="" coords="757,970,847,996"/>
+<area shape="rect" id="node37" href="$move_8c.html#ab65ffb220ecc487ec19c47920d22fea6" title="Get moves from a position." alt="" coords="536,1248,679,1275"/>
+<area shape="rect" id="node39" href="$play_8h.html#a4c1e6b765b6f88004b6eca853d06589e" title="Print the game state." alt="" coords="569,1198,646,1224"/>
+<area shape="rect" id="node43" href="$search_8h.html#aaff017c9dc4b7fefd2d61afd12816022" title="Get a list of legal moves." alt="" coords="536,1096,679,1123"/>
+<area shape="rect" id="node44" href="$board_8h.html#a5c204b4fc45a0064023f2e6598d39851" title=" " alt="" coords="727,1299,877,1326"/>
+<area shape="rect" id="node46" href="$book_8c.html#a019aa7c08d4071fc2afc5c4a01777699" title="Link a position." alt="" coords="371,1058,466,1084"/>
+<area shape="rect" id="node47" href="$perft_8c.html#a7def9bbbbbd65f8951726a9626e459b5" title="Count games recursively." alt="" coords="737,258,867,284"/>
+<area shape="rect" id="node48" href="$search_8h.html#a02425bfad4d23f1c19dc069a73f6f81c" title="Evaluate a position at depth 1." alt="" coords="749,1374,855,1400"/>
+<area shape="rect" id="node49" href="$search_8h.html#a8a43da851ac973c05d97d5e87fde6809" title="Evaluate a position at depth 2." alt="" coords="554,1424,661,1451"/>
+<area shape="rect" id="node50" href="$perft_8c.html#a57b8a15d869c73d526108aff1789864a" title="seek a game that reach to a position" alt="" coords="175,47,277,74"/>
+<area shape="rect" id="node3" href="$board_8h.html#af318f9d7f5695c89812ce2d6d6c2bd64" title="Check board consistency." alt="" coords="371,602,467,628"/>
+<area shape="rect" id="node4" href="$perft_8c.html#af3b82e904787bb6c730537567f2a2809" title="Move generator performance test." alt="" coords="369,247,469,274"/>
+<area shape="rect" id="node6" href="$perft_8c.html#aeac89a000192cd6a852b3ef75b798d72" title="Count positions." alt="" coords="362,804,475,831"/>
+<area shape="rect" id="node7" href="$perft_8c.html#ae1a42ac91b05bd8cbc864f4c1d9c7596" title="Count shapes." alt="" coords="367,95,470,122"/>
+<area shape="rect" id="node8" href="$perft_8c.html#a3f2ab6fce8f34ae5b04583c32d4aeaf8" title="Move estimate games." alt="" coords="359,146,478,172"/>
+<area shape="rect" id="node9" href="$harness_8c.html#a8fd46b98ad88e8c65c57edec130200ea" title=" " alt="" coords="383,652,455,679"/>
+<area shape="rect" id="node10" href="$game_8h.html#aedbbbe8625d17f774328aa70a74dd4fb" title="Analyze an endgame." alt="" coords="367,348,471,375"/>
+<area shape="rect" id="node11" href="$obftest_8c.html#a6ed0f135c4cf4021e18eb1a965a72bfa" title="Build an OBF structure." alt="" coords="381,399,456,426"/>
+<area shape="rect" id="node12" href="$obftest_8c.html#ab9783a5ca8dc9d2b69ed9ae61945bbfb" title="Analyze an OBF structure." alt="" coords="375,703,462,730"/>
+<area shape="rect" id="node14" href="$book_8c.html#a72ebb0fd09a7722748b1a0c46f42312e" title="Check if position is ok or need fixing." alt="" coords="366,906,471,932"/>
+<area shape="rect" id="node15" href="$book_8c.html#ad3b2686173649c214c8349e5e3da0aca" title="Evaluate a position." alt="" coords="362,1007,475,1034"/>
+<area shape="rect" id="node21" href="$book_8c.html#a8de8f64b2388b45281acc8b4d5cd03ce" title="print a position in a readable format." alt="" coords="366,450,471,476"/>
+<area shape="rect" id="node22" href="$perft_8c.html#a2de31ec56cd869ac4082790288cfbf56" title="Count games." alt="" coords="349,196,488,223"/>
+<area shape="rect" id="node23" href="$flip__slow_8c.html#a4d535679e8fe2bcb41dd184218efc0c2" title=" " alt="" coords="366,500,471,527"/>
+<area shape="rect" id="node26" href="$ggs_8c.html#afc8b9c7d5dd5c68bdabac6790ff83aff" title="ui_ggs_join" alt="" coords="375,551,462,578"/>
+<area shape="rect" id="node27" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="375,1108,463,1135"/>
+<area shape="rect" id="node28" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="185,750,267,776"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="5,692,103,719"/>
+<area shape="rect" id="node13" href="$obftest_8h.html#acb5f3a86d3aebc67fe4b786348537b08" title="Test edax speed by running for at least 1 minutes on problems deeper and deeper." alt="" coords="185,692,267,719"/>
+<area shape="rect" id="node16" href="$book_8h.html#a6a4e135fcf7e0cab7c956d889827424e" title="Add a position." alt="" coords="167,1007,285,1034"/>
+<area shape="rect" id="node18" href="$book_8h.html#aac36429d5b9514a42d861be1bdac14e8" title="Link a book." alt="" coords="187,956,265,983"/>
+<area shape="rect" id="node19" href="$book_8c.html#a3d3386302ce5a1f050ca860bcf8c2ce6" title="Expand a position." alt="" coords="169,1058,283,1084"/>
+<area shape="rect" id="node20" href="$book_8c.html#a2ed2c1217479c4fbf492246c22b28199" title="Fix a position." alt="" coords="183,1108,269,1135"/>
+<area shape="rect" id="node17" href="$book_8c.html#abdce4d74200559a64a4a498f952cfe96" title="Fill the opening book." alt="" coords="17,1184,91,1211"/>
+<area shape="rect" id="node25" href="$perft_8c.html#a877fa5c05b52d3cc5094c5ae5fda9923" title="Move estimate games." alt="" coords="151,855,301,882"/>
+<area shape="rect" id="node36" href="$bench_8c.html#a5c5dae5cf03c0492aa4482ca05b76cd2" title=" " alt="" coords="553,995,661,1022"/>
+<area shape="rect" id="node42" href="$search_8h.html#a4efd4c8ca441672d0493722b7d01f046" title="Principal Variation Search algorithm at the root of the tree." alt="" coords="568,944,647,971"/>
+<area shape="rect" id="node38" href="$cassio_8c.html#ae2cc32f6d429a43d8a5b05db74112cc1" title="feed hash table" alt="" coords="355,1311,482,1338"/>
+<area shape="rect" id="node40" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="364,1260,473,1287"/>
+<area shape="rect" id="node41" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="365,1210,473,1236"/>
+<area shape="rect" id="node45" href="$move_8c.html#a57eefc66553dd853ba6a21d3d6abb3e0" title="Evaluate a list of move." alt="" coords="363,1412,474,1439"/>
+</map>

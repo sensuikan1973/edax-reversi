@@ -1,0 +1,28 @@
+<map id="string_duplicate" name="string_duplicate">
+<area shape="rect" id="node1" title="Duplicate a string." alt="" coords="1040,284,1153,311"/>
+<area shape="rect" id="node2" href="$cassio_8c.html#aab15f6387b615a919bfb679368d97cba" title="Read an input line." alt="" coords="872,5,992,32"/>
+<area shape="rect" id="node9" href="$ggs_8c.html#ad5d5acba18786e7fe5938423caf236ca" title="ggs_admin" alt="" coords="889,411,975,437"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="555,309,645,336"/>
+<area shape="rect" id="node11" href="$ggs_8c.html#a63f1ce1416d9a7c378bdb930b7586505" title="ggs_board" alt="" coords="717,259,800,285"/>
+<area shape="rect" id="node12" href="$ggs_8c.html#a8f06848b666fd366f6e26fb217214d21" title="ggs_match_off" alt="" coords="705,157,812,184"/>
+<area shape="rect" id="node13" href="$ggs_8c.html#a111a36cc555c8894c0abb1fa06babe31" title="ggs_match_on" alt="" coords="705,208,812,235"/>
+<area shape="rect" id="node14" href="$ggs_8c.html#a2fd026583915c73831fb9401717464f3" title="ggs_player_set" alt="" coords="877,208,987,235"/>
+<area shape="rect" id="node15" href="$ggs_8c.html#aa711d401516107ea47f899cae4dde087" title="ggs_request" alt="" coords="885,309,979,336"/>
+<area shape="rect" id="node16" href="$obftest_8c.html#ad0e1ab232d12c1548efa3445e9fc7051" title="Read an OBF structure." alt="" coords="564,171,636,197"/>
+<area shape="rect" id="node20" href="$options_8h.html#af57f2161484c8873782f47319534bf75" title="Keep options between realistic values." alt="" coords="400,360,507,387"/>
+<area shape="rect" id="node21" href="$options_8h.html#ac27d0f304908320371c1a23e8fe7c5b3" title="Read an option." alt="" coords="405,461,501,488"/>
+<area shape="rect" id="node24" href="$ui_8c.html#a2b88c226a508af9d28160a8a4e3ed07f" title="Get an event." alt="" coords="883,563,981,589"/>
+<area shape="rect" id="node3" href="$cassio_8c.html#a3a3dca65e82e7e3e8d6c0de91b8bc4b7" title="Read event loop." alt="" coords="695,5,822,32"/>
+<area shape="rect" id="node4" href="$cassio_8h.html#ab072fb80ef54455dae0b96a71d5ee845" title="Create a new Othello engine." alt="" coords="558,95,642,121"/>
+<area shape="rect" id="node5" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="408,107,499,133"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,335,56,361"/>
+<area shape="rect" id="node7" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="255,259,352,285"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="117,309,194,336"/>
+<area shape="rect" id="node17" href="$obftest_8h.html#a9008f6d96f8fa704655ae2ebabf15521" title="Select hard position from an OBF file." alt="" coords="418,208,489,235"/>
+<area shape="rect" id="node18" href="$obftest_8h.html#a00bea4b4b497832c12603234961a171a" title="Test an OBF file." alt="" coords="419,157,488,184"/>
+<area shape="rect" id="node19" href="$obftest_8h.html#a33831f086e7294629129a13973801b87" title="Build an OBF file from a Script file." alt="" coords="405,259,502,285"/>
+<area shape="rect" id="node22" href="$options_8c.html#a4ed43b013f2dae7fdf45172f563ca067" title="parse an option from a string" alt="" coords="255,461,351,488"/>
+<area shape="rect" id="node23" href="$options_8h.html#a29667af543c9daf7238f2769105f7fc8" title="parse options from a file" alt="" coords="104,461,207,488"/>
+<area shape="rect" id="node25" href="$ui_8c.html#ad00d38af43573bb06f4af5efbc2b9448" title="Read event loop." alt="" coords="693,563,824,589"/>
+<area shape="rect" id="node26" href="$ui_8h.html#ac46c8d1810ef48b5212b2942ca1430e0" title="Create a new Othello User Interface." alt="" coords="256,563,351,589"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="movelist_sort" name="movelist_sort">
+<area shape="rect" id="node1" title="Sort all moves." alt="" coords="2105,359,2205,385"/>
+<area shape="rect" id="node2" href="$cassio_8c.html#a9ff171085ccae4be6241cd583028adcf" title="Open search engine." alt="" coords="817,120,911,147"/>
+<area shape="rect" id="node7" href="$search_8h.html#ad066393bfde0bb6e1cfd34eb79b1dff8" title="Iterative deepening." alt="" coords="797,272,931,299"/>
+<area shape="rect" id="node22" href="$search_8h.html#a09bb4c8e0c3c29d7dcd0d9cbde6cc04f" title="Evaluate a midgame position with a Null Window Search algorithm." alt="" coords="1792,321,1905,348"/>
+<area shape="rect" id="node23" href="$search_8h.html#a4d89c7d50823378b15e74842454bfd3e" title="Evaluate a position with a deep Principal Variation Search algorithm." alt="" coords="1634,245,1743,272"/>
+<area shape="rect" id="node25" href="$search_8h.html#a4efd4c8ca441672d0493722b7d01f046" title="Principal Variation Search algorithm at the root of the tree." alt="" coords="1153,221,1232,248"/>
+<area shape="rect" id="node31" href="$search_8h.html#afd2803198187be0ed82eac1cb3628747" title="Evaluate a midgame position with a Null Window Search algorithm." alt="" coords="1953,396,2057,423"/>
+<area shape="rect" id="node32" href="$search_8h.html#a942b836b54f074b38df39049e531c0f1" title="Evaluate a midgame position at shallow depth." alt="" coords="1799,447,1899,473"/>
+<area shape="rect" id="node35" href="$book_8c.html#a66fb9c00f652c4cb754bee6878794976" title="Get moves from a position." alt="" coords="795,917,933,944"/>
+<area shape="rect" id="node3" href="$cassio_8h.html#aeaf9e2a47f743c88f7a39ce52cf1cd6d" title="Endgame search." alt="" coords="573,145,739,172"/>
+<area shape="rect" id="node6" href="$cassio_8h.html#a018fe57eba634b34c2a2b3b18b30914f" title="Midgame search." alt="" coords="573,208,739,235"/>
+<area shape="rect" id="node4" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="390,5,481,32"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="5,588,103,615"/>
+<area shape="rect" id="node8" href="$search_8h.html#a4399533d31feb4133a5b924808151ee5" title="Search the bestmove of a given board." alt="" coords="613,284,699,311"/>
+<area shape="rect" id="node9" href="$game_8h.html#aedbbbe8625d17f774328aa70a74dd4fb" title="Analyze an endgame." alt="" coords="383,56,487,83"/>
+<area shape="rect" id="node10" href="$game_8h.html#ae8a39608ec9411b9266ea659e06547a9" title="Terminate an unfinished game." alt="" coords="378,107,493,133"/>
+<area shape="rect" id="node11" href="$obftest_8c.html#a6ed0f135c4cf4021e18eb1a965a72bfa" title="Build an OBF structure." alt="" coords="398,157,473,184"/>
+<area shape="rect" id="node12" href="$obftest_8c.html#ab9783a5ca8dc9d2b69ed9ae61945bbfb" title="Analyze an OBF structure." alt="" coords="392,208,479,235"/>
+<area shape="rect" id="node13" href="$play_8c.html#ab220e1e3acf69015cd2e2b32abbdbaae" title="Seek for the best alternative move." alt="" coords="379,259,491,285"/>
+<area shape="rect" id="node14" href="$play_8h.html#a3a130d5b6e9e6e157741f85ff1fd2516" title="Start thinking." alt="" coords="195,1005,261,1032"/>
+<area shape="rect" id="node15" href="$play_8h.html#a8604efa4b0929b557718c0196a1aa8ee" title="Start thinking." alt="" coords="191,676,265,703"/>
+<area shape="rect" id="node16" href="$play_8h.html#ab6e159382d8fd7de27ad545bfe249586" title="do ponderation." alt="" coords="377,360,493,387"/>
+<area shape="rect" id="node17" href="$book_8c.html#ad3b2686173649c214c8349e5e3da0aca" title="Evaluate a position." alt="" coords="379,461,492,488"/>
+<area shape="rect" id="node20" href="$base_8h.html#a76070505a4a15283da838da86d5e9fea" title="Test Eval with a wthor base." alt="" coords="185,335,271,361"/>
+<area shape="rect" id="node21" href="$base_8h.html#a4033014918c91e54b13c1b41ac07ac55" title="Test Search with a wthor base." alt="" coords="187,411,269,437"/>
+<area shape="rect" id="node18" href="$book_8h.html#a6a4e135fcf7e0cab7c956d889827424e" title="Add a position." alt="" coords="169,512,287,539"/>
+<area shape="rect" id="node19" href="$book_8h.html#a7acb38fa1835d85ce760e7b628e474e9" title="Correct wrong solved score in the book." alt="" coords="157,461,299,488"/>
+<area shape="rect" id="node27" href="$ybwc_8h.html#aaa4fc1461e78cd5569318f9e19399e50" title="A parallel search within a Task structure." alt="" coords="1473,323,1567,349"/>
+<area shape="rect" id="node30" href="$midgame_8c.html#a232fed82bb28cdcc18d59d1cfecab0f1" title="Probcut." alt="" coords="1633,296,1744,323"/>
+<area shape="rect" id="node24" href="$root_8c.html#ab2e5830644a88819b823d90fd9878d4d" title="Reroute the PVS between midgame,endgame or terminal PVS." alt="" coords="1455,221,1585,248"/>
+<area shape="rect" id="node26" href="$search_8h.html#a8b35bf59fb6131a7d172632ebd50fc94" title="Aspiration window." alt="" coords="981,221,1105,248"/>
+<area shape="rect" id="node28" href="$ybwc_8h.html#aba10515dc550a8ff296d7135444af345" title="Wait for slaves termination." alt="" coords="1280,272,1407,299"/>
+<area shape="rect" id="node29" href="$ybwc_8h.html#a8eb6cca47c59cffd35893c018812bd37" title="The main loop runned by a task." alt="" coords="1304,323,1383,349"/>
+<area shape="rect" id="node33" href="$root_8c.html#a6ac3c5f991e5a6a40a27d0a9e425aaca" title="Guess a move." alt="" coords="1641,448,1737,475"/>
+<area shape="rect" id="node34" href="$move_8c.html#a57eefc66553dd853ba6a21d3d6abb3e0" title="Evaluate a list of move." alt="" coords="1633,499,1744,525"/>
+<area shape="rect" id="node36" href="$book_8c.html#a9c0c6a1b902182109525eb3e10db7cad" title="Feed hash from a position." alt="" coords="595,968,717,995"/>
+<area shape="rect" id="node38" href="$book_8h.html#a6fa1f12d0955c6384dbb85f9f6b6c5ad" title="print a set of position." alt="" coords="151,752,305,779"/>
+<area shape="rect" id="node39" href="$book_8h.html#adb53da91dcaa3de36627fea2b212f5b1" title="Get a list of moves from the book." alt="" coords="595,791,717,817"/>
+<area shape="rect" id="node44" href="$book_8c.html#a51c109a522403edef219cc3a08b26b3e" title="Chose a move at random from the position." alt="" coords="565,1019,747,1045"/>
+<area shape="rect" id="node47" href="$book_8c.html#a804457298fe82d9bbfb92588288aa406" title="print a position in a compact but readable format." alt="" coords="386,512,485,539"/>
+<area shape="rect" id="node50" href="$book_8c.html#a8de8f64b2388b45281acc8b4d5cd03ce" title="print a position in a readable format." alt="" coords="603,1069,709,1096"/>
+<area shape="rect" id="node37" href="$book_8h.html#a61982592e357c89ac7842b6335cf472f" title="feed hash table from the opening book." alt="" coords="169,853,287,880"/>
+<area shape="rect" id="node40" href="$book_8c.html#a8996ed1153616ffa18e6819b88e106c9" title="Check positions from a game." alt="" coords="370,816,501,843"/>
+<area shape="rect" id="node41" href="$book_8c.html#a65253e739b9201531bad8dc071d24d11" title="Extract book lines to a game base." alt="" coords="377,867,494,893"/>
+<area shape="rect" id="node42" href="$play_8c.html#a0a53dfd153477f6332c030733e3a2d56" title="Seek for the best alternative move from the opening book." alt="" coords="362,664,509,691"/>
+<area shape="rect" id="node43" href="$xboard_8c.html#a498d40e5c213c58ed6f986dbe834048b" title="Send a move from the book, if available." alt="" coords="388,715,483,741"/>
+<area shape="rect" id="node45" href="$book_8h.html#a8f3e1532b52a619e016bb134391cc69a" title="Get a variation from the book." alt="" coords="384,1019,487,1045"/>
+<area shape="rect" id="node46" href="$book_8h.html#aede5396d07c3b73cf1e5b94453e37993" title="Get a move at random from the opening book." alt="" coords="353,1069,517,1096"/>
+<area shape="rect" id="node48" href="$book_8h.html#aa2c4ce022c24b988fc73a4fa6808e62b" title="display some book&#39;s informations." alt="" coords="189,563,267,589"/>
+<area shape="rect" id="node49" href="$book_8h.html#ac0bb45b9a2e2e552a3ce134a75e07feb" title="Prune a book." alt="" coords="183,613,273,640"/>
+</map>

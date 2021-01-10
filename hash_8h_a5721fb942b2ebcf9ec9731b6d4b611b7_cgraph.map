@@ -1,0 +1,9 @@
+<map id="hash_store" name="hash_store">
+<area shape="rect" id="node1" title="Store an hashtable item." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$hash_8c.html#af3e790e4518a5f06c52eb137a22f5bf9" title="Initialize a new hash table item." alt="" coords="153,5,235,32"/>
+<area shape="rect" id="node4" href="$hash_8c.html#a29ceff7440ead82bbae189ff032adb8c" title="update the hash entry" alt="" coords="146,56,242,83"/>
+<area shape="rect" id="node7" href="$hash_8c.html#aa41c220979591f6be05f9c30fae53261" title="make a level from date, cost, depth &amp; selectivity." alt="" coords="140,107,248,133"/>
+<area shape="rect" id="node3" href="$hash_8c.html#a2b54fb82510eda54054d5b44a706f566" title="Set an hash table data item." alt="" coords="307,5,385,32"/>
+<area shape="rect" id="node5" href="$hash_8c.html#a47753cf3fd941538e52cd282b3d49e20" title="update an hash table item." alt="" coords="299,56,393,83"/>
+<area shape="rect" id="node6" href="$hash_8c.html#a88da9c021a86d5958925d7cca64920f3" title="Upgrade an hash table data item." alt="" coords="296,107,396,133"/>
+</map>

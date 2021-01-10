@@ -1,0 +1,36 @@
+<map id="eval_builder_build" name="eval_builder_build">
+<area shape="rect" id="node1" title=" " alt="" coords="5,311,131,337"/>
+<area shape="rect" id="node2" href="$eval__builder_8c.html#a79387d3fa0bede6d227365162dd08ef4" title=" " alt="" coords="193,95,319,137"/>
+<area shape="rect" id="node22" href="$eval__builder_8c.html#af06bd81f8a882e1be6f6a93fb7ac04ba" title=" " alt="" coords="179,485,333,526"/>
+<area shape="rect" id="node3" href="$board_8c.html#a121c1b2912c0f5d559fe85c8ab70f061" title="Check if the game is over." alt="" coords="611,8,753,35"/>
+<area shape="rect" id="node7" href="$eval__builder_8c.html#a7488a6c95a500ee40afdb5ebd66ba1ea" title=" " alt="" coords="403,128,541,155"/>
+<area shape="rect" id="node8" href="$game_8c.html#ad7449cc460e08f4fa241652940fa914e" title="Get the board after &#39;ply&#39; move." alt="" coords="413,77,531,104"/>
+<area shape="rect" id="node4" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="1323,45,1405,72"/>
+<area shape="rect" id="node5" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="1592,71,1717,97"/>
+<area shape="rect" id="node6" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="1765,96,1804,123"/>
+<area shape="rect" id="node9" href="$game_8c.html#a2b48a650adb24509ed0d0e2267ecfd21" title="update a board." alt="" coords="613,96,751,123"/>
+<area shape="rect" id="node10" href="$board_8c.html#a3b5748c109770fe228ea15b562c0f113" title="Compute a move." alt="" coords="807,20,926,47"/>
+<area shape="rect" id="node11" href="$board_8c.html#acad11415527107f161c9f2a3b909dc2b" title="Check if a square is occupied." alt="" coords="801,71,932,97"/>
+<area shape="rect" id="node12" href="$board_8c.html#ac353cc1821e12d2aeba8eefe5cf92b46" title="Passing move." alt="" coords="822,172,911,199"/>
+<area shape="rect" id="node21" href="$board_8c.html#a2d24dea46d67d71b1d9fe9f515d8d675" title="Update a board." alt="" coords="817,223,917,249"/>
+<area shape="rect" id="node13" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="1002,172,1098,199"/>
+<area shape="rect" id="node20" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="980,223,1120,249"/>
+<area shape="rect" id="node14" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="1168,223,1271,249"/>
+<area shape="rect" id="node15" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="1176,172,1263,199"/>
+<area shape="rect" id="node16" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="1463,223,1538,249"/>
+<area shape="rect" id="node18" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="1319,172,1409,199"/>
+<area shape="rect" id="node19" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="1457,121,1544,148"/>
+<area shape="rect" id="node17" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="1627,223,1682,249"/>
+<area shape="rect" id="node23" href="$eval__builder_8c.html#a469b7d4256bde7454c5d8a8298e44cc4" title=" " alt="" coords="399,543,545,569"/>
+<area shape="rect" id="node24" href="$eval__builder_8c.html#a28a9069bab67a12091e2f914890f241a" title=" " alt="" coords="400,594,544,635"/>
+<area shape="rect" id="node25" href="$eval__builder_8c.html#a89d09601fa2728b201e175807b9a44d6" title=" " alt="" coords="400,659,544,701"/>
+<area shape="rect" id="node26" href="$eval__builder_8c.html#a52bdf837f4b1e2512b1917f06d5f6eb5" title=" " alt="" coords="381,725,563,752"/>
+<area shape="rect" id="node27" href="$eval__builder_8c.html#a2a9a488d364c3788182deaac848e76a3" title=" " alt="" coords="391,777,553,818"/>
+<area shape="rect" id="node28" href="$eval__builder_8c.html#ab70bf457171db7e2b209ba3535a75efd" title=" " alt="" coords="395,843,549,869"/>
+<area shape="rect" id="node29" href="$eval__builder_8c.html#af84a0c1987e91a9b7ab52e2d9333acf2" title=" " alt="" coords="387,179,557,221"/>
+<area shape="rect" id="node30" href="$eval__builder_8c.html#a6a85c848e4eded3bb743642368b73fcb" title=" " alt="" coords="387,245,557,286"/>
+<area shape="rect" id="node31" href="$eval__builder_8c.html#aa37cd930e7de04222b436fe7569dcedf" title=" " alt="" coords="397,310,547,351"/>
+<area shape="rect" id="node32" href="$eval__builder_8c.html#afd69ba0b43341ddf84f18f504ebc25fa" title=" " alt="" coords="397,375,547,417"/>
+<area shape="rect" id="node33" href="$eval__builder_8c.html#a18af44af3f70a3c06aa0ba7aacdac8a6" title=" " alt="" coords="381,441,563,468"/>
+<area shape="rect" id="node34" href="$eval__builder_8c.html#a8003398339c47779d897d97e2bcd1638" title=" " alt="" coords="411,492,533,519"/>
+</map>

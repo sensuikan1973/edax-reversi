@@ -1,0 +1,19 @@
+<map id="file_add_ext" name="file_add_ext">
+<area shape="rect" id="node1" title="Add an extension to a string." alt="" coords="803,190,893,216"/>
+<area shape="rect" id="node2" href="$book_8h.html#a9e06c2785f11e6efa58cc0af754f856b" title="Add positions from a game database." alt="" coords="451,38,564,64"/>
+<area shape="rect" id="node6" href="$book_8h.html#a8dbe38af46f4a34ace1824becb099597" title="Add positions from a game." alt="" coords="625,38,742,64"/>
+<area shape="rect" id="node7" href="$book_8h.html#a7acb38fa1835d85ce760e7b628e474e9" title="Correct wrong solved score in the book." alt="" coords="612,88,755,115"/>
+<area shape="rect" id="node8" href="$book_8h.html#a5f4c510ca4b8e9ad2a3ddb507496ca29" title="Deepen a book." alt="" coords="458,139,557,166"/>
+<area shape="rect" id="node9" href="$book_8h.html#a5974b203826a2e7802c0975576475b81" title="Deviate a book." alt="" coords="634,190,733,216"/>
+<area shape="rect" id="node10" href="$book_8h.html#ad47bdbb636c01271bc48a09a255a4cd8" title="Enhance a book." alt="" coords="630,240,737,267"/>
+<area shape="rect" id="node11" href="$book_8h.html#ac816637fe5ee5e425a715aa956814c95" title="Fill a book." alt="" coords="473,291,542,318"/>
+<area shape="rect" id="node12" href="$book_8h.html#a87d157671cb1b0e80eb674a129877e96" title="Play." alt="" coords="467,342,547,368"/>
+<area shape="rect" id="node13" href="$play_8h.html#a92db9689e8b1479801da85c81de03729" title="store the game into the opening book" alt="" coords="467,392,548,419"/>
+<area shape="rect" id="node3" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="299,240,397,267"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,266,56,292"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="136,291,213,318"/>
+<area shape="rect" id="node14" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="303,291,393,318"/>
+<area shape="rect" id="node15" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="293,342,403,368"/>
+<area shape="rect" id="node16" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="294,392,402,419"/>
+<area shape="rect" id="node17" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="104,392,245,419"/>
+</map>

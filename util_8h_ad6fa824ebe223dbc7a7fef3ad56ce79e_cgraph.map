@@ -1,0 +1,6 @@
+<map id="parse_boolean" name="parse_boolean">
+<area shape="rect" id="node1" title="Parse a boolean." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="332,5,467,32"/>
+<area shape="rect" id="node3" href="$util_8c.html#a37223454580e3fd41f4bddb3c3970da5" title="Parse a word." alt="" coords="177,31,267,57"/>
+<area shape="rect" id="node4" href="$util_8c.html#a39aab800a4d838ee1d8dcc30665ffbe9" title="Convert a string into a boolean." alt="" coords="160,81,284,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="board_solve_2" name="board_solve_2">
+<area shape="rect" id="node1" title="Get the final score." alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node2" href="$board_8c.html#aa02d38e320edf6b9d695e2b1eed6c85f" title="Compute a board resulting of a move played on a previous board." alt="" coords="177,5,263,32"/>
+<area shape="rect" id="node3" href="$board_8c.html#a137071e393deb1f643d753db1e45f578" title="Compute a board resulting of an opponent move played on a previous board." alt="" coords="160,56,280,83"/>
+<area shape="rect" id="node4" href="$endgame_8c.html#a759818a10e7318132e526559360df1fd" title="Get the final score." alt="" coords="167,107,273,133"/>
+<area shape="rect" id="node7" href="$endgame_8c.html#a5141642bcda4dd304ddc0b534183e2ba" title="Get the final score." alt="" coords="174,157,266,184"/>
+<area shape="rect" id="node5" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="328,132,403,159"/>
+<area shape="rect" id="node6" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="451,132,505,159"/>
+</map>

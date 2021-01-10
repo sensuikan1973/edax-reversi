@@ -1,0 +1,52 @@
+<map id="can_move" name="can_move">
+<area shape="rect" id="node1" title="Check if a player can move." alt="" coords="1245,1148,1328,1175"/>
+<area shape="rect" id="node2" href="$board_8h.html#a4dc610fcb2068b91c25b651ed64b2e5b" title="Check if a move is legal." alt="" coords="1059,169,1193,196"/>
+<area shape="rect" id="node5" href="$search_8h.html#a4efd4c8ca441672d0493722b7d01f046" title="Principal Variation Search algorithm at the root of the tree." alt="" coords="33,93,112,120"/>
+<area shape="rect" id="node7" href="$search_8h.html#ad066393bfde0bb6e1cfd34eb79b1dff8" title="Iterative deepening." alt="" coords="5,889,140,916"/>
+<area shape="rect" id="node9" href="$book_8c.html#abdce4d74200559a64a4a498f952cfe96" title="Fill the opening book." alt="" coords="1089,380,1163,407"/>
+<area shape="rect" id="node11" href="$board_8h.html#abf7d44fb6f677dd7dd2ceb9051da5969" title="Check if the game is over." alt="" coords="1055,489,1197,516"/>
+<area shape="rect" id="node16" href="$game_8h.html#a2be64aa20e0074f0c392e90df1894be3" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="685,819,807,845"/>
+<area shape="rect" id="node17" href="$game_8h.html#ad5b40a98857680b3b767f3ea8508e5bb" title="Write a game to a pgn file." alt="" coords="684,869,808,896"/>
+<area shape="rect" id="node18" href="$game_8h.html#a52a65e8068e097bb8ea5a7d70c744f54" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="689,1097,803,1124"/>
+<area shape="rect" id="node22" href="$board_8h.html#ac130aa1e661a0afd1a2e10ba613583ad" title="Check if current player should pass." alt="" coords="1073,245,1179,272"/>
+<area shape="rect" id="node23" href="$book_8h.html#a8dbe38af46f4a34ace1824becb099597" title="Add positions from a game." alt="" coords="1067,692,1185,719"/>
+<area shape="rect" id="node24" href="$book_8c.html#a8996ed1153616ffa18e6819b88e106c9" title="Check positions from a game." alt="" coords="1061,743,1191,769"/>
+<area shape="rect" id="node25" href="$perft_8c.html#af5e8b9b385ea97f1c30654db2a347a30" title="Move generator performance test function." alt="" coords="1079,793,1173,820"/>
+<area shape="rect" id="node26" href="$perft_8c.html#a2d4fe896c978bd809fa8952616362382" title="Recursively count positions." alt="" coords="1073,844,1179,871"/>
+<area shape="rect" id="node27" href="$perft_8c.html#ac407862f89888ec121363c7dd9a391ee" title="Recursively count shapes." alt="" coords="1078,895,1174,921"/>
+<area shape="rect" id="node28" href="$perft_8c.html#a47a6187e74d99b2a53f3ef9dd44da4b9" title="Estimate move counts from a single game." alt="" coords="1071,945,1181,972"/>
+<area shape="rect" id="node29" href="$game_8h.html#aedbbbe8625d17f774328aa70a74dd4fb" title="Analyze an endgame." alt="" coords="1074,996,1178,1023"/>
+<area shape="rect" id="node30" href="$game_8h.html#ae8a39608ec9411b9266ea659e06547a9" title="Terminate an unfinished game." alt="" coords="874,945,989,972"/>
+<area shape="rect" id="node31" href="$game_8h.html#a8e411e9a261010ffc2e4647bfb3f9e64" title="Write a game to an eps file." alt="" coords="869,1148,993,1175"/>
+<area shape="rect" id="node32" href="$game_8h.html#aae72852875506536474b998d8d22b72b" title=" " alt="" coords="869,1199,993,1225"/>
+<area shape="rect" id="node33" href="$game_8h.html#a2b48a650adb24509ed0d0e2267ecfd21" title="update a board." alt="" coords="1057,1097,1195,1124"/>
+<area shape="rect" id="node34" href="$game_8c.html#a20e8d7c89c4744e264deab4405312abd" title="update a player." alt="" coords="1055,641,1197,668"/>
+<area shape="rect" id="node35" href="$search_8h.html#a2f0ab4ec40cd9556a477890825f8fa58" title="Evaluate an endgame position with a Null Window Search algorithm." alt="" coords="689,1691,803,1717"/>
+<area shape="rect" id="node36" href="$search_8h.html#a09bb4c8e0c3c29d7dcd0d9cbde6cc04f" title="Evaluate a midgame position with a Null Window Search algorithm." alt="" coords="523,1691,636,1717"/>
+<area shape="rect" id="node37" href="$search_8h.html#a4d89c7d50823378b15e74842454bfd3e" title="Evaluate a position with a deep Principal Variation Search algorithm." alt="" coords="365,1691,475,1717"/>
+<area shape="rect" id="node38" href="$search_8h.html#afd2803198187be0ed82eac1cb3628747" title="Evaluate a midgame position with a Null Window Search algorithm." alt="" coords="694,1324,798,1351"/>
+<area shape="rect" id="node39" href="$search_8h.html#a942b836b54f074b38df39049e531c0f1" title="Evaluate a midgame position at shallow depth." alt="" coords="529,875,629,901"/>
+<area shape="rect" id="node40" href="$play_8h.html#a9baef35f3a398476053bc669b51cb6cc" title="Check if game is over." alt="" coords="1059,1577,1193,1604"/>
+<area shape="rect" id="node41" href="$play_8h.html#a04e3a4dbc7946f948b1e18c17f8e2965" title="Check if player must pass." alt="" coords="1068,1628,1184,1655"/>
+<area shape="rect" id="node42" href="$book_8c.html#a72ebb0fd09a7722748b1a0c46f42312e" title="Check if position is ok or need fixing." alt="" coords="1073,1679,1179,1705"/>
+<area shape="rect" id="node43" href="$book_8c.html#a019aa7c08d4071fc2afc5c4a01777699" title="Link a position." alt="" coords="1079,1729,1173,1756"/>
+<area shape="rect" id="node44" href="$perft_8c.html#a7def9bbbbbd65f8951726a9626e459b5" title="Count games recursively." alt="" coords="1061,1780,1191,1807"/>
+<area shape="rect" id="node45" href="$search_8h.html#a02425bfad4d23f1c19dc069a73f6f81c" title="Evaluate a position at depth 1." alt="" coords="1073,1375,1179,1401"/>
+<area shape="rect" id="node46" href="$search_8h.html#a8a43da851ac973c05d97d5e87fde6809" title="Evaluate a position at depth 2." alt="" coords="878,1375,985,1401"/>
+<area shape="rect" id="node47" href="$endgame_8c.html#ac96f36afea5ad7a93d9f729e45bd75c7" title="Evaluate a position using a shallow NWS." alt="" coords="875,1831,987,1857"/>
+<area shape="rect" id="node48" href="$endgame_8c.html#aff267e11d577b0aada13623ab8b2d870" title="Get the final score." alt="" coords="1069,1831,1183,1857"/>
+<area shape="rect" id="node49" href="$perft_8c.html#a57b8a15d869c73d526108aff1789864a" title="seek a game that reach to a position" alt="" coords="1075,2033,1177,2060"/>
+<area shape="rect" id="node50" href="$perft_8c.html#ae7b1869bd17da35bc80e06b77687f8af" title="Estimate move counts from a single game." alt="" coords="1079,2084,1173,2111"/>
+<area shape="rect" id="node3" href="$play_8h.html#a832fa91041c7b956a83307417104c5b7" title="Play a move." alt="" coords="889,43,973,69"/>
+<area shape="rect" id="node4" href="$play_8h.html#a92db9689e8b1479801da85c81de03729" title="store the game into the opening book" alt="" coords="891,144,972,171"/>
+<area shape="rect" id="node6" href="$search_8h.html#a28c804ee4efbddf56a6207d369bb986c" title="Record best move." alt="" coords="188,329,317,356"/>
+<area shape="rect" id="node8" href="$base_8c.html#aba6e536d7bdd74d06cd2113ba6c56f02" title="Get a position from a Wthor game." alt="" coords="856,245,1007,272"/>
+<area shape="rect" id="node10" href="$book_8h.html#ac816637fe5ee5e425a715aa956814c95" title="Fill a book." alt="" coords="897,347,966,373"/>
+<area shape="rect" id="node12" href="$book_8h.html#a8f3e1532b52a619e016bb134391cc69a" title="Get a variation from the book." alt="" coords="880,616,983,643"/>
+<area shape="rect" id="node13" href="$book_8h.html#a87d157671cb1b0e80eb674a129877e96" title="Play." alt="" coords="891,667,971,693"/>
+<area shape="rect" id="node14" href="$eval__builder_8c.html#a79387d3fa0bede6d227365162dd08ef4" title=" " alt="" coords="869,398,994,439"/>
+<area shape="rect" id="node15" href="$game_8h.html#a59f7db0d1c3317ea4c1c1d801f1544a1" title="Compute the final score of the game, for the initial player." alt="" coords="885,844,978,871"/>
+<area shape="rect" id="node19" href="$root_8c.html#a6ac3c5f991e5a6a40a27d0a9e425aaca" title="Guess a move." alt="" coords="372,464,468,491"/>
+<area shape="rect" id="node20" href="$search_8h.html#ae97296f9f9a8b075a3ec14dc841bd872" title="Check if PV is ok." alt="" coords="894,515,969,541"/>
+<area shape="rect" id="node21" href="$book_8c.html#ae9ee489a468274fd83808c53da0418c9" title="Deviate a position." alt="" coords="873,565,989,592"/>
+</map>

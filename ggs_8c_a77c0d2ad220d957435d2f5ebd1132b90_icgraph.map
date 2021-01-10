@@ -1,0 +1,9 @@
+<map id="ggs_player_free" name="ggs_player_free">
+<area shape="rect" id="node1" title="ggs_player_free" alt="" coords="827,31,940,57"/>
+<area shape="rect" id="node2" href="$ggs_8c.html#aed1c9b0bec668adffa7860290d699c80" title="ggs_MBR_free" alt="" coords="671,31,779,57"/>
+<area shape="rect" id="node3" href="$ggs_8c.html#a03a03a9842cbde232575175831a93846" title="ggs_client_free" alt="" coords="512,31,623,57"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a204889eb5bd05ad4a50bcb819ef86371" title="ui_free_ggs" alt="" coords="375,31,464,57"/>
+<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="249,31,327,57"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node7" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,31,201,57"/>
+</map>

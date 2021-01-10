@@ -1,0 +1,9 @@
+<map id="search_free" name="search_free">
+<area shape="rect" id="node1" title="Free the search allocated ressource." alt="" coords="5,31,96,58"/>
+<area shape="rect" id="node2" href="$eval_8c.html#a0d216a5fcecd600abd20798da218f730" title="Free resources used by the evaluation function." alt="" coords="621,6,696,33"/>
+<area shape="rect" id="node3" href="$hash-lock-free_8c.html#ad7cf2d92557b55871bb4c719ed86553d" title="Free the hashtable." alt="" coords="162,31,241,58"/>
+<area shape="rect" id="node4" href="$ybwc_8c.html#a014d09308199e359679ee70d35346b97" title="Free resources used by the stack of tasks." alt="" coords="144,82,259,109"/>
+<area shape="rect" id="node5" href="$ybwc_8c.html#a7ac944c5b45b2c8870c2eea4d4a140bb" title="Free resources used by a task." alt="" coords="307,82,383,109"/>
+<area shape="rect" id="node6" href="$ybwc_8c.html#aeb7bd64f0f200af48220e3dc4fc4c168" title="Free a search structure of a task." alt="" coords="431,31,573,58"/>
+<area shape="rect" id="node7" href="$util_8c.html#a52efa84f4cfd49921787886d9543ab64" title="Join a thread." alt="" coords="459,82,545,109"/>
+</map>

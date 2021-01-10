@@ -1,0 +1,9 @@
+<map id="game_save_sgf" name="game_save_sgf">
+<area shape="rect" id="node1" title="Write a game to the Generic Game Format (ggf) file." alt="" coords="677,31,792,57"/>
+<area shape="rect" id="node2" href="$game_8h.html#a595f89cddd3a2a79aa60a575cf8e49f0" title=" " alt="" coords="508,5,629,32"/>
+<area shape="rect" id="node7" href="$play_8h.html#aafceeb6413b921ef6a0e44f5fd585de7" title="Save a played game." alt="" coords="377,56,457,83"/>
+<area shape="rect" id="node3" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="375,5,460,32"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,31,327,57"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,31,181,57"/>
+</map>

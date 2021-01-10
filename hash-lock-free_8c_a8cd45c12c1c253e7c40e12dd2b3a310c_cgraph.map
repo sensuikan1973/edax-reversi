@@ -1,0 +1,7 @@
+<map id="hash_update" name="hash_update">
+<area shape="rect" id="node1" title="update the hash entry" alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node2" href="$hash-lock-free_8c.html#a2b54fb82510eda54054d5b44a706f566" title=" " alt="" coords="160,5,239,32"/>
+<area shape="rect" id="node3" href="$hash-lock-free_8c.html#a47753cf3fd941538e52cd282b3d49e20" title="update an hash table item." alt="" coords="153,56,246,83"/>
+<area shape="rect" id="node4" href="$hash-lock-free_8c.html#a88da9c021a86d5958925d7cca64920f3" title="Upgrade an hash table item." alt="" coords="149,107,249,133"/>
+<area shape="rect" id="node5" href="$hash-lock-free_8c.html#aeafd0b4e6665b357afcff5dd30723c15" title="Transform hash data into a 64 bits key." alt="" coords="161,157,238,184"/>
+</map>

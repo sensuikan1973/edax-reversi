@@ -1,0 +1,6 @@
+<map id="get_rand_bit" name="get_rand_bit">
+<area shape="rect" id="node1" title="Get a random set bit index." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="155,5,229,32"/>
+<area shape="rect" id="node4" href="$util_8c.html#a9787f9579ffe8e42bf7e4e8e179723ab" title="Pseudo&#45;random number generator." alt="" coords="147,56,237,83"/>
+<area shape="rect" id="node3" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="285,5,340,32"/>
+</map>

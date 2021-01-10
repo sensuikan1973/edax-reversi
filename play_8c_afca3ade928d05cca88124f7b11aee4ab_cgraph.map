@@ -1,0 +1,13 @@
+<map id="play_free" name="play_free">
+<area shape="rect" id="node1" title="Free resources." alt="" coords="5,169,80,196"/>
+<area shape="rect" id="node2" href="$play_8c.html#a4a4b7bf94f1ee79c788fbcca3ddc347f" title="Stop pondering." alt="" coords="128,119,268,145"/>
+<area shape="rect" id="node6" href="$search_8c.html#a40c54ba43b59f852d5a56836c1a1005f" title="Free the search allocated ressource." alt="" coords="153,195,243,221"/>
+<area shape="rect" id="node3" href="$util_8c.html#ae20ec7bae5f5bc33f169d416601e2eea" title="sleep for t ms." alt="" coords="349,5,398,32"/>
+<area shape="rect" id="node4" href="$search_8c.html#ad775910af78c46412b5ee4b8bc887b67" title="Stop the search." alt="" coords="317,80,430,107"/>
+<area shape="rect" id="node5" href="$util_8c.html#a52efa84f4cfd49921787886d9543ab64" title="Join a thread." alt="" coords="631,143,717,169"/>
+<area shape="rect" id="node7" href="$eval_8c.html#a0d216a5fcecd600abd20798da218f730" title="Free resources used by the evaluation function." alt="" coords="793,232,868,259"/>
+<area shape="rect" id="node8" href="$hash-lock-free_8c.html#ad7cf2d92557b55871bb4c719ed86553d" title="Free the hashtable." alt="" coords="334,232,413,259"/>
+<area shape="rect" id="node9" href="$ybwc_8c.html#a014d09308199e359679ee70d35346b97" title="Free resources used by the stack of tasks." alt="" coords="316,181,431,208"/>
+<area shape="rect" id="node10" href="$ybwc_8c.html#a7ac944c5b45b2c8870c2eea4d4a140bb" title="Free resources used by a task." alt="" coords="479,181,555,208"/>
+<area shape="rect" id="node11" href="$ybwc_8c.html#aeb7bd64f0f200af48220e3dc4fc4c168" title="Free a search structure of a task." alt="" coords="603,207,745,233"/>
+</map>

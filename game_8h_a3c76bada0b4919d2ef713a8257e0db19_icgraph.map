@@ -1,0 +1,9 @@
+<map id="game_import_wthor" name="game_import_wthor">
+<area shape="rect" id="node1" title="Read a game from a Wthor file." alt="" coords="659,56,795,83"/>
+<area shape="rect" id="node2" href="$base_8h.html#a3e183ddd8d478a9ca8c0db54a5fea86b" title="Load a game database." alt="" coords="529,56,611,83"/>
+<area shape="rect" id="node3" href="$base_8h.html#af4d757c895b3da3210a3af34d6c9f3c0" title="Base Compare." alt="" coords="375,5,481,32"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,56,327,83"/>
+<area shape="rect" id="node7" href="$base_8h.html#a32b5e98534ab89df1fcc8ef41afaf295" title="Save a game database." alt="" coords="385,107,471,133"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,31,56,57"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,56,181,83"/>
+</map>

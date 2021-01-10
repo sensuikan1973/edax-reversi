@@ -1,0 +1,13 @@
+<map id="board_update" name="board_update">
+<area shape="rect" id="node1" title="Update a board." alt="" coords="5,56,105,83"/>
+<area shape="rect" id="node2" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="175,31,271,57"/>
+<area shape="rect" id="node11" href="$board_8c.html#a4d389fb0245969a39744349230ce7703" title="Swap players." alt="" coords="153,81,293,108"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="341,5,444,32"/>
+<area shape="rect" id="node4" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="349,56,436,83"/>
+<area shape="rect" id="node5" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="637,5,711,32"/>
+<area shape="rect" id="node7" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="492,56,583,83"/>
+<area shape="rect" id="node8" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="631,107,717,133"/>
+<area shape="rect" id="node6" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="801,5,855,32"/>
+<area shape="rect" id="node10" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="939,107,977,133"/>
+<area shape="rect" id="node9" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="765,157,891,184"/>
+</map>

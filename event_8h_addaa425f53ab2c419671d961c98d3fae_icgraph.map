@@ -1,0 +1,19 @@
+<map id="event_exist" name="event_exist">
+<area shape="rect" id="node1" title="Check if there is a message." alt="" coords="1145,129,1233,156"/>
+<area shape="rect" id="node2" href="$event_8h.html#a6987af9067aaced7dbfed6e549bcc346" title="Peek the first message from the list." alt="" coords="948,155,1097,181"/>
+<area shape="rect" id="node17" href="$ui_8h.html#a0476c20352229b93df296e33ce5c9d5d" title="ui_event_exist" alt="" coords="451,129,556,156"/>
+<area shape="rect" id="node3" href="$event_8h.html#ab85d78b8e6eadeb47217db9966dbc311" title="Wait input." alt="" coords="797,129,882,156"/>
+<area shape="rect" id="node14" href="$event_8h.html#a348eb940967730d6ae6f2a83c170fa0c" title=" " alt="" coords="779,180,900,207"/>
+<area shape="rect" id="node15" href="$ui_8h.html#aa22cd61a0a7a68b8b196925f256bdb6e" title="Wait input." alt="" coords="786,231,893,257"/>
+<area shape="rect" id="node4" href="$cassio_8c.html#a36f07e28d44d522ac8aaa5d846a3c473" title="Engine wait input." alt="" coords="604,180,731,207"/>
+<area shape="rect" id="node9" href="$ui_8h.html#a9cd12ca7735d38433023a06ba2e1cefb" title="Wait input." alt="" coords="452,79,555,105"/>
+<area shape="rect" id="node5" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="458,180,549,207"/>
+<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,205,56,232"/>
+<area shape="rect" id="node7" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="299,180,397,207"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="136,155,213,181"/>
+<area shape="rect" id="node10" href="$ui_8h.html#a64b6fa1569b8f1e12b114e423043d8e6" title="Loop event." alt="" coords="304,129,392,156"/>
+<area shape="rect" id="node11" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="293,79,403,105"/>
+<area shape="rect" id="node12" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="294,28,402,55"/>
+<area shape="rect" id="node13" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="104,28,245,55"/>
+<area shape="rect" id="node16" href="$ui_8h.html#a3e0f22ce5485b8400b2f9197483c1052" title="ui_loop_ggs" alt="" coords="622,231,713,257"/>
+</map>

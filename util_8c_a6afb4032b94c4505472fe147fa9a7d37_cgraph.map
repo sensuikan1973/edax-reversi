@@ -1,0 +1,4 @@
+<map id="parse_real" name="parse_real">
+<area shape="rect" id="node1" title="Parse a real number (as a double floating point)." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="136,5,271,32"/>
+</map>

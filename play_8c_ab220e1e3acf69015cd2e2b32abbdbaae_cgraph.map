@@ -1,0 +1,52 @@
+<map id="play_alternative" name="play_alternative">
+<area shape="rect" id="node1" title="Seek for the best alternative move." alt="" coords="5,1525,117,1552"/>
+<area shape="rect" id="node2" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="182,107,274,133"/>
+<area shape="rect" id="node3" href="$board_8c.html#a0e6cff6e714bcb714e2b9b2d7b9fbec6" title="Compute a hash code." alt="" coords="896,1373,1045,1400"/>
+<area shape="rect" id="node4" href="$board_8c.html#aa02d38e320edf6b9d695e2b1eed6c85f" title="Compute a board resulting of a move played on a previous board." alt="" coords="185,1576,271,1603"/>
+<area shape="rect" id="node5" href="$board_8c.html#a66911c3a003f5fb27a87503b5bb04f6d" title="unique board" alt="" coords="179,157,277,184"/>
+<area shape="rect" id="node15" href="$hash-lock-free_8c.html#aa8174fffc6a72ed346980e4e094262f2" title="Erase an hash table entry." alt="" coords="901,1475,1041,1501"/>
+<area shape="rect" id="node17" href="$move_8c.html#aaca84d935896de10246179ca27982929" title="Exclude a move." alt="" coords="167,1627,289,1653"/>
+<area shape="rect" id="node18" href="$root_8c.html#ae8b727693fc7a90e504bd8abec158c84" title="Search the bestmove of a given board." alt="" coords="185,613,271,640"/>
+<area shape="rect" id="node47" href="$search_8c.html#a99ecde00b1e5da1b9366b69ec1971568" title="Set the board to analyze." alt="" coords="165,1677,291,1704"/>
+<area shape="rect" id="node50" href="$search_8c.html#a06bb5a695032b0cc1d8e8ca51e231ad7" title="Set the search level." alt="" coords="168,1728,288,1755"/>
+<area shape="rect" id="node6" href="$board_8c.html#a849436f17b60e89ed91f8e5013ed9d04" title="Check board consistency." alt="" coords="555,5,651,32"/>
+<area shape="rect" id="node10" href="$board_8c.html#a491a2e6d66c4c479a913292594db7b01" title="Compare two board." alt="" coords="358,157,469,184"/>
+<area shape="rect" id="node11" href="$board_8c.html#aefe9a86ea799322c9c9da6255ebb9d29" title="symetric board" alt="" coords="360,107,467,133"/>
+<area shape="rect" id="node7" href="$bit_8c.html#a519b18f67de9b8edbd98f687a13b45f5" title="Print an unsigned long long as a board." alt="" coords="732,56,835,83"/>
+<area shape="rect" id="node8" href="$board_8c.html#a27ccb92684d9e7194eeb3bc34311ad55" title="Print out the board." alt="" coords="740,5,827,32"/>
+<area shape="rect" id="node9" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="933,132,1008,159"/>
+<area shape="rect" id="node12" href="$bit_8c.html#a7826d84dcc6e19830bf93448eee22f4c" title="Mirror the unsigned long long (exchange the line 1 &#45; 8, 2 &#45; 7, 3 &#45; 6 &amp; 4 &#45; 5)." alt="" coords="545,157,662,184"/>
+<area shape="rect" id="node13" href="$bit_8c.html#a62b47100450786b2738045b2f8aeebb3" title="Transpose the unsigned long long (symetry % A1&#45;H8 diagonal)." alt="" coords="564,56,643,83"/>
+<area shape="rect" id="node14" href="$bit_8c.html#a896c459f1b772f5f4da4e72a0953330b" title="Mirror the unsigned long long (exchange the lines A &#45; H, B &#45; G, C &#45; F &amp; D &#45; E.)." alt="" coords="551,107,655,133"/>
+<area shape="rect" id="node16" href="$hash-lock-free_8c.html#aeafd0b4e6665b357afcff5dd30723c15" title="Transform hash data into a 64 bits key." alt="" coords="1093,1424,1171,1451"/>
+<area shape="rect" id="node19" href="$search_8c.html#a7859966133ce35e30a9ffd76093ca1c7" title="Compute the pv_extension." alt="" coords="542,613,665,640"/>
+<area shape="rect" id="node20" href="$board_8c.html#a60e2b7416c26d30fd43e091c954d43b8" title="Estimate the stability." alt="" coords="368,385,459,412"/>
+<area shape="rect" id="node24" href="$hash-lock-free_8c.html#a8e816e06f47bd2f37528bef5ae64cf8d" title="Clear the hashtable." alt="" coords="371,335,456,361"/>
+<area shape="rect" id="node25" href="$root_8c.html#a0e77250a21e5f5d70917a5356c22f5f3" title="Iterative deepening." alt="" coords="346,943,481,969"/>
+<area shape="rect" id="node31" href="$search_8c.html#a66fbe49d1b42845bef2a07d0219a525c" title="Return the number of nodes searched." alt="" coords="899,715,1042,741"/>
+<area shape="rect" id="node37" href="$move_8c.html#a13dc373d7c20c99db5dfbc1b70e20d15" title="Check if the list is empty." alt="" coords="538,1424,669,1451"/>
+<area shape="rect" id="node41" href="$root_8c.html#abd96ac683822561d0ca3e2981a6585da" title="bound root scores according to stable squares" alt="" coords="552,512,655,539"/>
+<area shape="rect" id="node42" href="$midgame_8c.html#a35172421197c3d988a7ea86009a777c9" title="evaluate a midgame position with the evaluation function." alt="" coords="550,563,657,589"/>
+<area shape="rect" id="node43" href="$search_8c.html#a5710e38d5c67dd03d99307b442d00a63" title="Return the time spent by the search." alt="" coords="734,309,833,336"/>
+<area shape="rect" id="node44" href="$search_8c.html#a0338bb851c866a94b8451004068fa394" title="Initialize the alloted time." alt="" coords="355,664,472,691"/>
+<area shape="rect" id="node45" href="$stats_8c.html#af15b5cd7664fb5e595189ba085486f45" title="Print statistics." alt="" coords="360,715,467,741"/>
+<area shape="rect" id="node46" href="$stats_8c.html#a47fa8a262b1bbac35e09be17c9edda25" title="Cumulate node counts from the last search." alt="" coords="339,765,488,792"/>
+<area shape="rect" id="node21" href="$board_8c.html#a95361f5ad60bdcee3139f74bf3f111b7" title="Get full lines." alt="" coords="554,411,653,437"/>
+<area shape="rect" id="node22" href="$board_8c.html#a2d71c0e083142ec8316c0df0b2e83e42" title="Get stable edge." alt="" coords="545,360,662,387"/>
+<area shape="rect" id="node23" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="764,360,803,387"/>
+<area shape="rect" id="node26" href="$root_8c.html#ad7e7acc5e26be0248b45eff34678ee3b" title="Aspiration window." alt="" coords="541,1019,665,1045"/>
+<area shape="rect" id="node27" href="$move_8c.html#a344c538364b7077c15a57c8ec0c4a947" title="Return the first move of the list." alt="" coords="734,1145,833,1172"/>
+<area shape="rect" id="node28" href="$root_8c.html#ae557ecf41efe8b033969349603c765e2" title="Record best move." alt="" coords="719,1069,848,1096"/>
+<area shape="rect" id="node29" href="$hash-lock-free_8c.html#a6f54ce833279fec9ac110dcce45565ad" title="Find an hash table entry according to the evaluated board hash codes." alt="" coords="933,1323,1008,1349"/>
+<area shape="rect" id="node30" href="$move_8c.html#a833b8b36407a601e79b24179cbebbef8" title="Initialize a sequence of moves." alt="" coords="937,1019,1004,1045"/>
+<area shape="rect" id="node32" href="$board_8c.html#ae1a532d6eaa0e55357d0f4b9cd659b88" title="Check if a player can move." alt="" coords="562,664,645,691"/>
+<area shape="rect" id="node33" href="$root_8c.html#a80faf8cf7370a25a3c903ba70ed1f99b" title="Retrieve the last level of the search." alt="" coords="732,1373,835,1400"/>
+<area shape="rect" id="node34" href="$hash-lock-free_8c.html#ae6d68d5b1285c0f7e6ca01891be833b4" title="print HashData content." alt="" coords="562,765,645,792"/>
+<area shape="rect" id="node35" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="548,816,659,843"/>
+<area shape="rect" id="node36" href="$move_8c.html#a9b4b1c7be1b237198713f0355f60fe28" title="Evaluate a list of move in order to sort it." alt="" coords="540,867,667,893"/>
+<area shape="rect" id="node38" href="$move_8c.html#a38bfc9e186591a76e2b3c673075effd3" title="Sort all moves." alt="" coords="553,917,653,944"/>
+<area shape="rect" id="node39" href="$util_8c.html#a9787f9579ffe8e42bf7e4e8e179723ab" title="Pseudo&#45;random number generator." alt="" coords="558,1120,649,1147"/>
+<area shape="rect" id="node40" href="$search_8c.html#a7efa994089b97a5515654b48a8040238" title="Give more time." alt="" coords="536,1272,671,1299"/>
+<area shape="rect" id="node48" href="$search_8c.html#a507955218cafd96b85d29981f3ea6f8d" title="Get a list of legal moves." alt="" coords="342,1703,485,1729"/>
+<area shape="rect" id="node49" href="$search_8c.html#ad93ea95428d09b19c1491ee9378ad2b3" title="Set up various structure once the board has been set." alt="" coords="363,1652,463,1679"/>
+</map>

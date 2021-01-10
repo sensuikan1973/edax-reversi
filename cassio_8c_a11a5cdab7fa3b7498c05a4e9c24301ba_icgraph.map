@@ -1,0 +1,8 @@
+<map id="engine_create_search" name="engine_create_search">
+<area shape="rect" id="node1" title="Create engine search." alt="" coords="645,5,795,32"/>
+<area shape="rect" id="node2" href="$cassio_8h.html#ab072fb80ef54455dae0b96a71d5ee845" title="Create a new Othello engine." alt="" coords="513,5,597,32"/>
+<area shape="rect" id="node3" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="375,5,465,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,31,327,57"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,56,181,83"/>
+</map>

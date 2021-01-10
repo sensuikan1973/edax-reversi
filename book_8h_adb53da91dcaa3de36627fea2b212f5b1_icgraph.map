@@ -1,0 +1,17 @@
+<map id="book_get_moves" name="book_get_moves">
+<area shape="rect" id="node1" title="Get a list of moves from the book." alt="" coords="813,107,935,133"/>
+<area shape="rect" id="node2" href="$book_8c.html#a8996ed1153616ffa18e6819b88e106c9" title="Check positions from a game." alt="" coords="627,5,757,32"/>
+<area shape="rect" id="node7" href="$book_8c.html#a65253e739b9201531bad8dc071d24d11" title="Extract book lines to a game base." alt="" coords="633,56,751,83"/>
+<area shape="rect" id="node9" href="$play_8c.html#a0a53dfd153477f6332c030733e3a2d56" title="Seek for the best alternative move from the opening book." alt="" coords="619,107,765,133"/>
+<area shape="rect" id="node11" href="$play_8h.html#a8604efa4b0929b557718c0196a1aa8ee" title="Start thinking." alt="" coords="458,157,531,184"/>
+<area shape="rect" id="node13" href="$xboard_8c.html#a498d40e5c213c58ed6f986dbe834048b" title="Send a move from the book, if available." alt="" coords="645,208,739,235"/>
+<area shape="rect" id="node3" href="$book_8h.html#a1ece654156c4071320d82f27fdd70a94" title="Check positions from a game database." alt="" coords="431,5,558,32"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="251,107,349,133"/>
+<area shape="rect" id="node5" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,132,56,159"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,157,181,184"/>
+<area shape="rect" id="node8" href="$book_8h.html#af00002ac230ead928a6bab34f5513cbf" title="Extract book draws to a game base." alt="" coords="419,56,571,83"/>
+<area shape="rect" id="node10" href="$play_8h.html#a43b8c6597e0a8d8aa73a39b3e281d464" title="Analyze a played game." alt="" coords="429,107,560,133"/>
+<area shape="rect" id="node12" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="245,157,355,184"/>
+<area shape="rect" id="node14" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="441,208,549,235"/>
+<area shape="rect" id="node15" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="229,259,371,285"/>
+</map>

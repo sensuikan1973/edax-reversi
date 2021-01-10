@@ -1,0 +1,6 @@
+<map id="search_continue" name="search_continue">
+<area shape="rect" id="node1" title="Check if it can iterate more..." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$search_8c.html#afcdfa9c4ac42ff535885efeb671ffe8d" title="Return the time spent by the search." alt="" coords="171,5,264,32"/>
+<area shape="rect" id="node3" href="$search_8c.html#a5710e38d5c67dd03d99307b442d00a63" title="Return the time spent by the search." alt="" coords="312,5,411,32"/>
+<area shape="rect" id="node4" href="$search_8c.html#a66fbe49d1b42845bef2a07d0219a525c" title="Return the number of nodes searched." alt="" coords="459,5,601,32"/>
+</map>

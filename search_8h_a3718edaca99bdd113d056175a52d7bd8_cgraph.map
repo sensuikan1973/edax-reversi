@@ -1,0 +1,6 @@
+<map id="search_solve_0" name="search_solve_0">
+<area shape="rect" id="node1" title="Get the final score." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$endgame_8c.html#aac6540c0286da54d4cdd700e70bfecdf" title="Get the final score." alt="" coords="167,5,273,32"/>
+<area shape="rect" id="node3" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="321,5,396,32"/>
+<area shape="rect" id="node4" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="444,5,499,32"/>
+</map>

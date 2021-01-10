@@ -1,0 +1,20 @@
+<map id="ggs_board" name="ggs_board">
+<area shape="rect" id="node1" title="ggs_board" alt="" coords="5,284,88,311"/>
+<area shape="rect" id="node2" href="$ggs_8c.html#af15451e1f7804fb5891bf5c0fd8075aa" title="ggs_match_type_set" alt="" coords="136,11,279,37"/>
+<area shape="rect" id="node4" href="$ggs_8c.html#a7494470ebe53d867ce2dcd438fa5b583" title="ggs_parse_clock" alt="" coords="147,119,267,145"/>
+<area shape="rect" id="node5" href="$ggs_8c.html#ac17593eca953b5b02fa56abb7b1ef42d" title="ggs_parse_int" alt="" coords="345,56,447,83"/>
+<area shape="rect" id="node11" href="$util_8c.html#a80ed7d41ac3a6c656ad36013d632a793" title="Parse a field." alt="" coords="354,157,438,184"/>
+<area shape="rect" id="node12" href="$ggs_8c.html#ac637c7bb4b515a0368d814c2e10b9342" title="ggs_parse_double" alt="" coords="333,309,459,336"/>
+<area shape="rect" id="node13" href="$ggs_8c.html#a93d1fc65878813bdec56b646039e195e" title="ggs_parse_move" alt="" coords="147,259,268,285"/>
+<area shape="rect" id="node15" href="$ggs_8c.html#a2fd026583915c73831fb9401717464f3" title="ggs_player_set" alt="" coords="153,360,262,387"/>
+<area shape="rect" id="node16" href="$util_8c.html#a37223454580e3fd41f4bddb3c3970da5" title="Parse a word." alt="" coords="351,411,441,437"/>
+<area shape="rect" id="node17" href="$util_8c.html#ac3369230f66963a04a0e62b04685ae3c" title="Duplicate a string." alt="" coords="339,461,453,488"/>
+<area shape="rect" id="node18" href="$util_8c.html#a243880ebe2e0b96b3223023c706d1ba5" title="Skip word." alt="" coords="147,512,267,539"/>
+<area shape="rect" id="node3" href="$util_8c.html#a892b51d59129915627472acdf3265d3b" title="Convert a string into an integer." alt="" coords="349,5,443,32"/>
+<area shape="rect" id="node8" href="$ggs_8c.html#a6b2f2f03bb067952199d314fbd88f17d" title="ggs_parse_move" alt="" coords="339,107,453,133"/>
+<area shape="rect" id="node6" href="$util_8c.html#a0fad57b1fd6851c6cde5258a897b7a61" title="Parse an integer." alt="" coords="669,5,744,32"/>
+<area shape="rect" id="node7" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="796,183,931,209"/>
+<area shape="rect" id="node9" href="$util_8c.html#ae7e1797deb6cddf421419046a869bb7c" title="Read time as &quot;D:HH:MM:SS.C&quot;." alt="" coords="513,107,617,133"/>
+<area shape="rect" id="node10" href="$util_8c.html#a6afb4032b94c4505472fe147fa9a7d37" title="Parse a real number (as a double floating point)." alt="" coords="665,157,748,184"/>
+<area shape="rect" id="node14" href="$util_8c.html#a5648be0e41416bac513e53441d3cfd36" title="Convert the two first chars of a string into a coordinate." alt="" coords="327,208,465,235"/>
+</map>
