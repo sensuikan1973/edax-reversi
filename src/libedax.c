@@ -548,7 +548,7 @@ DLL_API int edax_get_bookmove_with_position_by_moves(char* moves, MoveList* move
     int sym;
     sym = play_get_bookmove_with_position(play, move_list, position);
     play_free(play);
-    return sym;
+    return -2;
 }
 
 /**
