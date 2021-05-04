@@ -547,7 +547,7 @@ DLL_API int edax_get_bookmove_with_position_by_moves(const char* moves, MoveList
     play_game(play, moves);
     int sym;
     sym = play_get_bookmove_with_position(play, move_list, position);
-		printf("%f", sym);
+		fprintf(stderr, "%f", sym);
     play_free(play);
     return sym;
 }
