@@ -543,11 +543,11 @@ DLL_API int edax_get_bookmove_with_position_by_moves(const char* moves, MoveList
     Play *play;
     play = (Play*) malloc(sizeof (Play));
     play_init(play, g_ui->book);
-    // play_new(play);
     string_to_lowercase(moves);
     play_game(play, moves);
     int sym;
     sym = play_get_bookmove_with_position(play, move_list, position);
+		printf("%f", sym);
     play_free(play);
     return sym;
 }
