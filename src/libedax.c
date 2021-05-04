@@ -539,16 +539,15 @@ DLL_API int edax_get_bookmove_with_position(MoveList* move_list, Position* posit
  * @param position result (out parameter).
  * @return symetry. If -1, it means "no book" or "game over".
  */
-DLL_API int edax_get_bookmove_with_position_by_moves(const char* moves, MoveList* move_list, Position* position) {
+DLL_API int edax_get_bookmove_with_position_by_moves(char* moves, MoveList* move_list, Position* position) {
     Play *play;
     play = (Play*) malloc(sizeof (Play));
     play_init(play, g_ui->book);
     string_to_lowercase(moves);
     play_game(play, moves);
     int sym;
-    return play_get_bookmove_with_position(play, move_list, position);
-		fprintf(stderr, "%d", sym);
-    // play_free(play);
+    sym = play_get_bookmove_with_position(play, move_list, position);
+    play_free(play);
     return sym;
 }
 
