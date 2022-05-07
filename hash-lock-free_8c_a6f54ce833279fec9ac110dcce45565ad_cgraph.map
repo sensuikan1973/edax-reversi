@@ -1,4 +1,0 @@
-<map id="hash_get" name="hash_get">
-<area shape="rect" id="node1" title="Find an hash table entry according to the evaluated board hash codes." alt="" coords="5,5,80,32"/>
-<area shape="rect" id="node2" href="$hash-lock-free_8c.html#aeafd0b4e6665b357afcff5dd30723c15" title="Transform hash data into a 64 bits key." alt="" coords="128,5,205,32"/>
-</map>

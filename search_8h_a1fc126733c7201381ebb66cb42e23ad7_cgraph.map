@@ -1,8 +1,0 @@
-<map id="search_check_timeout" name="search_check_timeout">
-<area shape="rect" id="node1" title="Check if it can iterate more..." alt="" coords="5,56,159,83"/>
-<area shape="rect" id="node2" href="$search_8c.html#a7efa994089b97a5515654b48a8040238" title="Give more time." alt="" coords="207,5,341,32"/>
-<area shape="rect" id="node3" href="$search_8c.html#afcdfa9c4ac42ff535885efeb671ffe8d" title="Return the time spent by the search." alt="" coords="389,31,483,57"/>
-<area shape="rect" id="node6" href="$search_8c.html#ad775910af78c46412b5ee4b8bc887b67" title="Stop the search." alt="" coords="217,131,331,157"/>
-<area shape="rect" id="node4" href="$search_8c.html#a5710e38d5c67dd03d99307b442d00a63" title="Return the time spent by the search." alt="" coords="531,31,629,57"/>
-<area shape="rect" id="node5" href="$search_8c.html#a66fbe49d1b42845bef2a07d0219a525c" title="Return the number of nodes searched." alt="" coords="677,31,820,57"/>
-</map>

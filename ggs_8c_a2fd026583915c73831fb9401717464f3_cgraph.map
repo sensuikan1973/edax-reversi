@@ -1,8 +1,0 @@
-<map id="ggs_player_set" name="ggs_player_set">
-<area shape="rect" id="node1" title="ggs_player_set" alt="" coords="5,81,115,108"/>
-<area shape="rect" id="node2" href="$ggs_8c.html#ac637c7bb4b515a0368d814c2e10b9342" title="ggs_parse_double" alt="" coords="163,5,289,32"/>
-<area shape="rect" id="node4" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="475,56,609,83"/>
-<area shape="rect" id="node5" href="$util_8c.html#a37223454580e3fd41f4bddb3c3970da5" title="Parse a word." alt="" coords="337,107,427,133"/>
-<area shape="rect" id="node6" href="$util_8c.html#ac3369230f66963a04a0e62b04685ae3c" title="Duplicate a string." alt="" coords="169,157,283,184"/>
-<area shape="rect" id="node3" href="$util_8c.html#a6afb4032b94c4505472fe147fa9a7d37" title="Parse a real number (as a double floating point)." alt="" coords="341,5,423,32"/>
-</map>

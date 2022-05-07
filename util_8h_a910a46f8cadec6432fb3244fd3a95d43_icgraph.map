@@ -1,8 +1,0 @@
-<map id="get_cpu_number" name="get_cpu_number">
-<area shape="rect" id="node1" title="Get the number of cpus or cores on the machine." alt="" coords="529,56,648,83"/>
-<area shape="rect" id="node2" href="$hash-lock_8c.html#aa53b616d0e04626af0097b9cd26551b0" title="Initialise the hashtable." alt="" coords="391,5,465,32"/>
-<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,132,56,159"/>
-<area shape="rect" id="node4" href="$options_8h.html#af57f2161484c8873782f47319534bf75" title="Keep options between realistic values." alt="" coords="375,107,481,133"/>
-<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,183,327,209"/>
-<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,208,181,235"/>
-</map>

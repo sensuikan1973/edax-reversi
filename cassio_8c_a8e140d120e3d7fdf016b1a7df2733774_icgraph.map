@@ -1,9 +1,0 @@
-<map id="is_position_new" name="is_position_new">
-<area shape="rect" id="node1" title=" " alt="" coords="728,31,843,57"/>
-<area shape="rect" id="node2" href="$cassio_8h.html#aeaf9e2a47f743c88f7a39ce52cf1cd6d" title="Endgame search." alt="" coords="513,5,680,32"/>
-<area shape="rect" id="node7" href="$cassio_8h.html#a018fe57eba634b34c2a2b3b18b30914f" title="Midgame search." alt="" coords="513,56,680,83"/>
-<area shape="rect" id="node3" href="$cassio_8h.html#a3c5b977358cdb105de103ac2c2829f01" title="Loop event." alt="" coords="375,31,465,57"/>
-<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,31,56,57"/>
-<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="229,56,327,83"/>
-<area shape="rect" id="node6" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="104,81,181,108"/>
-</map>

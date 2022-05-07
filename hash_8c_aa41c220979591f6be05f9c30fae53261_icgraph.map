@@ -1,6 +1,0 @@
-<map id="writeable_level" name="writeable_level">
-<area shape="rect" id="node1" title="make a level from date, cost, depth &amp; selectivity." alt="" coords="140,56,248,83"/>
-<area shape="rect" id="node2" href="$hash_8h.html#a87611931999ca64678c0dbeb62e3adcd" title="feed hash table (from Cassio)." alt="" coords="7,5,90,32"/>
-<area shape="rect" id="node3" href="$hash_8h.html#a6ab5df471dae00b946bbc1daa51a8562" title="Store an hashtable item." alt="" coords="5,56,92,83"/>
-<area shape="rect" id="node4" href="$hash_8h.html#a5721fb942b2ebcf9ec9731b6d4b611b7" title="Store an hashtable item." alt="" coords="5,107,92,133"/>
-</map>

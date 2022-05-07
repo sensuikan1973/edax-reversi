@@ -1,9 +1,0 @@
-<map id="shapehash_append" name="shapehash_append">
-<area shape="rect" id="node1" title="Append a shape to the hash table." alt="" coords="5,56,140,83"/>
-<area shape="rect" id="node2" href="$perft_8c.html#af14ba86d0c8c1c9596b884822b81f50c" title="Compute a hash code." alt="" coords="188,5,340,32"/>
-<area shape="rect" id="node3" href="$perft_8c.html#a3d95b352f91770d4eeb0330f57716103" title="unique shape." alt="" coords="213,56,315,83"/>
-<area shape="rect" id="node7" href="$perft_8c.html#ad3aedea4b4ff00a6000d6a431f649c6e" title="Append a shape into the array." alt="" coords="197,107,331,133"/>
-<area shape="rect" id="node4" href="$bit_8c.html#a7826d84dcc6e19830bf93448eee22f4c" title="Mirror the unsigned long long (exchange the line 1 &#45; 8, 2 &#45; 7, 3 &#45; 6 &amp; 4 &#45; 5)." alt="" coords="388,5,505,32"/>
-<area shape="rect" id="node5" href="$bit_8c.html#a62b47100450786b2738045b2f8aeebb3" title="Transpose the unsigned long long (symetry % A1&#45;H8 diagonal)." alt="" coords="407,56,486,83"/>
-<area shape="rect" id="node6" href="$bit_8c.html#a896c459f1b772f5f4da4e72a0953330b" title="Mirror the unsigned long long (exchange the lines A &#45; H, B &#45; G, C &#45; F &amp; D &#45; E.)." alt="" coords="395,107,499,133"/>
-</map>

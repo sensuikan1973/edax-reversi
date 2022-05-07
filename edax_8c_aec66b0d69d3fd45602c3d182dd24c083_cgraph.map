@@ -1,8 +1,0 @@
-<map id="edax_observer" name="edax_observer">
-<area shape="rect" id="node1" title="default search oberver." alt="" coords="5,31,112,57"/>
-<area shape="rect" id="node2" href="$search_8c.html#a67ebbff0df886828d1dd767a949c7a15" title="Print the current search result." alt="" coords="327,31,413,57"/>
-<area shape="rect" id="node6" href="$search_8c.html#af9e93aeefcb80dd5aa756a4027d2e880" title="default observer." alt="" coords="160,56,279,83"/>
-<area shape="rect" id="node3" href="$move_8c.html#a0ae53ce219676b29cf33f8e7586f75a9" title="Print a move sequence." alt="" coords="463,5,538,32"/>
-<area shape="rect" id="node5" href="$util_8c.html#a0379cb7b898e08489b0dcda99430ef96" title="Print time as &quot;D:HH:MM:SS.CC&quot;." alt="" coords="461,56,540,83"/>
-<area shape="rect" id="node4" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="588,5,675,32"/>
-</map>

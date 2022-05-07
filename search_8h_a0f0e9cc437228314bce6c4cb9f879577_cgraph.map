@@ -1,9 +1,0 @@
-<map id="search_SC_NWS" name="search_SC_NWS">
-<area shape="rect" id="node1" title="Stability Cutoff (TC)." alt="" coords="5,81,129,108"/>
-<area shape="rect" id="node2" href="$board_8c.html#a60e2b7416c26d30fd43e091c954d43b8" title="Estimate the stability." alt="" coords="177,81,268,108"/>
-<area shape="rect" id="node3" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="337,5,412,32"/>
-<area shape="rect" id="node5" href="$board_8c.html#a95361f5ad60bdcee3139f74bf3f111b7" title="Get full lines." alt="" coords="325,56,424,83"/>
-<area shape="rect" id="node6" href="$board_8c.html#a2d71c0e083142ec8316c0df0b2e83e42" title="Get stable edge." alt="" coords="316,107,433,133"/>
-<area shape="rect" id="node7" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="489,132,528,159"/>
-<area shape="rect" id="node4" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="481,5,536,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="task_free" name="task_free">
-<area shape="rect" id="node1" title="Free resources used by a task." alt="" coords="5,31,81,57"/>
-<area shape="rect" id="node2" href="$ybwc_8c.html#aeb7bd64f0f200af48220e3dc4fc4c168" title="Free a search structure of a task." alt="" coords="129,5,272,32"/>
-<area shape="rect" id="node4" href="$util_8c.html#a52efa84f4cfd49921787886d9543ab64" title="Join a thread." alt="" coords="158,56,243,83"/>
-<area shape="rect" id="node3" href="$eval_8c.html#a0d216a5fcecd600abd20798da218f730" title="Free resources used by the evaluation function." alt="" coords="320,5,395,32"/>
-</map>

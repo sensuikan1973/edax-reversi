@@ -1,6 +1,0 @@
-<map id="book_save" name="book_save">
-<area shape="rect" id="node1" title="Save an opening book." alt="" coords="5,31,91,57"/>
-<area shape="rect" id="node2" href="$book_8c.html#afe22572623333b9e82494984e238f444" title="Set book date." alt="" coords="139,5,245,32"/>
-<area shape="rect" id="node3" href="$book_8c.html#a93a3c5e63c600de569816cd15c187d15" title="Write a position." alt="" coords="141,56,243,83"/>
-<area shape="rect" id="node4" href="$book_8c.html#a9f1fe50f540a076dbb42e68bdc5d4904" title="write a link." alt="" coords="293,56,371,83"/>
-</map>

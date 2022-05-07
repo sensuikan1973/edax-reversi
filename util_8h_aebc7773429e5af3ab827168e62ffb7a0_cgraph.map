@@ -1,6 +1,0 @@
-<map id="string_to_time" name="string_to_time">
-<area shape="rect" id="node1" title="Read time as &quot;D:HH:MM:SS.C&quot;." alt="" coords="5,56,109,83"/>
-<area shape="rect" id="node2" href="$util_8c.html#a0fad57b1fd6851c6cde5258a897b7a61" title="Parse an integer." alt="" coords="161,5,236,32"/>
-<area shape="rect" id="node3" href="$util_8c.html#a35508e8fcec689d875231b2f93fbe4a5" title="Skip spaces." alt="" coords="288,56,423,83"/>
-<area shape="rect" id="node4" href="$util_8c.html#a6afb4032b94c4505472fe147fa9a7d37" title="Parse a real number (as a double floating point)." alt="" coords="157,107,240,133"/>
-</map>

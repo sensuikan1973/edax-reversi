@@ -1,5 +1,0 @@
-<map id="position_array_remove" name="position_array_remove">
-<area shape="rect" id="node1" title="Remove a position from an array." alt="" coords="5,31,157,57"/>
-<area shape="rect" id="node2" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="207,5,299,32"/>
-<area shape="rect" id="node3" href="$book_8c.html#afe76ed1891952cff94868af23806d294" title="Free resources used by a position." alt="" coords="205,56,301,83"/>
-</map>

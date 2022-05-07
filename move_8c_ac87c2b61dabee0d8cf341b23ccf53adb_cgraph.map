@@ -1,4 +1,0 @@
-<map id="movelist_best" name="movelist_best">
-<area shape="rect" id="node1" title="Return the best move of the list." alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node2" href="$move_8c.html#af32bd5c1897e4e470f7cafd35e409dbf" title="Return the next best move from the list." alt="" coords="156,5,273,32"/>
-</map>

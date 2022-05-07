@@ -1,7 +1,0 @@
-<map id="parse_ggf" name="parse_ggf">
-<area shape="rect" id="node1" title="Parse a ggf game from a string." alt="" coords="532,31,611,57"/>
-<area shape="rect" id="node2" href="$ui_8h.html#a901a5be140ecd82d10e30c9ef9f51dee" title="Loop event." alt="" coords="375,31,484,57"/>
-<area shape="rect" id="node3" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="249,31,327,57"/>
-<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
-<area shape="rect" id="node5" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,31,201,57"/>
-</map>

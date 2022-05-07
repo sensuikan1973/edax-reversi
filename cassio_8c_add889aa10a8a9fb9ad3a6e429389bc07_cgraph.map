@@ -1,7 +1,0 @@
-<map id="engine_observer" name="engine_observer">
-<area shape="rect" id="node1" title="Call back function use by search to print its results." alt="" coords="5,56,123,83"/>
-<area shape="rect" id="node2" href="$cassio_8c.html#afe0305f2a8b426ca767c7b2f128c53af" title="Send a message on stdout." alt="" coords="173,5,267,32"/>
-<area shape="rect" id="node4" href="$move_8c.html#a4776e05a37b5a43f0e7d74d8703c66b8" title="Line to string." alt="" coords="171,56,269,83"/>
-<area shape="rect" id="node5" href="$move_8c.html#a5d61a3318dc80a3171250974a921055d" title="Print out a move." alt="" coords="317,81,428,108"/>
-<area shape="rect" id="node3" href="$util_8c.html#a24bf37cbb71f6a0ce700fc72741d6016" title="Print local time." alt="" coords="327,5,418,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="version" name="version">
-<area shape="rect" id="node1" title="Print version &amp; copyright." alt="" coords="449,93,513,120"/>
-<area shape="rect" id="node2" href="$eval_8h.html#af47a242961a56b0db18446ebdc2eb3ba" title="Load the evaluation function features&#39; weights." alt="" coords="134,5,215,32"/>
-<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,81,56,108"/>
-<area shape="rect" id="node4" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="299,119,396,145"/>
-<area shape="rect" id="node6" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="293,183,401,209"/>
-<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="136,157,213,184"/>
-<area shape="rect" id="node7" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="104,208,245,235"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="nboard_observer" name="nboard_observer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,124,57"/>
-<area shape="rect" id="node2" href="$nboard_8c.html#a41829799a73bf33d37592a84bda025d0" title=" " alt="" coords="172,5,268,32"/>
-<area shape="rect" id="node3" href="$search_8c.html#a67ebbff0df886828d1dd767a949c7a15" title="Print the current search result." alt="" coords="177,56,263,83"/>
-<area shape="rect" id="node4" href="$move_8c.html#a0ae53ce219676b29cf33f8e7586f75a9" title="Print a move sequence." alt="" coords="318,31,393,57"/>
-<area shape="rect" id="node6" href="$util_8c.html#a0379cb7b898e08489b0dcda99430ef96" title="Print time as &quot;D:HH:MM:SS.CC&quot;." alt="" coords="316,81,395,108"/>
-<area shape="rect" id="node5" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="443,31,529,57"/>
-</map>

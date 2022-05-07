@@ -1,8 +1,0 @@
-<map id="xboard_hint" name="xboard_hint">
-<area shape="rect" id="node1" title="Send a hint." alt="" coords="5,31,93,57"/>
-<area shape="rect" id="node2" href="$move_8c.html#a2ec4fa6e50ff377157eddba43ff1d010" title="Print out a move." alt="" coords="149,5,236,32"/>
-<area shape="rect" id="node3" href="$search_8c.html#a9fa359ba4258797eb3d62436c72a5821" title="Guess the bestmove of a given board." alt="" coords="141,56,244,83"/>
-<area shape="rect" id="node4" href="$board_8c.html#a0e6cff6e714bcb714e2b9b2d7b9fbec6" title="Compute a hash code." alt="" coords="292,31,441,57"/>
-<area shape="rect" id="node5" href="$hash-lock-free_8c.html#a6f54ce833279fec9ac110dcce45565ad" title="Find an hash table entry according to the evaluated board hash codes." alt="" coords="329,81,404,108"/>
-<area shape="rect" id="node6" href="$hash-lock-free_8c.html#aeafd0b4e6665b357afcff5dd30723c15" title="Transform hash data into a 64 bits key." alt="" coords="489,81,567,108"/>
-</map>

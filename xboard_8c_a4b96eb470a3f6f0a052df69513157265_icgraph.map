@@ -1,9 +1,0 @@
-<map id="xboard_stop_analyzing" name="xboard_stop_analyzing">
-<area shape="rect" id="node1" title="Stop analyzing." alt="" coords="879,31,1031,57"/>
-<area shape="rect" id="node2" href="$xboard_8c.html#a213bcf9938dc33b50c60576920dbecda" title="Analyze." alt="" coords="720,5,831,32"/>
-<area shape="rect" id="node3" href="$xboard_8c.html#a6ec4f7e4a6e59e32b5eb95b566f098c8" title="Analyze." alt="" coords="531,31,672,57"/>
-<area shape="rect" id="node4" href="$xboard_8c.html#a1e738267c33be281bdaa0d207837efad" title="Loop event." alt="" coords="375,31,483,57"/>
-<area shape="rect" id="node5" href="$ui_8h.html#ab7845ca6e038f7580063dcb8a41d5713" title="Switch between different User Interface." alt="" coords="249,31,327,57"/>
-<area shape="rect" id="node6" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
-<area shape="rect" id="node7" href="$ui_8h.html#a6b3db62cf8fb3c9cde6f9a2b90ebea28" title="Loop event." alt="" coords="104,31,201,57"/>
-</map>

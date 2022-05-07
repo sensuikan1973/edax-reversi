@@ -1,4 +1,0 @@
-<map id="game_init" name="game_init">
-<area shape="rect" id="node1" title="Create an empty game." alt="" coords="5,5,84,32"/>
-<area shape="rect" id="node2" href="$board_8c.html#a6c63848863d9887a6b400f4bc678f31d" title="Set a board to the starting position." alt="" coords="132,5,211,32"/>
-</map>

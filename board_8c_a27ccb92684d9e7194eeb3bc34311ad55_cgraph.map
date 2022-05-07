@@ -1,9 +1,0 @@
-<map id="board_print" name="board_print">
-<area shape="rect" id="node1" title="Print out the board." alt="" coords="5,56,92,83"/>
-<area shape="rect" id="node2" href="$bit_8c.html#a830fec0a90989da1f1900ff609b92167" title="Count the number of bits set to one in an unsigned long long." alt="" coords="285,5,359,32"/>
-<area shape="rect" id="node4" href="$board_8c.html#a7509639c4e49c56fe83b3d978580ed42" title="Count legal moves." alt="" coords="140,56,231,83"/>
-<area shape="rect" id="node5" href="$board_8c.html#a7610dc936a6aea22b3c5e162f722a7a1" title="Get legal moves." alt="" coords="279,107,365,133"/>
-<area shape="rect" id="node3" href="$generate__flip_8c.html#a1a1d6a2cdbded5c35040f6555e948770" title=" " alt="" coords="449,5,503,32"/>
-<area shape="rect" id="node7" href="$generate__flip_8c.html#a11481f01e169aee1117c83a352c22222" title=" " alt="" coords="587,107,625,133"/>
-<area shape="rect" id="node6" href="$board_8c.html#a5db071e3e4d26a0b7d6425bb6333dd7f" title="Get a part of the moves." alt="" coords="413,157,539,184"/>
-</map>

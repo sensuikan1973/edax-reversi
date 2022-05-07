@@ -1,4 +1,0 @@
-<map id="task_search_destroy" name="task_search_destroy">
-<area shape="rect" id="node1" title="Free a search structure of a task." alt="" coords="5,5,148,32"/>
-<area shape="rect" id="node2" href="$eval_8c.html#a0d216a5fcecd600abd20798da218f730" title="Free resources used by the evaluation function." alt="" coords="196,5,271,32"/>
-</map>

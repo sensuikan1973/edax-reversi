@@ -1,6 +1,0 @@
-<map id="ui_read_input" name="ui_read_input">
-<area shape="rect" id="node1" title="Get an event." alt="" coords="425,5,524,32"/>
-<area shape="rect" id="node2" href="$ui_8c.html#ad00d38af43573bb06f4af5efbc2b9448" title="Read event loop." alt="" coords="247,5,377,32"/>
-<area shape="rect" id="node3" href="$ui_8h.html#ac46c8d1810ef48b5212b2942ca1430e0" title="Create a new Othello User Interface." alt="" coords="104,5,199,32"/>
-<area shape="rect" id="node4" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
-</map>

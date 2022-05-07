@@ -1,6 +1,0 @@
-<map id="is_position_new" name="is_position_new">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,120,83"/>
-<area shape="rect" id="node2" href="$board_8c.html#a8b5bfe9db13bf07894a8bc77e3ebfbbe" title="Compare two board for equality." alt="" coords="197,5,289,32"/>
-<area shape="rect" id="node3" href="$board_8c.html#a0e6cff6e714bcb714e2b9b2d7b9fbec6" title="Compute a hash code." alt="" coords="168,56,317,83"/>
-<area shape="rect" id="node4" href="$hash-lock-free_8c.html#a8e816e06f47bd2f37528bef5ae64cf8d" title="Clear the hashtable." alt="" coords="200,107,285,133"/>
-</map>

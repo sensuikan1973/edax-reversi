@@ -1,5 +1,0 @@
-<map id="find_edge_stable" name="find_edge_stable">
-<area shape="rect" id="node1" title="search stable edge patterns." alt="" coords="277,5,396,32"/>
-<area shape="rect" id="node2" href="$board_8h.html#a68b6e76072dd152d46a26582fcd2ce13" title="Initialize the edge stability tables." alt="" coords="104,5,229,32"/>
-<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="edax main function." alt="" coords="5,5,56,32"/>
-</map>
