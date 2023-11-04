@@ -1540,7 +1540,7 @@ DLL_API int edax_board_is_pass(const Board *board) {
  * @brief Get square color.
  * @return 0 = player, 1 = opponent, 2 = empty;
  */
-DLL_API int board_get_square_color(const Board* board, const int x) {
+DLL_API int edax_board_get_square_color(const Board* board, const int x) {
 	if (g_ui == NULL) return -1;
 	return board_get_square_color(board, x);
 }
