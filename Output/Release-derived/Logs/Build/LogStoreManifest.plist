@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>4F9EE40A-A4E7-410F-ABCE-7C976507FBC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F9EE40A-A4E7-410F-ABCE-7C976507FBC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>162</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>libEdax4i project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>libEdax4i</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Archiving project libEdax4i with scheme libEdax4i</string>
+			<key>timeStartedRecording</key>
+			<real>779542995.40265906</real>
+			<key>timeStoppedRecording</key>
+			<real>779543005.47926497</real>
+			<key>title</key>
+			<string>Archiving project libEdax4i with scheme libEdax4i</string>
+			<key>uniqueIdentifier</key>
+			<string>4F9EE40A-A4E7-410F-ABCE-7C976507FBC9</string>
+		</dict>
+		<key>ADFD61B2-0FA9-4488-826C-DAFC9855DA22</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADFD61B2-0FA9-4488-826C-DAFC9855DA22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>322</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>libEdax4i project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>libEdax4i</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Archiving project libEdax4i with scheme libEdax4i</string>
+			<key>timeStartedRecording</key>
+			<real>779542981.63723099</real>
+			<key>timeStoppedRecording</key>
+			<real>779542994.536502</real>
+			<key>title</key>
+			<string>Archiving project libEdax4i with scheme libEdax4i</string>
+			<key>uniqueIdentifier</key>
+			<string>ADFD61B2-0FA9-4488-826C-DAFC9855DA22</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

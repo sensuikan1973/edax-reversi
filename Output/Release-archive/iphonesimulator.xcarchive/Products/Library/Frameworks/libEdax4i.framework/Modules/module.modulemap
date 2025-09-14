@@ -1,0 +1,6 @@
+framework module libEdax4i {
+  umbrella header "libEdax4i.h"
+  export *
+
+  module * { export * }
+}
