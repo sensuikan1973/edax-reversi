@@ -358,7 +358,7 @@ universal_osx_libbuild:
 # Builds universal iOS dylib supporting both simulator (x86_64) and device (arm64)
 # The universal dylib is created using lipo and preserves platform info per-architecture
 #
-# You should codesign the dylib to bundle iOS app.
+# You should codesign the dylib to bundle iOS app. Ref: https://kan-kikuchi.hatenablog.com/entry/Xcode__Library_Validation
 # example:
 # codesign -f -s "Apple Development: Hoge Fuga (ABCDEF123)" '/path/to/libedax.ios.dylib'
 universal_ios_libbuild:
