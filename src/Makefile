@@ -354,7 +354,7 @@ universal_osx_libbuild:
 	lipo -create -output ../bin/libedax.universal.dylib ../bin/libedax.x64.dylib ../bin/libedax.arm64.dylib
 
 # add for iOS universal binary by libedax4dart. 2025/11/12
-# See: https://blog.kishikawakatsumi.com/entry/2018/12/25/122315
+# Ref: https://blog.kishikawakatsumi.com/entry/2018/12/25/122315
 # Builds universal iOS dylib supporting both simulator (x86_64) and device (arm64)
 # The universal dylib is created using lipo and preserves platform info per-architecture
 #
