@@ -361,7 +361,7 @@ universal_ios_libbuild:
 	$(shell xcrun -find clang) -arch x86_64 -mios-simulator-version-min=16.0 -isysroot $(shell xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -m64 -DUSE_GAS_X64 -DPOPCOUNT -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.x86_64.dylib
 	$(shell xcrun -find clang) -arch arm64 -miphoneos-version-min=16.0 -isysroot $(shell xcrun -sdk iphoneos -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.arm64.dylib
 	xcrun lipo -create -output ../bin/libedax.ios.dylib ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.arm64.dylib
-	install_name_tool -id @rpath/libedax.ios.dylib ../bin/libedax.ios.dylib
+	install_name_tool -id @loader_path/libedax.ios.dylib ../bin/libedax.ios.dylib
 
 pgo-build:
 	@echo "building edax with pgo..."
