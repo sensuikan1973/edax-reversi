@@ -21,7 +21,7 @@ jobs:
           - os: windows-latest
             build_command: make libbuild ARCH=x64 COMP=gcc OS=windows
           - os: macos-latest
-            build_command:
+            build_command: |
               make universal_osx_libbuild
               make universal_ios_libbuild
 
