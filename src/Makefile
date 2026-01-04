@@ -355,7 +355,7 @@ universal_osx_libbuild:
 
 # add for iOS universal binary by libedax4dart. 2025/11/12
 # Ref: https://blog.kishikawakatsumi.com/entry/2018/12/25/122315
-# Builds universal iOS dylib supporting simulator (x86_64 + arm64) and device (arm64)
+# Builds universal iOS dylib supporting simulator (x86_64 Intel + arm64 Apple Silicon) and device (arm64)
 # The universal dylib is created using lipo and preserves platform info per-architecture
 #
 # You should codesign the dylib to bundle iOS app. Ref: https://kan-kikuchi.hatenablog.com/entry/Xcode__Library_Validation
