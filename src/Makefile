@@ -79,7 +79,7 @@ ifeq ($(COMP),gcc)
 	endif
 
 	ifeq ($(OS),osx)
-		# Removed -mmacosx-version-min=10.4 as it's no longer supported by modern gcc
+		CFLAGS += -mmacosx-version-min=10.4
 	endif
 	ifeq ($(OS),windows)
 		CFLAGS += -D__USE_MINGW_ANSI_STDIO -DWINVER=0x501
@@ -124,7 +124,7 @@ ifeq ($(COMP),gcc-old)
 	endif
 
 	ifeq ($(OS),osx)
-		# Removed -mmacosx-version-min=10.4 as it's no longer supported by modern gcc
+		CFLAGS += -mmacosx-version-min=10.4
 	endif
 	ifeq ($(OS),android)
 		CFLAGS += -DANDROID=1
@@ -247,8 +247,7 @@ ifeq ($(COMP),clang)
 	endif
 
 	ifeq ($(OS),osx)
-		# Removed -mmacosx-version-min=10.4 as it's no longer supported; using defaults
-		CFLAGS += -mdynamic-no-pic
+		CFLAGS += -mmacosx-version-min=10.4 -mdynamic-no-pic
 	endif
 endif
 
@@ -346,28 +345,6 @@ build:
 # add for libedax by lavox. 2018/1/16 
 libbuild:
 	$(CC) $(CFLAGS) $(LIBFLAGS) all.c -o $(BIN)/$(LIB) $(LIBS)
-
-# add for Apple Silicon MacOS by sensuikan1973. 2022/05/06
-# See: https://developer.apple.com/documentation/apple-silicon/building-a-universal-macos-binary
-universal_osx_libbuild:
-	clang -target x86_64-apple-macos13.1 -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -m64 -DUSE_GAS_X64 -DPOPCOUNT -mmacosx-version-min=13.1 -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.x64.dylib -lm -lpthread
-	clang -target arm64-apple-macos13.1 -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -mmacosx-version-min=13.1 -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.arm64.dylib -lm -lpthread
-	lipo -create -output ../bin/libedax.universal.dylib ../bin/libedax.x64.dylib ../bin/libedax.arm64.dylib
-
-# add for iOS universal binary by libedax4dart. 2025/11/12
-# Ref: https://blog.kishikawakatsumi.com/entry/2018/12/25/122315
-# Builds universal iOS dylib supporting simulator (x86_64 Intel + arm64 Apple Silicon) and device (arm64)
-# The universal dylib is created using lipo and preserves platform info per-architecture
-#
-# You should codesign the dylib to bundle iOS app. Ref: https://kan-kikuchi.hatenablog.com/entry/Xcode__Library_Validation
-# example:
-# codesign -f -s "Apple Development: Hoge Fuga (ABCDEF123)" '/path/to/libedax.ios.dylib'
-universal_ios_libbuild:
-	clang -arch x86_64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -m64 -DUSE_GAS_X64 -DPOPCOUNT -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.x86_64.dylib -lm -lpthread
-	clang -arch arm64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.simulator.arm64.dylib -lm -lpthread
-	clang -arch arm64 -miphoneos-version-min=15.0 -isysroot $$(xcrun -sdk iphoneos -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.device.arm64.dylib -lm -lpthread
-	lipo -create -output ../bin/libedax.ios.dylib ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.simulator.arm64.dylib ../bin/libedax.ios.device.arm64.dylib
-	install_name_tool -id @loader_path/libedax.ios.dylib ../bin/libedax.ios.dylib
 
 pgo-build:
 	@echo "building edax with pgo..."
