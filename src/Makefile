@@ -362,7 +362,7 @@ universal_osx_libbuild:
 # example:
 # codesign -f -s "Apple Development: Hoge Fuga (ABCDEF123)" '/path/to/libedax.ios.dylib'
 universal_ios_libbuild:
-	clang -arch x86_64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -m64 -DUSE_GAS_X64 -DPOPCOUNT -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.x86_64.dylib -lm -lpthread
+	clang -arch x86_64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.x86_64.dylib -lm -lpthread
 	clang -arch arm64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.simulator.arm64.dylib -lm -lpthread
 	clang -arch arm64 -miphoneos-version-min=15.0 -isysroot $$(xcrun -sdk iphoneos -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.device.arm64.dylib -lm -lpthread
 	lipo -create -output ../bin/libedax.ios.dylib ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.simulator.arm64.dylib ../bin/libedax.ios.device.arm64.dylib
