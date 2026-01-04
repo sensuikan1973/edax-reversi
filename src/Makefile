@@ -355,7 +355,7 @@ universal_osx_libbuild:
 
 # add for iOS universal binary by libedax4dart. 2025/11/12
 # Ref: https://blog.kishikawakatsumi.com/entry/2018/12/25/122315
-# Builds universal iOS dylib supporting both simulator (x86_64) and device (arm64)
+# Builds universal iOS dylib supporting simulator (x86_64 + arm64) and device (arm64)
 # The universal dylib is created using lipo and preserves platform info per-architecture
 #
 # You should codesign the dylib to bundle iOS app. Ref: https://kan-kikuchi.hatenablog.com/entry/Xcode__Library_Validation
@@ -363,8 +363,9 @@ universal_osx_libbuild:
 # codesign -f -s "Apple Development: Hoge Fuga (ABCDEF123)" '/path/to/libedax.ios.dylib'
 universal_ios_libbuild:
 	$(shell xcrun -find clang) -arch x86_64 -mios-simulator-version-min=15.0 -isysroot $(shell xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -m64 -DUSE_GAS_X64 -DPOPCOUNT -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.x86_64.dylib
-	$(shell xcrun -find clang) -arch arm64 -miphoneos-version-min=15.0 -isysroot $(shell xcrun -sdk iphoneos -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.arm64.dylib
-	xcrun lipo -create -output ../bin/libedax.ios.dylib ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.arm64.dylib
+	$(shell xcrun -find clang) -arch arm64 -mios-simulator-version-min=15.0 -isysroot $(shell xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.simulator.arm64.dylib
+	$(shell xcrun -find clang) -arch arm64 -miphoneos-version-min=15.0 -isysroot $(shell xcrun -sdk iphoneos -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.device.arm64.dylib
+	xcrun lipo -create -output ../bin/libedax.ios.dylib ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.simulator.arm64.dylib ../bin/libedax.ios.device.arm64.dylib
 	install_name_tool -id @loader_path/libedax.ios.dylib ../bin/libedax.ios.dylib
 
 pgo-build:
