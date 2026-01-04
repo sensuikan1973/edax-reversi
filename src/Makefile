@@ -355,21 +355,25 @@ universal_osx_libbuild:
 
 # add for iOS universal binary by libedax4dart. 2025/11/12
 # Ref: https://blog.kishikawakatsumi.com/entry/2018/12/25/122315
-# Builds universal iOS dylib supporting simulator (x86_64 Intel + arm64 Apple Silicon) and device (arm64)
+# Builds XCFramework supporting simulator (x86_64 Intel + arm64 Apple Silicon) and device (arm64)
 # Note: lipo cannot combine simulator and device arm64 binaries into one fat binary
-# Creates separate universal binaries:
-#   - libedax.ios.simulator.dylib: Universal binary for iOS Simulator (x86_64 + arm64)
-#   - libedax.ios.device.arm64.dylib: Binary for iOS Device (arm64)
+# Creates XCFramework bundle at ../bin/libedax.ios.xcframework containing:
+#   - Simulator framework: Universal binary (x86_64 + arm64)
+#   - Device framework: Single architecture (arm64)
 #
-# You should codesign the dylibs to bundle iOS app. Ref: https://kan-kikuchi.hatenablog.com/entry/Xcode__Library_Validation
+# You should codesign the framework to bundle iOS app. Ref: https://kan-kikuchi.hatenablog.com/entry/Xcode__Library_Validation
 # example:
-# codesign -f -s "Apple Development: Hoge Fuga (ABCDEF123)" '/path/to/libedax.ios.simulator.dylib'
+# codesign -f -s "Apple Development: Hoge Fuga (ABCDEF123)" '../bin/libedax.ios.xcframework'
 universal_ios_libbuild:
 	clang -arch x86_64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -m64 -DUSE_GAS_X64 -DPOPCOUNT -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.x86_64.dylib -lm -lpthread
 	clang -arch arm64 -mios-simulator-version-min=15.0 -isysroot $$(xcrun -sdk iphonesimulator -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.simulator.arm64.dylib -lm -lpthread
 	clang -arch arm64 -miphoneos-version-min=15.0 -isysroot $$(xcrun -sdk iphoneos -show-sdk-path) -std=c99 -pedantic -W -Wall -Wextra -pipe -D_GNU_SOURCE=1 -Ofast -flto -DNDEBUG -DHAS_CPU_64 -DLIB_BUILD -fPIC -shared all.c -o ../bin/libedax.ios.device.arm64.dylib -lm -lpthread
 	lipo -create -output ../bin/libedax.ios.simulator.dylib ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.simulator.arm64.dylib
-	install_name_tool -id @loader_path/libedax.ios.simulator.dylib ../bin/libedax.ios.simulator.dylib
+	install_name_tool -id @rpath/libedax.dylib ../bin/libedax.ios.simulator.dylib
+	install_name_tool -id @rpath/libedax.dylib ../bin/libedax.ios.device.arm64.dylib
+	rm -rf ../bin/libedax.ios.xcframework
+	xcodebuild -create-xcframework -library ../bin/libedax.ios.simulator.dylib -library ../bin/libedax.ios.device.arm64.dylib -output ../bin/libedax.ios.xcframework
+	rm -f ../bin/libedax.ios.x86_64.dylib ../bin/libedax.ios.simulator.arm64.dylib
 
 pgo-build:
 	@echo "building edax with pgo..."
