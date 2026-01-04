@@ -124,7 +124,7 @@ ifeq ($(COMP),gcc-old)
 	endif
 
 	ifeq ($(OS),osx)
-		CFLAGS += -mmacosx-version-min=10.4
+		# Removed -mmacosx-version-min=10.4 as it's no longer supported by modern gcc
 	endif
 	ifeq ($(OS),android)
 		CFLAGS += -DANDROID=1
