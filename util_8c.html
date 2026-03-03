@@ -84,6 +84,9 @@ $(function(){ initResizable(false); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a47f44aeb99d3c096cf89d7ec2a1c1dee" id="r_a47f44aeb99d3c096cf89d7ec2a1c1dee"><td class="memItemLeft" align="right" valign="top">FILE *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a47f44aeb99d3c096cf89d7ec2a1c1dee">file_open</a> (const char *path, const char *mode)</td></tr>
+<tr class="memdesc:a47f44aeb99d3c096cf89d7ec2a1c1dee"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a file from a UTF-8 path on Windows.  <br /></td></tr>
+<tr class="separator:a47f44aeb99d3c096cf89d7ec2a1c1dee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0379cb7b898e08489b0dcda99430ef96" id="r_a0379cb7b898e08489b0dcda99430ef96"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0379cb7b898e08489b0dcda99430ef96">time_print</a> (long long t, bool justified, FILE *f)</td></tr>
 <tr class="memdesc:a0379cb7b898e08489b0dcda99430ef96"><td class="mdescLeft">&#160;</td><td class="mdescRight">Print time as "D:HH:MM:SS.CC".  <br /></td></tr>
 <tr class="separator:a0379cb7b898e08489b0dcda99430ef96"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -249,6 +252,38 @@ Variables</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>The output file name. </dd></dl>
+
+</div>
+</div>
+<a id="a47f44aeb99d3c096cf89d7ec2a1c1dee" name="a47f44aeb99d3c096cf89d7ec2a1c1dee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47f44aeb99d3c096cf89d7ec2a1c1dee">&#9670;&#160;</a></span>file_open()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">FILE * file_open </td>
+          <td>(</td>
+          <td class="paramtype">const char *</td>          <td class="paramname"><span class="paramname"><em>path</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *</td>          <td class="paramname"><span class="paramname"><em>mode</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Open a file from a UTF-8 path on Windows. </p>
+<p>On Windows, try UTF-8 first, then fallback to current ANSI code page. On other systems, simply call fopen.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">path</td><td>File path. </td></tr>
+    <tr><td class="paramname">mode</td><td>fopen mode. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Open FILE pointer or NULL. </dd></dl>
 
 </div>
 </div>

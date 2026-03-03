@@ -230,6 +230,9 @@ Functions</h2></td></tr>
 <tr class="memitem:a7956b3e723e46662ee50905b2ad92c54" id="r_a7956b3e723e46662ee50905b2ad92c54"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a7956b3e723e46662ee50905b2ad92c54">parse_skip_word</a> (const char *)</td></tr>
 <tr class="memdesc:a7956b3e723e46662ee50905b2ad92c54"><td class="mdescLeft">&#160;</td><td class="mdescRight">Skip word.  <br /></td></tr>
 <tr class="separator:a7956b3e723e46662ee50905b2ad92c54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a575c15d60e4d7f71b4673d911eb64950" id="r_a575c15d60e4d7f71b4673d911eb64950"><td class="memItemLeft" align="right" valign="top">FILE *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a575c15d60e4d7f71b4673d911eb64950">file_open</a> (const char *, const char *)</td></tr>
+<tr class="memdesc:a575c15d60e4d7f71b4673d911eb64950"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a file from a UTF-8 path on Windows.  <br /></td></tr>
+<tr class="separator:a575c15d60e4d7f71b4673d911eb64950"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92fae73c571e2d37ddf8bc6780616332" id="r_a92fae73c571e2d37ddf8bc6780616332"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a92fae73c571e2d37ddf8bc6780616332">path_get_dir</a> (const char *, char *)</td></tr>
 <tr class="memdesc:a92fae73c571e2d37ddf8bc6780616332"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extract the directory of a file path.  <br /></td></tr>
 <tr class="separator:a92fae73c571e2d37ddf8bc6780616332"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -833,6 +836,38 @@ Variables</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>The output file name. </dd></dl>
+
+</div>
+</div>
+<a id="a575c15d60e4d7f71b4673d911eb64950" name="a575c15d60e4d7f71b4673d911eb64950"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a575c15d60e4d7f71b4673d911eb64950">&#9670;&#160;</a></span>file_open()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">FILE * file_open </td>
+          <td>(</td>
+          <td class="paramtype">const char *</td>          <td class="paramname"><span class="paramname"><em>path</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *</td>          <td class="paramname"><span class="paramname"><em>mode</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Open a file from a UTF-8 path on Windows. </p>
+<p>On Windows, try UTF-8 first, then fallback to current ANSI code page. On other systems, simply call fopen.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">path</td><td>File path. </td></tr>
+    <tr><td class="paramname">mode</td><td>fopen mode. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Open FILE pointer or NULL. </dd></dl>
 
 </div>
 </div>

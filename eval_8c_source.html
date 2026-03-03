@@ -407,7 +407,7 @@ $(function(){ initResizable(false); });
 <div class="line"><a id="l00375" name="l00375"></a><span class="lineno">  375</span> </div>
 <div class="line"><a id="l00376" name="l00376"></a><span class="lineno">  376</span>        <span class="comment">// data reading</span></div>
 <div class="line"><a id="l00377" name="l00377"></a><span class="lineno">  377</span>        w = (<span class="keywordtype">short</span>*) malloc(n_w * <span class="keyword">sizeof</span> (*w)); <span class="comment">// a temporary to read packed weights</span></div>
-<div class="line"><a id="l00378" name="l00378"></a><span class="lineno">  378</span>        f = fopen(file, <span class="stringliteral">&quot;rb&quot;</span>);</div>
+<div class="line"><a id="l00378" name="l00378"></a><span class="lineno">  378</span>        f = <a class="code hl_function" href="util_8c.html#a47f44aeb99d3c096cf89d7ec2a1c1dee">file_open</a>(file, <span class="stringliteral">&quot;rb&quot;</span>);</div>
 <div class="line"><a id="l00379" name="l00379"></a><span class="lineno">  379</span>        <span class="keywordflow">if</span> (f == NULL) {</div>
 <div class="line"><a id="l00380" name="l00380"></a><span class="lineno">  380</span>                fprintf(stderr, <span class="stringliteral">&quot;Cannot open %s&quot;</span>, file);</div>
 <div class="line"><a id="l00381" name="l00381"></a><span class="lineno">  381</span>                exit(EXIT_FAILURE);</div>
@@ -985,9 +985,10 @@ $(function(){ initResizable(false); });
 <div class="ttc" id="astructMove_html"><div class="ttname"><a href="structMove.html">Move</a></div><div class="ttdef"><b>Definition</b> move.h:20</div></div>
 <div class="ttc" id="astructMove_html_ab6beddca17d4a566eb1d3df158abcc8c"><div class="ttname"><a href="structMove.html#ab6beddca17d4a566eb1d3df158abcc8c">Move::flipped</a></div><div class="ttdeci">unsigned long long flipped</div><div class="ttdef"><b>Definition</b> move.h:21</div></div>
 <div class="ttc" id="astructMove_html_ae427d8b8ffb4aedb0b8dee18e8ab28c8"><div class="ttname"><a href="structMove.html#ae427d8b8ffb4aedb0b8dee18e8ab28c8">Move::x</a></div><div class="ttdeci">int x</div><div class="ttdef"><b>Definition</b> move.h:22</div></div>
+<div class="ttc" id="autil_8c_html_a47f44aeb99d3c096cf89d7ec2a1c1dee"><div class="ttname"><a href="util_8c.html#a47f44aeb99d3c096cf89d7ec2a1c1dee">file_open</a></div><div class="ttdeci">FILE * file_open(const char *path, const char *mode)</div><div class="ttdoc">Open a file from a UTF-8 path on Windows.</div><div class="ttdef"><b>Definition</b> util.c:78</div></div>
 <div class="ttc" id="autil_8h_html"><div class="ttname"><a href="util_8h.html">util.h</a></div><div class="ttdoc">Miscellaneous utilities header.</div></div>
-<div class="ttc" id="autil_8h_html_a50f4abe6ea5b2f1f5304661e08b46d09"><div class="ttname"><a href="util_8h.html#a50f4abe6ea5b2f1f5304661e08b46d09">fatal_error</a></div><div class="ttdeci">#define fatal_error(...)</div><div class="ttdoc">Display an error message as &quot;FATAL_ERROR : file name : function name : line number : ....</div><div class="ttdef"><b>Definition</b> util.h:349</div></div>
-<div class="ttc" id="autil_8h_html_a6576e6f80131b01ef1bca232282ef26b"><div class="ttname"><a href="util_8h.html#a6576e6f80131b01ef1bca232282ef26b">info</a></div><div class="ttdeci">#define info(...)</div><div class="ttdoc">Display a message.</div><div class="ttdef"><b>Definition</b> util.h:382</div></div>
+<div class="ttc" id="autil_8h_html_a50f4abe6ea5b2f1f5304661e08b46d09"><div class="ttname"><a href="util_8h.html#a50f4abe6ea5b2f1f5304661e08b46d09">fatal_error</a></div><div class="ttdeci">#define fatal_error(...)</div><div class="ttdoc">Display an error message as &quot;FATAL_ERROR : file name : function name : line number : ....</div><div class="ttdef"><b>Definition</b> util.h:350</div></div>
+<div class="ttc" id="autil_8h_html_a6576e6f80131b01ef1bca232282ef26b"><div class="ttname"><a href="util_8h.html#a6576e6f80131b01ef1bca232282ef26b">info</a></div><div class="ttdeci">#define info(...)</div><div class="ttdoc">Display a message.</div><div class="ttdef"><b>Definition</b> util.h:383</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
