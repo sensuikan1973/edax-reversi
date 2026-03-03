@@ -375,7 +375,7 @@ void eval_open(const char* file)
 
 	// data reading
 	w = (short*) malloc(n_w * sizeof (*w)); // a temporary to read packed weights
-	f = fopen(file, "rb");
+	f = file_open(file, "rb");
 	if (f == NULL) {
 		fprintf(stderr, "Cannot open %s", file);
 		exit(EXIT_FAILURE);

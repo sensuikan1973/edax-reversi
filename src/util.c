@@ -52,6 +52,7 @@
 #include <windows.h>
 #include <sys/types.h>
 #include <sys/stat.h>
+#include <wchar.h>
 
 #define fileno _fileno
 
@@ -63,6 +64,71 @@
 #endif
 
 #endif // _WIN32
+
+/**
+ * @brief Open a file from a UTF-8 path on Windows.
+ *
+ * On Windows, try UTF-8 first, then fallback to current ANSI code page.
+ * On other systems, simply call fopen.
+ *
+ * @param path File path.
+ * @param mode fopen mode.
+ * @return Open FILE pointer or NULL.
+ */
+FILE* file_open(const char *path, const char *mode)
+{
+#if defined(_WIN32)
+	FILE *f;
+	int n_path, n_mode;
+	wchar_t *wpath, *wmode;
+
+	if (path == NULL || mode == NULL) return NULL;
+
+	n_path = MultiByteToWideChar(CP_UTF8, MB_ERR_INVALID_CHARS, path, -1, NULL, 0);
+	n_mode = MultiByteToWideChar(CP_ACP, 0, mode, -1, NULL, 0);
+	if (n_path > 0 && n_mode > 0) {
+		wpath = (wchar_t*) malloc(n_path * sizeof(*wpath));
+		wmode = (wchar_t*) malloc(n_mode * sizeof(*wmode));
+		if (wpath != NULL && wmode != NULL
+			&& MultiByteToWideChar(CP_UTF8, MB_ERR_INVALID_CHARS, path, -1, wpath, n_path) > 0
+			&& MultiByteToWideChar(CP_ACP, 0, mode, -1, wmode, n_mode) > 0) {
+			f = _wfopen(wpath, wmode);
+			free(wpath);
+			free(wmode);
+			if (f != NULL) return f;
+		} else {
+			if (wpath) free(wpath);
+			if (wmode) free(wmode);
+		}
+	}
+
+	n_path = MultiByteToWideChar(CP_ACP, 0, path, -1, NULL, 0);
+	n_mode = MultiByteToWideChar(CP_ACP, 0, mode, -1, NULL, 0);
+	if (n_path <= 0 || n_mode <= 0) return NULL;
+
+	wpath = (wchar_t*) malloc(n_path * sizeof(*wpath));
+	wmode = (wchar_t*) malloc(n_mode * sizeof(*wmode));
+	if (wpath == NULL || wmode == NULL) {
+		if (wpath) free(wpath);
+		if (wmode) free(wmode);
+		return NULL;
+	}
+
+	if (MultiByteToWideChar(CP_ACP, 0, path, -1, wpath, n_path) <= 0
+	 || MultiByteToWideChar(CP_ACP, 0, mode, -1, wmode, n_mode) <= 0) {
+		free(wpath);
+		free(wmode);
+		return NULL;
+	}
+
+	f = _wfopen(wpath, wmode);
+	free(wpath);
+	free(wmode);
+	return f;
+#else
+	return fopen(path, mode);
+#endif
+}
 
 #if defined(__unix__) || defined(__APPLE__)
 
