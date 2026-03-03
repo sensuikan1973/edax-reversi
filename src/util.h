@@ -77,6 +77,7 @@ char* parse_skip_word(const char*);
 /*
  * File.
  */
+FILE* file_open(const char*, const char*);
 void path_get_dir(const char*, char*);
 char* file_add_ext(const char*, const char*, char*); 
 bool is_stdin_keyboard(void);

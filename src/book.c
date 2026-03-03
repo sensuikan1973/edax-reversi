@@ -1470,7 +1470,7 @@ void book_new(Book *book, int level, int n_empties)
  */
 void book_load(Book *book, const char *file)
 {
-	FILE *f = fopen(file, "rb");
+	FILE *f = file_open(file, "rb");
 	if (f) {
 		Position p;
 		unsigned int header_edax, header_book;
@@ -1546,7 +1546,7 @@ void book_load(Book *book, const char *file)
  */
 void book_import(Book *book, const char *file)
 {
-	FILE *f = fopen(file, "r");
+	FILE *f = file_open(file, "r");
 	if (f) {
 		PositionArray *a;
 		Position *p, position;
@@ -1592,7 +1592,7 @@ void book_export(Book *book, const char *file)
 	PositionArray *a;
 	Position *p;
 
-	f = fopen(file, "w");
+	f = file_open(file, "w");
 	if (f == NULL) {
 		error("cannot open file %s", file);
 		return;
@@ -1623,7 +1623,7 @@ void book_save(Book *book, const char *file)
 {
 	unsigned int header_edax = EDAX, header_book = BOOK;
 	unsigned char header_version = VERSION, header_release = RELEASE;
-	FILE *f = fopen(file, "wb");
+	FILE *f = file_open(file, "wb");
 	int r;
 	PositionArray *a;
 	Position *p;
